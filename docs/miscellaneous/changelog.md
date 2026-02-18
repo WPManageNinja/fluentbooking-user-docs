@@ -7,6 +7,33 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.0.05
+
+*Released on February 17, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added: File Upload Option in Admin Booking
+• Added: Rate Limit in Meeting Scheduling
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Data Import/Export Security Vulnerability
+• Fixed: User Phone and Address Security Vulnerability
+• Fixed: Multi-field Not Showing in Manual Booking
+• Fixed: Coupon Issue with Multi-Duration Events
+• Fixed: Event Time Not Showing in One-off Event Landing
+• Fixed: Cancelled Booking Report
+```
+
+```markdown [🚀 Improvements]
+• Improved: Minor UI-UX and Dark Mode
+```
+
+:::
+
+
 ## FluentBooking v2.0.0
 
 *Released on January 1, 2026*
