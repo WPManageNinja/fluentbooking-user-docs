@@ -8,7 +8,6 @@ description: Add custom form fields (questions) to your booking flow. Collect gu
 
 With FluentBooking, you can create customized questions for the guests attending your booking events. In this guide, we'll provide you with clear instructions on how to set up these questions for your bookings.
 
-
 ## Manage Booking Questions
 
 To start setting up questions for your booking, go to FluentBooking and click on the **Calendars** on your dashboard. Next, choose the specific booking event you’re interested in and click on **Edit** button.
@@ -28,8 +27,8 @@ You can set and customize the questions for booking cancellations and reschedule
 
 ![Manage Other Questions](/images/host-events/how-to-set-booking-questions/question-settings-scaled.webp)
 
-A pop-up will appear. You can choose the field type, label, and placeholder, and indicate if it's required or not. You can choose this types of field types:**Email, Text, Textarea, Number, Phone, or Dropdown**. Click the **Save** button to save your question.
+A pop-up will appear. You can choose the field type, label, and placeholder, and indicate if it's required or not. You can choose this types of field types: **Email, Text, Textarea, Number, Phone, or Dropdown**. Click the **Save** button to save your question.
 
-![](/images/host-events/how-to-set-booking-questions/update-questions.webp)
+![Save Button](/images/host-events/how-to-set-booking-questions/update-questions.webp)
 
 Lastly, click **Save Changes** to ensure that all your question setups are securely saved. Your booking is now equipped with customized questions. Enjoy!
