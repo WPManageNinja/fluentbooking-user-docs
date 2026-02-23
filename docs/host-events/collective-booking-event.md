@@ -9,7 +9,6 @@ This feature allows you to assign multiple hosts to a single meeting with one cl
 
 In this article, we'll guide you through the step-by-step process of creating a Collective Booking effortlessly.
 
-
 ## Create Collective Booking
 
 To create a Collective Booking, navigate to your Fluent Booking dashboard and click on **Calendar** in the navigation bar.
@@ -32,14 +31,14 @@ Below that, you'll find options for **Meeting Location** and **Timezone**. Custo
 ![Customize Settings](/images/host-events/collective-booking-event/Collective-Meeting-3-scaled.webp)
 
 
-You will now be redirected to the**Booking Event Editor**page, where you can select and customize all the options to make your booking more effective and tailored to your needs.
+You will now be redirected to the **Booking Event Editor** page, where you can select and customize all the options to make your booking more effective and tailored to your needs.
 
-![](/images/host-events/collective-booking-event/Collective-Meeting-4-scaled.webp)
+![Booking Event Editor](/images/host-events/collective-booking-event/Collective-Meeting-4-scaled.webp)
 
 
 ## Availability Settings
 
-From the**Availability**section of the Collective Booking, you can set availability either for each team calendar individually or as a common schedule.
+From the **Availability** section of the Collective Booking, you can set availability either for each team calendar individually or as a common schedule.
 
 ### Availability Range
 
