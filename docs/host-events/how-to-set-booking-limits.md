@@ -5,7 +5,6 @@ description: Control how far ahead guests can book and how many bookings per per
 
 # Set Booking Limits
 
-
 FluentBooking provides a helpful feature to incorporate breaks between your booked events. You can set various limits according to your preferences. This guide explains the limit feature in FluentBooking in more detail.
 
 ### Before the Event
