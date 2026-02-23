@@ -39,7 +39,7 @@ Choose whether to enable a common schedule for your team. If not enabled, the sc
 
 Conversely, if the common schedule is activated, set the availability accordingly. Round Robin common schedule feature will exclude the hosts who are previously booked in any event and the hosts who don't have any booking will be added to this booking.
 
-![](/images/host-events/how-to-set-round-robin-bookings/5.webp)
+![Round Robin Common Schedule](/images/host-events/how-to-set-round-robin-bookings/5.webp)
 
 ## Host Assignment
 
