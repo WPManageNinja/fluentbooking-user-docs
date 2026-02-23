@@ -9,7 +9,6 @@ Managing your scheduling system is simple with FluentBooking. You can update mee
 
 This helps keep your booking page accurate and up to date. With just a few clicks, you can adjust your settings based on your availability and services.
 
-
 ## Edit a Bookings
 
 Go to the **Calendars** menu from the top navigation bar and choose the booking event you want to update. Then, click the **Edit** button next to that event.
@@ -25,9 +24,7 @@ When you're finished making changes, just click the **Save Changes** button to a
 
 ## Deleting or Disabling a Booking
 
-
 To delete or disable your booking event, go to the **Calendars** and choose the booking event you wish to delete or disable. Then, click the vertical **three-dot icon** next to it.
-
 
 Here, you’ll find the **Delete** and **Disable** buttons. Simply click the button that suits your needs, and your event booking will be deleted or disabled accordingly. You’ll also see a **Clone** option here to duplicate the event easily. 
 
