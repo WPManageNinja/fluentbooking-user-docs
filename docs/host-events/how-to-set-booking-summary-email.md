@@ -13,7 +13,7 @@ To set the **Booking Summary**, follow these simple steps:
 
 ### Open Global Settings
 
-Navigate to **Settings** from the FluentBooking dashboard. This will take you to the **Global Settings** page for FluentBooking, where you can configure your **General Settings** for bookings.
+Navigate to **Settings icon** from the FluentBooking dashboard top right side. This will take you to the **Global Settings** page for FluentBooking, where you can configure your **General** Settings for bookings.
 
 ### Summary Email Options
 

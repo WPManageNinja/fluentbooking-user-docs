@@ -34,6 +34,5 @@ Select the option that fits your use case. If you choose **Selected Booking Form
 
 ![Landing page options - All or Selected Booking Forms](/images/host-events/how-to-enable-landing-page-for-your-host/Calendar-Settings-FluentBooking-6-1.webp)
 
-![Choose which booking forms to show on the landing page](/images/host-events/how-to-enable-landing-page-for-your-host/Calendar-Settings-FluentBooking-7-1.webp)
 
 After saving your settings, copy the host’s landing page URL from the calendar or share settings and use it in emails, social posts, or your website. To learn how to add the booking form to a WordPress page or block instead, see [Add your Booking Form to the WordPress site's Front-end](/getting-started/add-your-booking-form-to-the-wordpress-sites-front-end).
