@@ -63,6 +63,20 @@ If you need to add more services or items, click the **Add More Item** button an
 
 ![Payment Settings](/images/payments/how-to-take-payment-in-bookings/Payment-Settings-03-scaled.webp)
 
+## Use FluentCart Checkout (Recommended)
+
+If you want a modern, high-converting checkout experience, use the **FluentCart** integration. You must have the **FluentCart plugin installed and activated** to use this feature.
+
+![FluentCart Plugin Install](/images/payments/how-to-take-payment-in-bookings/fluentcart-payment.webp)
+
+Now, select Use **FluentCart Checkout** from the **Checkout Method** options. Choose from your existing **FluentCart Products**. The booking price will automatically sync with the product price set in FluentCart.
+
+This method allows you to leverage FluentCart’s advanced features like Order Bumps and Coupons. You can also create new product by clciking the **+New** button.
+
+After that, click **Save Changes** button to finalize.
+
+![FluentCart Product](/images/payments/how-to-take-payment-in-bookings/add-fluentcart-products.webp)
+
 ### Use WooCommerce Checkout
 
 If you’d like to use **WooCommerce Checkout** to accept payments for your bookings, you’ll first need to enable the **WooCommerce Addon**.
