@@ -13,64 +13,53 @@ In this article, we’ll guide you through the step-by-step process of creating 
 
 You can use these variables to pass event and invitee information directly into the URL. These parameters allow you to pre-fill the form data:
 
-Date (Format: YYYY-MM-DD)
-
-Month (Format: YYYY-MM)
-
-Invitee Name
-
-Invitee Email
-
-Booking Questions
-
-UTM Source
-
-any Booking Fields
+ - Date (Format: YYYY-MM-DD)
+ - Month (Format: YYYY-MM)
+ - Invitee Name
+ - Invitee Email
+ - Booking Questions
+ - UTM Source
+ - any Booking Fields
 
 ## Generating a Link with Pre-filled Parameters
 
-The easiest way to create these URLs is by using the built-in**Generate Link**feature in your FluentBooking dashboard.
+The easiest way to create these URLs is by using the built-in **Generate Link** feature in your FluentBooking dashboard.
 
-**Access the Booking Calendar:**Go to**Calendars**in your dashboard and locate the specific Booking Event you want to share.
+* **Access the Booking Calendar:** Go to **Calendars** in your dashboard and locate the specific Booking Event you want to share.
+* **Open Sharing Options:** Click the **Share** button associated with that event. A pop-up window will appear.
+* **Select the Generate Link Tab:** Inside the pop-up, click on the **Generate Link** tab.
+* **Choose Page Type:** From the "Page Type" options, select **Landing Page**. This ensures the link directs users to the standalone booking page.
+* **Add Parameters (Field and Value):** In the parameter section, you can map specific data:
+   - **Field:** Select the data point you want to pre-fill (e.g.,*Date*,*Name*, or a*Question*).
+   - **Value:** Enter the specific information you want to appear in that field (e.g.,*2023-11-07*or*John Doe*).
 
-**Open Sharing Options:**Click the**Share**button associated with that event. A pop-up window will appear.
+**Add Multiple Parameters:** If you want to pass multiple pieces of data (for example, both a Date and an Email), click the **Plus (+)** icon to add another row for fields and values.
 
-**Select the Generate Link Tab:**Inside the pop-up, click on the**Generate Link**tab.
-
-**Choose Page Type:**From the "Page Type" options, select**Landing Page**. This ensures the link directs users to the standalone booking page.
-
-**Add Parameters (Field and Value):**In the parameter section, you can map specific data:
-
-- **Field:**Select the data point you want to pre-fill (e.g.,*Date*,*Name*, or a*Question*).
-- **Value:**Enter the specific information you want to appear in that field (e.g.,*2023-11-07*or*John Doe*).
-
-**Add Multiple Parameters:**If you want to pass multiple pieces of data (for example, both a Date and an Email), click the**Plus (+)**icon to add another row for fields and values.
-
-**Copy the Link:**Once configured, click the**Copy**button next to the generated URL.
+**Copy the Link:** Once configured, click the **Copy** button next to the generated URL.
 []
 
-![](/images/miscellaneous/pass-default-booking-information-to-the-url/date-scaled.webp)
+![Copy Link](/images/miscellaneous/pass-default-booking-information-to-the-url/date-scaled-1.webp)
 
-**How it works for the user:**When a visitor clicks this link, the booking form will automatically load with the fields you configured already filled in. For example, if you mapped a specific date, that date will be pre-selected on the calendar when the page loads.
+**How it works for the user:** When a visitor clicks this link, the booking form will automatically load with the fields you configured already filled in. For example, if you mapped a specific date, that date will be pre-selected on the calendar when the page loads.
 
-![](/images/miscellaneous/pass-default-booking-information-to-the-url/url-2-scaled.webp)
+![How Works for user](/images/miscellaneous/pass-default-booking-information-to-the-url/url-2-scaled.webp)
 
 
 #### Understanding the URL Structure
 
 If you prefer to manually construct the URL or understand how the **Generate Link** feature structures it, here is how the parameters are formatted.
 
- * **Locate your Landing Page URL:**A  standard URL looks like this:
+**Locate your Landing Page URL:** A standard URL looks like this:
 
-https://fb.pennito.com/?fluent-booking=calendar&host=reachkamrul&event=60min
+`https://fb.pennito.com/?fluent-booking=calendar&host=reachkamrul&event=60min`
 
- * **Add a Single Parameter (e.g., Date):**Append the & symbol followed by the parameter name and value:
+**Add a Single Parameter (e.g., Date):** Append the & symbol followed by the parameter name and value:
 
-https://fb.pennito.com/?fluent-booking=calendar&host=reachkamrul&event=60min**&date=2023-11-07**
+`https://fb.pennito.com/?fluent-booking=calendar&host=reachkamrul&event=60min&date=2023-11-07`
 
- * **Add Multiple Parameters:**Add & before every new parameter you wish to include:
+**Add Multiple Parameters:** Add & before every new parameter you wish to include:
 
-https://fb.pennito.com/?fluent-booking=calendar&host=reachkamrul&event=60min**&date=2023-11-07**&**invitee_name=Kevin Miller ** &**invitee_email=kevin@wpmanageninja.com**
+`https://fb.pennito.com/?fluent-booking=calendar&host=reachkamrul&event=60min&date=2023-11-07&invitee_name=Kevin Miller&invitee_email=kevin@wpmanageninja.com`
 
 ## Pre-filling Booking Questions
 
@@ -80,7 +69,7 @@ You can also pre-fill answers for custom Booking Questions you have set up for y
 
 In the **Generate Link** tab, look at the **Field** dropdown. Select the specific question you want to answer (e.g., "What is your company website?"). In the **Value** box, type the answer you want to pre-fill. **Copy** the generated URL.
     
-![Booking Questions](/images/miscellaneous/pass-default-booking-information-to-the-url/question-scaled.webp)
+![Booking Questions](/images/miscellaneous/pass-default-booking-information-to-the-url/question-scaled-3.webp)
 
 When the user visits this link, that specific question will already be answered in the form.
 
@@ -94,7 +83,7 @@ Select the specific **UTM parameter** (e.g., utm_source) from the **Field** drop
 
 > For a deeper dive into tracking, please read our documentation on [**UTM Tracking for Bookings**](/miscellaneous/utm-tracking-for-bookings).
 
-![Adding UTM Source Parameters](/images/miscellaneous/pass-default-booking-information-to-the-url/utm-source-scaled.webp)
+![Adding UTM Source Parameters](/images/miscellaneous/pass-default-booking-information-to-the-url/utm-source-scaled-5.webp)
 
 And that’s how you can pass default booking information to the URL! By using these parameters, you can offer a smoother, faster booking experience for your clients.
 
