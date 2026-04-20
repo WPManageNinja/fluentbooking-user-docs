@@ -37,7 +37,7 @@ After a client uses your link to book an appointment, you can view the tracking 
 
 First, navigate to **FluentBooking → Bookings** from your dashboard. Next, click on any booking made with your **UTM** link. Then, check **UTM Information**, the source, medium, and campaign details will be clearly displayed within the booking information.
 
-![Viewing UTM Data in Bookings](/images/miscellaneous/utm-tracking-for-bookings/image-2.png)
+![Viewing UTM Data in Bookings](/images/miscellaneous/utm-tracking-for-bookings/image-2.webp)
 
 Congratulations! You can now track your marketing efforts and understand exactly which channels bring you the most clients.
 
