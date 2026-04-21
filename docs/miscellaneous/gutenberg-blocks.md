@@ -9,7 +9,7 @@ FluentBooking offers an amazing feature for Gutenberg users. It lets you easily 
 
 In this guide, you’ll learn how to add and customize FluentBooking blocks using the Gutenberg editor.
 
-## FluentBooking Blocks
+### FluentBooking Blocks
 
 There are four FluentBooking blocks available in the Gutenberg editor. Here is the list of blocks:
 
@@ -87,9 +87,9 @@ Once everything is set, click **Save** and **Publish** your page. You’ll now s
 
 ## FluentBooking Bookings
 
-The FluentBooking Gutenberg Block is designed for **attendees**. To access the Booking Portal, attendees must be registered users and logged into the site. Once logged in, they can view all their bookings, whether upcoming, completed, canceled, pending, or all together.
+The FluentBooking Gutenberg Block is designed for **attendees**. To access the **Booking Portal**, attendees must be registered users and logged into the site. Once logged in, they can view all their bookings, whether upcoming, completed, canceled, pending, or all together.
 
-To add a **FluentBooking Bookings** block in the Gutenberg editor, open any page where you’d like to display all booking calendars. Click the **Plus (+)** icon to add a new block, then search for **FluentBooking Bookings,** and select it.
+To add a **FluentBooking Bookings** block in the **Gutenberg** editor, open any page where you’d like to display all booking calendars. Click the **Plus(+)** icon to add a new block, then search for **FluentBooking Bookings** and select it.
 
 ![FluentBooking Bookings](/images/miscellaneous/gutenberg-blocks/4.webp)
 
