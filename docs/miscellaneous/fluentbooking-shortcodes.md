@@ -33,6 +33,24 @@ These are the available shortcodes:
 - `[fluent_booking_lists]` — Display bookings for logged-in users
 - `[fluent_booking_panel]` — Embed the booking frontend panel
 
+Use the following shortcodes exactly as needed:
+
+```
+[fluent_booking id="123" theme=dark disable_author=yes]
+```
+```
+[fluent_booking_calendar calendar_id="38" event_ids="68, 79" hide_info=true title="" description="" logo=""]
+```
+```
+[fluent_booking_team event_ids="68, 139, 158, 131, 149" title="", description="",logo_url=""]
+```
+```
+[fluent_booking_lists title="", filter="show", pagination="show" period="upcoming" per_page=10 no_bookings="No bookings found"]
+```
+```
+[fluent_booking_panel]
+```
+
 
 ### Adding a Booking Event
 

@@ -9,7 +9,7 @@ FluentBooking offers the perfect solution for effortless and hassle-free booking
 
 ## Schedule Anything, Anywhere
 
-FluentBooking handles various scheduling needs beautifully, whether you are a solo consultant or a large team. You can create multiple calendars per user with unique public slugs. Supported event types include **One-to-One sessions**, **Group events**, and **team-based scheduling**, such as **[Round Robin](/host-events/how-to-set-round-robin-bookings.html#set-round-robin-bookings)** and **[Collective bookings](/host-events/collective-booking-event.html#create-collective-booking)**.
+FluentBooking handles various scheduling needs beautifully, whether you are a solo consultant or a large team. You can create multiple calendars per user with unique public slugs. Supported event types include **One-to-One sessions**, **Group events**, and **team-based scheduling**, such as **[Round Robin](/host-events/how-to-set-round-robin-bookings#set-round-robin-bookings)** and **[Collective bookings](/host-events/collective-booking-event#create-collective-booking)**.
 
 ### Total Control Over Your Availability
 

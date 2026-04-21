@@ -28,7 +28,7 @@ Now, click the **Install** button and the **FluentBooking** plugin will be succe
 Finally, to activate, click on the **Activate** button.
 
 
-But, you need the **License key** to activate all the **FluentBooking** features successfully. To learn how to activate the license key, read this [Documentation](/getting-started/how-to-install-activate-fluent-booking.html#activating-the-license-key)
+But, you need the **License key** to activate all the **FluentBooking** features successfully. To learn how to activate the license key, read this [Documentation](/getting-started/how-to-install-activate-fluent-booking#activating-the-license-key)
 
 
 ![Active button](/images/getting-started/install-activate-and-update-fluentbooking/Active-button-scaled.webp)

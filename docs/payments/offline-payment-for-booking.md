@@ -11,7 +11,7 @@ You can let your users choose offline payment in FluentBooking. With this option
 
 ## Enable Offline Payment
 
-> Before proceeding, make sure the main [Global Payment Module](/payments/how-to-take-payment-in-bookings.html#enable-the-global-payment-module) is enabled from **Payment Setting**.
+> Before proceeding, make sure the main [Global Payment Module](/payments/how-to-take-payment-in-bookings#enable-the-global-payment-module) is enabled from **Payment Setting**.
 
 Go to the WordPress admin dashboard, navigate to **FluentBooking > Settings**, and select **Offline Payment**. Now, check on the **Enable Offline Payment for Booking Payment** to enable the Offline Payment options.
 
