@@ -3,7 +3,7 @@ title: Create and Manage Payment Coupons
 description: Offer discounts on paid events. Enable coupons, create codes, and run promotions in FluentBooking Pro.
 ---
 
-# How to Create and Manage Payment Coupons
+# Create and Manage Payment Coupons
 
 The Coupons feature in **FluentBooking Pro** allows you to offer discounts for your paid events. Creating and managing coupons is an excellent way to run promotional campaigns, reward loyal clients, or boost bookings during slow periods. This guide will walk you through enabling the feature and creating your first coupon.
 
