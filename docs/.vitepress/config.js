@@ -155,7 +155,7 @@ export default defineConfig({
     nav: [
       { text: 'User Docs', link: '/' },
       { text: 'Dev Docs', link: 'https://fluentbooking.com', target: '_blank' },
-      { text: 'Changelog', link: '/miscellaneous/changelog' },
+      { text: 'Changelog', link: '/changelog' },
       { text: 'Website', link: 'https://fluentbooking.com', target: '_blank' },
     ],
     sidebar,

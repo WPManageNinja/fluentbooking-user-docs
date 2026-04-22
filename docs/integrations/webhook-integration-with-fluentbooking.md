@@ -13,11 +13,7 @@ Select the **Booking Calendars** from the FluentBooking dashboard. Go to the par
 
 ![Steps to Configure Webhook](/images/integrations/webhook-integration-with-fluentbooking/image-1.webp)
 
-On the left sidebar, you will see the **Webhook Feeds** for this particular booking. Select it.
-
-![Weebhook Feed](/images/integrations/webhook-integration-with-fluentbooking/image-2.webp)
-
-Now, click on the **Add New Webhook** button.
+On the left sidebar, you will see the **Webhook Feeds** for this particular booking. Next,click on the **Add New Webhook** button.
 
 ![Add New Webhook](/images/integrations/webhook-integration-with-fluentbooking/image-3.webp)
 

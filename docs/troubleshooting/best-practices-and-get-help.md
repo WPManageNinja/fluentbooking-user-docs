@@ -31,7 +31,7 @@ When you need more support:
 
 - **Documentation:** Use the search bar (⌘K) or browse the sidebar to find step-by-step guides for installation, events, payments, integrations, and more.
 - **FluentBooking website:** Visit [fluentbooking.com](https://fluentbooking.com) for product information, updates, and support options.
-- **Changelog:** See the [Changelog](/miscellaneous/changelog) for the latest fixes, improvements, and new features.
+- **Changelog:** See the [Changelog](/changelog) for the latest fixes, improvements, and new features.
 - **Direct support:** If your issue isn’t resolved by the docs or this troubleshooting section, reach out through the **[support team](/https://wpmanageninja.com/account/)** provided on the WPMangeNinja website.
 
 We recommend having your WordPress version, FluentBooking version, and a short description of the issue and steps to reproduce ready when contacting support.
