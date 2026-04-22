@@ -35,6 +35,9 @@ After clicking **View Details**, you can easily delete completed bookings. Simpl
 
 ![Latest Bookings](/images/bookings/booking-details/Latest-Bookings-scaled.webp)
 
+**Cancelled Bookings:** If a meeting is revoked by either the host or the guest, it will be moved to the **Cancelled** section. You can view the meeting time, participant names, and even payment statuses for these events. To review the reason for cancellation or additional participant notes, simply click the **View Details** button.
+
+![Cancelled](/images/bookings/booking-details/cancelled.webp)
 
 **All Bookings:** For a comprehensive view of your booking details, the **All** section is where you'll find everything neatly organized.
 
@@ -71,7 +74,7 @@ Along with the **Invitee** and **Meeting** information, you will have 360-degree
 
 You will also find the source of the booking if it came from any of your **Fluent Form** entries. Also, if you have this contact in the **FluentCRM** contact list, it will show the contact information on the sidebar.
 
-![Bookings In Details](/images/bookings/booking-details/Booking-In-Details-.png)
+![Bookings In Details](/images/bookings/booking-details/Booking-In-Details-.webp)
 
 ## Manual Confirmation Email Sending
 
@@ -81,13 +84,13 @@ To do this, go to the **Bookings** section from the top navigation bar. Look for
 
 From the dropdown menu, click on **Send Confirmation Email**. Once you click it, the email will be sent again to the attendee automatically. You’ll also see a message confirming that the email was successfully sent.
 
-![Manual Confirmation ](/images/bookings/booking-details/unnamed1.webp)
+![Manual Confirmation ](/images/bookings/booking-details/Manual-confirmation.webp)
 
 ## Mark as Completed
 
 If you want to manually mark a booking as completed, simply click on the **Mark As Completed** option for that booking. Once selected, the status will update, and the booking will appear under the **Completed** Bookings section.
 
-![Mark as Completed](/images/bookings/booking-details/image-12.png)
+![Mark as Completed](/images/bookings/booking-details/mark-as-complete-12.webp)
 
 ## Appointment Rebook
 
@@ -95,7 +98,7 @@ You can easily rebook an appointment for an attendee, and all the information fi
 
 To do this, go to the **Bookings** section and select the meeting you want to rebook. You’ll see the **Rebook** option. Just click on it, and the rebooking form will open with the previous details already filled in.
 
-![Appointment Rebook](/images/bookings/booking-details/unnamed-2.webp)
+![Appointment Rebook](/images/bookings/booking-details/revoke-13.webp)
 
 ## Reschedule the Booking
 
@@ -103,17 +106,17 @@ If you need to reschedule a booking for an attendee, go to the **Bookings** sect
 
 You’ll be automatically redirected to the booking schedule page, where you can choose a new date and time for the attendee’s appointment.
 
-![Reschedule the Booking](/images/bookings/booking-details/unnamed-3.webp)
+![Reschedule the Booking](/images/bookings/booking-details/reshedule-14.webp)
 
 ## Cancel or Delete a Booking
 
 If you want to delete an attendee’s booking, click on the **Delete** option.
 
-![Cancel or Delete a Booking](/images/bookings/booking-details/unnamed-5.webp)
+![Cancel or Delete a Booking](/images/bookings/booking-details/cancel-or-delete-15.webp)
 
 A confirmation pop-up will appear. Just click **Yes, Delete** button to confirm and remove the booking.
 
-![Delete Button](/images/bookings/booking-details/unnamed-6.webp)
+![Delete Button](/images/bookings/booking-details/delete-button-16.webp)
 
 To cancel a booking instead, click on the **Cancel** option. This will mark the booking as canceled without deleting it. For more details on how to cancel a booking, be sure to check out the related [article](/bookings/how-to-cancel-a-booking).
 
