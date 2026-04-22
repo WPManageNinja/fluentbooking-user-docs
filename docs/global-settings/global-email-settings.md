@@ -38,7 +38,7 @@ The **Email Settings** section lets you configure how emails are sent from Fluen
 - **Include ICS File Attachment in Booking Confirmation Email**: Enable this to attach an **.ics (calendar)** file to confirmation emails, allowing guests to easily add the booking to their calendars.
 - **Email Footer for Booking-Related Emails**: Customize the footer text that appears at the bottom of all booking-related emails.
 
-![Email Settings](/images/global-settings/global-email-settings/General-Settings-4.webp)
+![Email Settings](/images/global-settings/global-email-settings/General-Settings-email-setting-2.webp)
 
 ### Theme
 
@@ -50,7 +50,7 @@ In the **Theme** settings, you can choose how your booking page appears to users
 
 This allows you to create a more personalized and accessible experience for your users.
 
-![Theme](/images/global-settings/global-email-settings/General-Settings-5.webp)
+![Theme](/images/global-settings/global-email-settings/General-Settings-theme-3.webp)
 
 You've successfully configured your global settings, creating a more consistent booking experience.
 
