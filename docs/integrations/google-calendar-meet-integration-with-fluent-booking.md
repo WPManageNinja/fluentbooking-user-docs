@@ -17,21 +17,23 @@ Unlike any other WordPress appointment plugin, we have a default verified app to
 
 To use this, go to **Settings** and switch to **Google Calendar/Meet**. Then, choose **Default Verified App** and set your caching time. The recommended setting is 5 minutes however, you can set any duration.
 
-![fluentbooking google calendar integration](/images/integrations/google-calendar-meet-integration-with-fluent-booking/Screenshot-2023-11-24-at-7.55.52_PM.webp)
+![fluentbooking google calendar integration](/images/integrations/google-calendar-meet-integration-with-fluent-booking/fluentbooking-global-setting-1.webp)
 
-In the **Calendars** section, select the host you want to sync booking events for on Google Calendar/Meet. If you don't have a host, check out our [documentation](/host-events/how-to-create-a-new-host) for guidance on creating one. Now, go to the **Host Settings > Remote Calendar** of that host and click **Connect with Google Calendar/Meet**.
+In the **Calendars** section, select the host you want to sync booking events for on Google Calendar/Meet. If you don't have a host, check out our [Documentation](/host-events/how-to-create-a-new-host) for guidance on creating one. 
+
+Now, go to the **Host Settings > Remote Calendar** of that host and click **Connect with Google Calendar/Meet**.
 
 To sync your host's FluentBooking events with their Google Calendar/Meet, add your host's Google Account.
 
-![fluentbooking google calendar integration](/images/integrations/google-calendar-meet-integration-with-fluent-booking/Screenshot-2023-11-24-at-8.00.50_PM.webp)
+![fluentbooking google calendar integration](/images/integrations/google-calendar-meet-integration-with-fluent-booking/connect-with-google-calendar-2.webp)
 
 Then, give FluentBooking the necessary permissions and click the **Continue** button.
 
-![fluentbooking google calendar permissions](/images/integrations/google-calendar-meet-integration-with-fluent-booking/Screenshot-2023-11-24-at-8.02.49_PM.webp)
+![fluentbooking google calendar permissions](/images/integrations/google-calendar-meet-integration-with-fluent-booking/permission-3.webp)
 
 That's it, that's all you need to integrate Google Calendar with FluentBooking! Now you can choose your calendar and check conflicts to prevent double bookings.
 
-![conflict checking](/images/integrations/google-calendar-meet-integration-with-fluent-booking/Screenshot-2023-11-24-at-8.08.05_PM-1.webp)
+![conflict checking](/images/integrations/google-calendar-meet-integration-with-fluent-booking/remote-calendar-sync-settings-4.webp)
 
 
 ## Own App (Not Recommended)
@@ -75,7 +77,7 @@ Here you will see four steps to complete the OAuth consent screen. In the first 
 
 You can simply **Save and Continue** the other three steps.
 
-![](/images/integrations/google-calendar-meet-integration-with-fluent-booking/Edit-app-registration-_-APIs-Services-_-Fluent-Booking-Test-_-Google-Cloud-console-7.webp)
+![Save & Continue](/images/integrations/google-calendar-meet-integration-with-fluent-booking/Edit-app-registration-_-APIs-Services-_-Fluent-Booking-Test-_-Google-Cloud-console-7.webp)
 
 After completing the above steps you have to publish the app. Just click on the **Publish App** button.
 
