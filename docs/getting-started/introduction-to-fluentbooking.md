@@ -1,5 +1,6 @@
 ---
 title: Introduction to FluentBooking
+description: FluentBooking is a fast, native WordPress scheduling plugin for appointments, meetings, webinars, and team events—with calendar sync, payments, and deep integrations.
 ---
 
 # Introduction to FluentBooking
