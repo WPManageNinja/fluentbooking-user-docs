@@ -15,21 +15,21 @@ To integrate Zoom with FluentBoooking you need to follow some straightforward st
 
 ## Setting Up Zoom Integration
 
-To connect your FluentBooking with Zoom you need some credentials. First, go to your [Zoom Marketplace](https://marketplace.zoom.us/)and log in or create a new account.
+To connect your FluentBooking with Zoom you need some credentials. First, go to your [Zoom Marketplace](https://marketplace.zoom.us/) and log in or create a new account.
 
 ## Create Zoom App
 
-You have to create a Zoom App in order to get the credentials for the integration. On the top right side, you will find the**Develop**button hover over the button and you will find the**Build App**option click on it.
+You have to create a Zoom App in order to get the credentials for the integration. On the top right side, you will find the **Develop** button hover over the button and you will find the **Build App** option click on it.
 
 ![Create Zoom App](/images/integrations/zoom-integration-with-fluentbooking/Zoom-app-building-scaled.webp)
 
 Here you need to select the app type **Server-to-Sever OAuth App** then click on the **Create** button.
 
-![Create App](/images/integrations/zoom-integration-with-fluentbooking/zoom-server-selection-scaled.webp)
+![Create App](/images/integrations/zoom-integration-with-fluentbooking/zoom-server-selection-scaled-2.webp)
 
 Now give a name to your App then click on the **Create** button.
 
-![Create Button](/images/integrations/zoom-integration-with-fluentbooking/Zoom-app-name--scaled.webp)
+![Create Button](/images/integrations/zoom-integration-with-fluentbooking/Zoom-app-name--scaled-3.webp)
 
 ### App Credentials
 
@@ -64,27 +64,25 @@ From **Meeting** go to **View and manage all user meetings** and select these th
  - ***Update a Meeting (meeting:update:meeting:admin)***
  - ***Create a meeting for a user (meeting:write:meeting:admin)***
 
-![Zoom Scope Adding](/images/integrations/zoom-integration-with-fluentbooking/Zoom-scope-adding-2-scaled.webp)
-
 From **User** go to **View all User information** then select '***View a user (user:read:user:admin)'.***
 
-![View all User information](/images/integrations/zoom-integration-with-fluentbooking/Zoom-Scope-adding--scaled.webp)
+![Zoom Scope Adding](/images/integrations/zoom-integration-with-fluentbooking/Zoom-scope-adding-2-scaled.webp)
 
 ### Activation
 
 Once you have completed the above steps the Activation step will come. Simply click on the **Activate your app** button. This completes the process of creating a Zoom app.
 
-![Activation](/images/integrations/zoom-integration-with-fluentbooking/6.webp)
+![Activation](/images/integrations/zoom-integration-with-fluentbooking/activation-6.webp)
 
 ## Configuring Zoom With FluentBooking
 
 After creating the Zoom app properly now you can connect your Zoom with FluentBooking. Go to FluentBooking Dashboard and navigate to **Settings > Zoom** and you will see the button **Connect Your Zoom Account** click on the button.
 
-![Configuring Zoom With FluentBooking](/images/integrations/zoom-integration-with-fluentbooking/7.webp)
+![Configuring Zoom With FluentBooking](/images/integrations/zoom-integration-with-fluentbooking/configure-zoom-7.webp)
 
 Now a popup will appear paste your **copied** Zoom App **credentials** here and click on **Save & Validate Credentials.**
 
-![Save & Validate Credentials](/images/integrations/zoom-integration-with-fluentbooking/8.webp)
+![Save & Validate Credentials](/images/integrations/zoom-integration-with-fluentbooking/validate-8.webp)
 
 FluentBooking and Zoom are successfully connected, you can see the connected host here. If you want to connect another user account of FluentBooking with Zoom click the **Add New User Account** button.
 
