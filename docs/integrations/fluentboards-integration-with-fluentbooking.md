@@ -35,13 +35,13 @@ Now, here you need to map your FluentBoards Integration Feed to add a Task from 
 
 After everything is done, click on the**Save Feed**button to save this FluentBoards Integration Feed.
 
-![Configure FluentBoards Integration Feed](/images/integrations/fluentboards-integration-with-fluentbooking/unnamed-1-05-12-2025_10_45_AM.webp)
+![Configure FluentBoards Integration Feed](/images/integrations/fluentboards-integration-with-fluentbooking/configure-fluentboard-3.webp)
 
 Your task will be automatically generated upon form submission and placed into the board and stage you’ve chosen.
 
 You can easily disable, enable, edit, and delete the task by clicking the icon.
 
-![Edit or Delete icons](/images/integrations/fluentboards-integration-with-fluentbooking/unnamed.webp)
+![Edit or Delete icons](/images/integrations/fluentboards-integration-with-fluentbooking/edit-or-delete-4.webp)
 
 ## Viewing the Boards in FluentBoards
 
