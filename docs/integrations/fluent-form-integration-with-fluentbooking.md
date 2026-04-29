@@ -29,8 +29,6 @@ Once you add the action hook field, you can customize it by hovering over it and
 
 You will find various settings options for customizing the field. Located in the **Input Customization Tab**, these options allow you to configure essential aspects of the **FluentBooking** input field.
 
-**All the Settings under the FluentBooking Field mentioned above are briefly explained below –**
-
  * **A. Element Label:** This is the field title users will see when filling out the **FluentBooking** field in a form. You can enter any text here to help users understand the field's purpose.
  * **B. Admin Field Label:** The admin field label is a field title displayed only to admin users. You can configure this option to show a different field label for your admin users when they view the form submissions.
  * **C. Select Calendar:** Choose a calendar from the dropdown. The calendar must be created using the **FluentBooking** plugin.
