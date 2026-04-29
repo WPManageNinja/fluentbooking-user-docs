@@ -64,7 +64,8 @@ From **Meeting** go to **View and manage all user meetings** and select these th
  - ***Update a Meeting (meeting:update:meeting:admin)***
  - ***Create a meeting for a user (meeting:write:meeting:admin)***
 
-From **User** go to **View all User information** then select '***View a user (user:read:user:admin)'.***
+From **User** go to **View all User information** then select-
+ - ***View a user (user:read:user:admin).***
 
 ![Zoom Scope Adding](/images/integrations/zoom-integration-with-fluentbooking/Zoom-scope-adding-2-scaled.webp)
 
