@@ -11,7 +11,7 @@ Follow the steps below to set up the integration and start syncing your booking 
 
 ## Enabling Nextcloud Calendar
 
-To enable Nextcloud Calendar go to your FluentBooking **Settings** and here you will find your **Nextcloud Calendar** settings in the left sidebar. Now click on the Checkbox to enable the **Nextcloud Calendar.** Also, you have to give here the **Nextcloud CalDav Primary URL**.
+To enable Nextcloud Calendar go to your FluentBooking **Settings** and here you will find your **Nextcloud Calendar** settings in the left sidebar. Now click on the Checkbox to enable the **Nextcloud Calendar.** Also, you have to give here the **Nextcloud CalDav Primary URL** and set the **caching time** from the dropdown option.
 
 ![Enabling Nextcloud Calendar](/images/integrations/nextcloud-calendar-integration-with-fluentbooking/enable-nextcloud-calendar-1.webp)
 
