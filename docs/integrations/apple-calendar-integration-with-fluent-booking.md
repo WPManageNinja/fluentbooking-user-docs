@@ -9,7 +9,7 @@ You can easily integrate your Apple Calendar with FluentBooking without any hass
 
 ## Enable Apple Calendar Integration
 
-Go to your **Settings** first then select the **Apple Calendar** from the left sidebar. Enable the **Apple Calendar**, and set the caching time to 5-10 minutes for optimal performance. Click the **Save Settings** button.
+Go to your **Settings** first then select the **Apple Calendar** from the left sidebar. Enable the **Apple Calendar**, and set the caching time to 5-10 minutes for optimal performance. Click the **Save Settings** button. Also, you can set the **caching time** from the dropdown option
 
 ![Enable Apple Calendar](/images/integrations/apple-calendar-integration-with-fluent-booking/enable-apple-calendar-1.webp)
 

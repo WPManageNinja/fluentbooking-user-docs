@@ -83,7 +83,7 @@ const sidebar = [
       { text: 'Zoom', link: '/integrations/zoom-integration-with-fluentbooking' },
       { text: 'Outlook Calendar', link: '/integrations/outlook-calendar-integration-with-fluent-booking' },
       { text: 'Apple Calendar', link: '/integrations/apple-calendar-integration-with-fluent-booking' },
-      { text: 'Nextcloud Calendar', link: '/integrations/next-cloud-calendar-integration-with-fluent-booking' },
+      { text: 'Nextcloud Calendar', link: '/integrations/nextcloud-calendar-integration-with-fluentbooking' },
       { text: 'FluentCRM', link: '/integrations/fluentcrm-integration-with-fluentbooking' },
       { text: 'Fluent Forms', link: '/integrations/fluent-form-integration-with-fluentbooking' },
       { text: 'FluentBoards', link: '/integrations/fluentboards-integration-with-fluentbooking' },
