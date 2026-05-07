@@ -137,6 +137,7 @@ const sidebar = [
 
 export default defineConfig({
   base: '/',
+  srcDir: 'docs',
   cleanUrls: true,
   title: 'FluentBooking',
   description: 'The Ultimate WordPress Solution for Appointment Booking',
