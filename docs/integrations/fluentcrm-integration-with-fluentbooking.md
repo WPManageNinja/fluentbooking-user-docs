@@ -32,7 +32,7 @@ On the event edit page, go to the left sidebar and select **Integrations**. Now 
 You can customize your integration feed using the following settings:
 
  * **Feed Name:** Assign a unique title to your integration feed for easy identification.
- * **Map Primary Fields:** Align your FluentCRM Fields (Email Address, First Name, Last Name) with the corresponding Booking Fields (e.g., {{guest.first_name}}, {{guest.last_name}}).
+ * **Map Primary Fields:** Align your FluentCRM Fields (Email Address, First Name, Last Name) with the corresponding Booking Fields (e.g., <span v-pre>`{{guest.first_name}}`</span>, <span v-pre>`{{guest.last_name}}`</span>).
 
 ![Customize your Integration](/images/integrations/fluentcrm-integration-with-fluentbooking/mapping-field-4.webp)
 
