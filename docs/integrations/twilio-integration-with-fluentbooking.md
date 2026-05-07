@@ -5,10 +5,10 @@ description: Send booking notifications via SMS and WhatsApp with Twilio. Connec
 
 # Twilio/SMS/WhatsApp Integration with FluentBooking
 
-[Twilio](https://www.twilio.com/en-us) is a powerful communication platform that allows messaging and other communication methods into their systems and applications.FluentBooking integrates with Twilio to send notifications via SMS/WhatsApp for booking events.
+[Twilio](https://www.twilio.com/en-us) is a powerful communication platform that allows messaging and other communication methods into their systems and applications. FluentBooking integrates with Twilio to send notifications via SMS/WhatsApp for booking events.
 
 
-This guide explains how to integrate Twilio with FluentBooking to send event notifications via SMS and WhatsApp.
+This guide explains how to integrate **Twilio with FluentBooking** to send event notifications via SMS and WhatsApp.
 
 
 ## Configure FluentBooking Integration with Twilio/SMS
