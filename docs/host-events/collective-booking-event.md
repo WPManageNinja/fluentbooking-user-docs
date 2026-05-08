@@ -57,5 +57,3 @@ Finally, click the **Save Settings** button to apply the changes to your Collect
 
 ![Choose Host Schedule](/images/host-events/collective-booking-event/Collective-Meeting-5-scaled.webp)
 
-
-And that’s how you can create a collective booking! If you have any further questions, concerns, or suggestions about this documentation, please don’t hesitate to reach [out to us](https://wpmanageninja.com/support-tickets/). We’re here to help!

@@ -24,15 +24,32 @@ Once you've found it, click the **Edit** button next to it to open the settings 
 
 ![ Set up Email Notification](/images/host-events/how-to-set-email-notifications-for-a-booking/edit-icon-01-scaled.webp)
 
-A new page will appear. Next, click on the **Email Notification** section from the left side bar.
+On the event edit page, click **Email Notification** from the left sidebar. This opens the **Email Notification Settings** panel, which is divided into two sections.
 
-Here, you will find some default notification templates already set up for you. Some notifications are meant for the 'Organizer' and some for the 'Attendee'. You can easily turn **on** or **off** the notifications you'd like to receive or send.
+**Notification Settings** — covers the core booking lifecycle emails:
 
-![Email Notification](/images/host-events/how-to-set-email-notifications-for-a-booking/email-notification-02-scaled.webp)
+- **Booking Confirmation Email to Attendee**
+- **Booking Confirmation Email to Organizer (You)**
+- **Configure Meeting Reminder to Attendee** *(disabled by default)*
+- **Configure Meeting Reminder to Organizer (You)** *(disabled by default)*
+- **Booking Cancelled by Attendee (email to Organizer)**
+- **Booking Cancelled by Organizer (email to Attendee)**
+- **Booking Rescheduled by Attendee (email to Organizer)**
+- **Booking Rescheduled by Organizer (email to Attendee)**
+
+**Other Notifications** — covers approval and decline workflows:
+
+- **Booking Approval Request to Host (email to Organizer)**
+- **Booking Submission Confirmation (email to Attendee)**
+- **Booking Declined by Organizer (email to Attendee)**
+
+Each notification row has an **Edit** button to customise the template and a toggle to enable or disable it individually.
+
+![Email Notification Settings showing Notification Settings and Other Notifications sections](/images/host-events/how-to-set-email-notifications-for-a-booking/email-notification-02-scaled.webp)
 
 ## Customization Notification Settings
 
-Want to add a personal touch to your notifications? Click the**Edit**icon, and a pop-up will appear, allowing you to customize the email’s subject and content.
+Want to add a personal touch to your notifications? Click the **Edit** icon, and a pop-up will appear, allowing you to customize the email’s subject and content.
 
 ![Customization Notification Settings](/images/host-events/how-to-set-email-notifications-for-a-booking/enable-notificstion-scaled.webp)
 

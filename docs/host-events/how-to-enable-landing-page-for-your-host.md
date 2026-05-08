@@ -5,8 +5,6 @@ description: Give your host a shareable booking URL. Enable the landing page and
 
 # How to Enable Landing Page for Your Host
 
-## Introduction
-
 A **Landing Page** gives your host a single, shareable URL where visitors can view and book your events. Instead of embedding the booking form on a specific WordPress page, you can share this link anywhere—email, social media, or your website—and anyone with the link can see your host profile and available booking options.
 
 This guide walks you through enabling the landing page for a host and choosing which booking forms appear on it.

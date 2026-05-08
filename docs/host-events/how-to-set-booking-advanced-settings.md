@@ -91,6 +91,3 @@ By enabling the **Always** option, attendees will not be able to reschedule a me
 You can add or change the slug of your event landing page URL using this option. Click on the **Edit** button and then enter the desired slug in the **Slug Field** to update.
 
 ![Landing Page Settings](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-8.webp)
-
-
-If you have any questions about Booking Advanced Settings, please feel free to [contact us](https://wpmanageninja.com/account/dashboard/).
