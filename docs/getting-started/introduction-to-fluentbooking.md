@@ -62,6 +62,8 @@ Upgrade to **FluentBooking Pro** to unlock:
 
 Connect FluentBooking to the rest of your stack and let it run on autopilot:
 
+See **[Integrations Overview](/integrations/integrations-overview)** for a full setup map and links to every integration guide.
+
 - **FluentCRM** — auto-tag contacts, trigger sequences, and segment by event.
 - **Fluent Forms** — capture richer booking data with conditional fields.
 - **FluentBoards** — turn bookings into project tasks.

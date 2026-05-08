@@ -17,15 +17,11 @@ In this guide, we'll provide you with step-by-step instructions to create new bo
 Before creating a new event, make sure you've already created a [host](/host-events/how-to-create-a-new-host). You need at least one host to set up a booking event.
 :::
 
-
 To create a new event, go to the **Calendars** section from the top navigation bar in your FluentBooking dashboard. Click on the **New Event Type** button located next to the **Host Section**.
-
 
 ![Create a New Event](/images/host-events/how-to-create-new-events/Create-Event-scaled.webp)
 
-
 ## Choose Events Type
-
 
 A pop-up will appear, giving you the choice between a **One-to-One** meeting or a **Group** meeting. Select your preferred meeting type.
 
@@ -36,7 +32,7 @@ A pop-up will appear, giving you the choice between a **One-to-One** meeting or 
 ## Events Details
 
 
-Here, you have to give the information about your booking event in the following fields
+You have to give the information about your booking event in the following fields
 
 
  * **A. Event Name:** Enter a suitable title here. This will show on your booking page.
@@ -60,7 +56,7 @@ In the next step, you’ll find settings for your booking, including:
 - [Advanced Settings](/host-events/how-to-set-booking-advanced-settings)
 - [Payment Settings](/payments/how-to-take-payment-in-bookings)
 - [Webhooks Feeds](/integrations/webhook-integration-with-fluentbooking)
-- Integrations
+- [Integrations](/integrations/integrations-overview.md)
 
 Once you've configured everything, click the **Save Changes** button to save your settings.
 
@@ -96,6 +92,3 @@ Click the **Apply** button to update your view. The page will now only show cale
 
 
 You can now efficiently find and manage your booking calendars using search and filter.
-
-
-If you have any questions or need assistance, feel free to get in touch [with us](https://wpmanageninja.com/account/dashboard/).

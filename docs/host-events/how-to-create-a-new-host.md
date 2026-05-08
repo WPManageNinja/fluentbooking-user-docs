@@ -27,7 +27,7 @@ After selecting a host, you will be presented with the booking type options of *
 ![Choose Booking Type](/images/host-events/how-to-create-a-new-host/Screenshot-2023-12-04-at-2-12-51-PM-1.webp)
 
 
-Here, you have to give the information about your booking event in the following fields
+You have to give the information about your booking event in the following fields
 
 
  * **A. Event Name**: Enter a suitable title here. This will show on your booking page.

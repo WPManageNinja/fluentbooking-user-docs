@@ -79,6 +79,7 @@ const sidebar = [
     collapsible: true,
     collapsed: true,
     items: [
+      { text: 'Integrations Overview', link: '/integrations/integrations-overview' },
       { text: 'Google Calendar & Meet', link: '/integrations/google-calendar-meet-integration-with-fluent-booking' },
       { text: 'Zoom', link: '/integrations/zoom-integration-with-fluentbooking' },
       { text: 'Outlook Calendar', link: '/integrations/outlook-calendar-integration-with-fluent-booking' },

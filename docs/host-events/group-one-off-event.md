@@ -44,7 +44,7 @@ To set the availability time, click the **Add Available Times** button.
 
 ![Availability](/images/host-events/group-one-off-event/Booking-One-off-group-event-5-scaled.webp)
 
-A pop-up will appear for selecting the availability time for the booking. From here, you can choose only one time slot fro your event. Once you've made your selections, click the **Apply** button to save the changes.
+A pop-up will appear for selecting the availability time for the booking. From here, you can choose only one time slot for your event. Once you've made your selections, click the **Apply** button to save the changes.
 
 ![Apply Button](/images/host-events/group-one-off-event/Booking-One-off-group-event-6-scaled.webp)
 
@@ -61,4 +61,4 @@ A pop-up will appear, allowing you to choose how you want to share the event for
 
 ![Share the Event-1](/images/host-events/group-one-off-event/Booking-One-off-group-event-9-scaled.webp)
 
-This concludes the information on the Group One-off Event in FluentBooking. If you have any additional questions about this guideline, please feel free to [contact us](https://wpmanageninja.com/account/dashboard/).
+This concludes the information on the Group One-off Event in FluentBooking.

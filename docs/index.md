@@ -43,7 +43,7 @@ features:
   - icon: 🔌
     title: Integrations
     details: Calendars, CRM, forms, WooCommerce, and more.
-    link: /integrations/google-calendar-meet-integration-with-fluent-booking
+    link: /integrations/integrations-overview
     linkText: Learn More
   - icon: ⚙️
     title: Settings

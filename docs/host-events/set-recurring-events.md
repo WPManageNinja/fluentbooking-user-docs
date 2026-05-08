@@ -31,7 +31,7 @@ In the left-hand menu of the event editor, click on **Recurring Settings**. Find
 ![Enable Recurring Event](/images/host-events/set-recurring-events/booking-recurring-2-scaled.webp)
 
 
-### Step 3: Configure Your Schedule (Important)**
+### Step 3: Configure Your Schedule (Important)
 
 
 This is where you define the rules for your series. Let's break down what each option means for your business.
@@ -65,20 +65,14 @@ This checkbox changes how the booking works significantly:
 - **Checked (Strict):** The customer **must** book all sessions in the series. They cannot remove individual dates.
 
 
-- *Best for:* Fixed courses, paid packages, or structured programs where attendance at every session is required.
+    - *Best for:* Fixed courses, paid packages, or structured programs where attendance at every session is required.
 - **Unchecked (Flexible):** The customer can choose to book fewer sessions than the maximum. They might book only 4 out of the 6 available slots if they are busy on certain weeks.
 
 
 > Important Availability Note:
->
->
->
 > The system needs enough "future availability" to book the whole series.
 >
->
->
->
-> - Example: If you create a 6-week series, your calendar's "Availability" settings must allow bookings at least **42 days** (6 weeks) into the future. If your calendar only allows bookings for the "Next 30 days," the system cannot book the final sessions of the series.
+> Example: If you create a 6-week series, your calendar's "Availability" settings must allow bookings at least **42 days** (6 weeks) into the future. If your calendar only allows bookings for the "Next 30 days," the system cannot book the final sessions of the series.
 
 
 1. Once you have configured these rules, click **Save Changes**.
