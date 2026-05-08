@@ -4,6 +4,9 @@ hero:
   name: FluentBooking
   text: Documentation
   tagline: Everything you need to set up and manage appointments with FluentBooking
+  image:
+    src: /FluentBooking-brand/header_banner-1.webp
+    alt: FluentBooking
   actions:
     - text: Get Started
       link: /getting-started/install-activate-and-update-fluentbooking
