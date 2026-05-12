@@ -19,7 +19,7 @@ Follow these straightforward steps to integrate FluentCRM with FluentBooking:
 - Navigate to **Booking Calendars** to find your booking events.
 - Select the specific event you want to integrate with FluentCRM and click **Edit**.
 
-![Access FluentBooking](/images/integrations/fluentcrm-integration-with-fluentbooking/Calendars-FluentBooking-1.webp)
+![Access FluentBooking](/images/integrations/fluentcrm-integration-with-fluentbooking/calendars-fluentbooking-1.webp)
 
 ### Set Up FluentCRM Integration
 
@@ -88,7 +88,7 @@ Once the integration is active:
 
 You can view attendees’ FluentCRM data inside the **Booking Details** page.
 
-![booking details](/images/integrations/fluentcrm-integration-with-fluentbooking/Booking-Details-5.webp)
+![booking details](/images/integrations/fluentcrm-integration-with-fluentbooking/booking-details-5.webp)
 
 Booking information will also appear in the attendee’s **FluentCRM Contact Profile**.
 

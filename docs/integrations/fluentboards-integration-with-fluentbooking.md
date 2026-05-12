@@ -15,7 +15,7 @@ Go to the specific booking event where you want to integrate with FluentBoards. 
 
 Here appears a new page. Now select the **Integrations** section from the left side bar. After that, click the **Add New Integration** button and choose the **FluentBoards Integrations** option.
 
-![Add New Integration](/images/integrations/fluentboards-integration-with-fluentbooking/Add-new-integration-02-scaled.webp)
+![Add New Integration](/images/integrations/fluentboards-integration-with-fluentbooking/add-new-integration-02-scaled.webp)
 
 ## Configure FluentBoards Integration Feed
 

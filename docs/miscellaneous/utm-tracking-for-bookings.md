@@ -15,7 +15,7 @@ Follow these step-by-step processes to create a booking link with UTM parameters
 
 From your WordPress dashboard, navigate to **FluentBooking → Calendars**. Next, find the specific booking event you want to share and click the **Share** button.
 
-![Generating Your Trackable Link](/images/miscellaneous/utm-tracking-for-bookings/Access-share-button-scaled.webp)
+![Generating Your Trackable Link](/images/miscellaneous/utm-tracking-for-bookings/access-share-button-scaled.webp)
 
 A pop-up will appear. Click on the **Generate Link** tab. Now, find the **Add Parameter** section. Then, fill in the **Fields** and **Values** to track your campaign details from the dropdown options.
 

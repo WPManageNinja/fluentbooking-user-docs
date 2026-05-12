@@ -27,7 +27,7 @@ Go to the WordPress admin dashboard, navigate to **FluentBooking > Settings**, a
 
 **Disable PayPal IPN Verification:** If you are unable to use Payment Data Transfer and your payments are not being marked as complete, then toggle to **Disable PayPal IPN Verification**. Enabling this option forces the site to use an alternative verification method, which is slightly less secure but ensures that purchases are processed and marked as complete.
 
-![Disable PayPal IPN Verification](/images/payments/paypal-integration-with-fluentbooking/Payment-Methods-FluentBooking-scaled.webp)
+![Disable PayPal IPN Verification](/images/payments/paypal-integration-with-fluentbooking/payment-methods-fluentbooking-scaled.webp)
 
 ## **Configure PayPal Payment for Booking Forms**
 
@@ -45,6 +45,6 @@ In the **Booking Payment Item** section, you can set the payment item's name and
 
 Finally, click the **Save Settings** button to save your changes.
 
-![Payment Settings](/images/payments/paypal-integration-with-fluentbooking/Payment-Settings-FluentBooking-scaled.webp)
+![Payment Settings](/images/payments/paypal-integration-with-fluentbooking/payment-settings-fluentbooking-scaled.webp)
 
 If you have any questions, suggestions, or need further assistance regarding this documentation, please don’t hesitate to [contact us](https://wpmanageninja.com/support-tickets/). We’re here to help!

@@ -15,7 +15,7 @@ To create a new host, go to the FluentBooking dashboard and click on **Calendars
 
 Then, you will see three options from the dropdown. Now, click on the **Add Host** options.
 
-![Add Host](/images/host-events/how-to-create-a-new-host/Add-Host-05-08-2025_02_59_PM-scaled.webp)
+![Add Host](/images/host-events/how-to-create-a-new-host/add-host-05-08-2025_02_59_pm-scaled.webp)
 
 
 A pop-up window will appear, providing you with the option to select a host. Here, you'll see a list of your WordPress site users along with their **names** and **email IDs**. Simply choose a host by clicking on their email ID.
@@ -24,7 +24,7 @@ A pop-up window will appear, providing you with the option to select a host. Her
 After selecting a host, you will be presented with the booking type options of **One-to-One** booking and **Group** booking. Select the booking type you want to create.
 
 
-![Choose Booking Type](/images/host-events/how-to-create-a-new-host/Screenshot-2023-12-04-at-2-12-51-PM-1.webp)
+![Choose Booking Type](/images/host-events/how-to-create-a-new-host/screenshot-2023-12-04-at-2-12-51-pm-1.webp)
 
 
 Here, you have to give the information about your booking event in the following fields
@@ -40,7 +40,7 @@ Here, you have to give the information about your booking event in the following
 After that, click on the **Continue** button to save it.
 
 
-![Choose Tomezone](/images/host-events/how-to-create-a-new-host/Event-Details-05-08-2025_03_10_PM.webp)
+![Choose Tomezone](/images/host-events/how-to-create-a-new-host/event-details-05-08-2025_03_10_pm.webp)
 
 
 And that's it! You can repeat these steps to create as many calendars or hosts as you need on FluentBooking. Enjoy the ease and convenience of scheduling meetings with your team and attendees.

@@ -37,7 +37,7 @@ A success notification will appear to confirm that the booking has been created.
 If you want to change your mind, click **Cancel** instead.
 
 
-![Add New Booking](/images/bookings/create-booking-manually/Add-new-Booking-2.webp)
+![Add New Booking](/images/bookings/create-booking-manually/add-new-booking-2.webp)
 
 Congratulations, you have successfully created a manual booking! You can now manage this appointment just like any other booking on your list.
 

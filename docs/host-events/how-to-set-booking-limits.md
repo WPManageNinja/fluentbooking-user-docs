@@ -26,7 +26,7 @@ Tailor your meeting time by cropping or extending it with the time slot interval
 For example, it has a 30-minute interval that's why it shows 2:00 -> 2:30 if it was 10 minutes interval then it would be 2:00 -> 2:10, 2:10 -> 2:20, etc.
 
 
-![Time-slot Intervals](/images/host-events/how-to-set-booking-limits/Limit-Settings-FluentBooking-scaled.webp)
+![Time-slot Intervals](/images/host-events/how-to-set-booking-limits/limit-settings-fluentbooking-scaled.webp)
 
 ### Limit Booking Frequency
 
@@ -36,11 +36,11 @@ Decide how often an event can be booked with this feature. You can set limits fo
 
 Define the total attending time for your booking to restrict the duration of the event.
 
-![Limit Booking Duration](/images/host-events/how-to-set-booking-limits/image-2.png)
+![Limit Booking Duration](/images/host-events/how-to-set-booking-limits/image-2.webp)
 
 ### Lock Timezone on Booking Page
 
 Enabling the **Lock Timezone on Booking Page** option on the booking page will set your chosen timezone and prevent attendees from making changes. Simply select the specific timezone you wish to use from the dropdown menu. This feature is especially helpful for in-person events.
 
 
-![Lock Timezone on Booking Page](/images/host-events/how-to-set-booking-limits/Limit-Settings-FluentBooking-1.webp)
+![Lock Timezone on Booking Page](/images/host-events/how-to-set-booking-limits/limit-settings-fluentbooking-1.webp)

@@ -35,13 +35,13 @@ In the **Booking Payment Items** section, define the item label and price. For e
 
 Finally, click the **Save Settings** button to apply your changes.
 
-![Booking Payment Items](/images/payments/offline-payment-for-booking/Payment-FluentBooking-2-scaled.webp)
+![Booking Payment Items](/images/payments/offline-payment-for-booking/payment-fluentbooking-2-scaled.webp)
 
 ## Preview
 
 In the Booking Calendar, users will see the **Offline Payment** option displayed as shown in the screenshot below.
 
-![Offline Payment](/images/payments/offline-payment-for-booking/Payment-FluentBooking-3.webp)
+![Offline Payment](/images/payments/offline-payment-for-booking/payment-fluentbooking-3.webp)
 
 ## Booking Details Page
 
@@ -49,6 +49,6 @@ On the **Booking Details** page, you'll find the transaction details. To mark a 
 
 Alternatively, you can update the payment status from the **Billing Details** section. Just click the **Edit icon** next to the **Transaction Details** and adjust the status as needed.
 
-![Booking Details Page](/images/payments/offline-payment-for-booking/Payment-FluentBooking-4-scaled.webp)
+![Booking Details Page](/images/payments/offline-payment-for-booking/payment-fluentbooking-4-scaled.webp)
 
 That’s how you can easily enable and manage offline payments for your booking events. If you have any further questions, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets/). we’re here to help!

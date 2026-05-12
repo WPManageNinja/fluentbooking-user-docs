@@ -11,7 +11,7 @@ FluentBooking lets you import and export booking events to simplify your booking
 
 To import calendars with booking details, navigate to the **Calendars**s ection in the navbar. Click the three-dot button in the top right corner, and select the **Import Calendar**.                            
 
-![Import Calendar](/images/miscellaneous/import-export-and-clone-events/FluentBooking-Import-Export-and-Clone-1-scaled.webp)
+![Import Calendar](/images/miscellaneous/import-export-and-clone-events/fluentbooking-import-export-and-clone-1-scaled.webp)
 
 A pop-up will appear where you need to fill in the following details:
 
@@ -20,7 +20,7 @@ A pop-up will appear where you need to fill in the following details:
  * **Select Your Timezone:** Specify the relevant timezone. 
  * **Import Exported Calendar JSON File:** **Upload the JSON** file you wish to import into FluentBooking.
 
-![Import Calendar ](/images/miscellaneous/import-export-and-clone-events/FluentBooking-Import-Export-and-Clone-1.5-scaled.webp)
+![Import Calendar ](/images/miscellaneous/import-export-and-clone-events/fluentbooking-import-export-and-clone-1.5-scaled.webp)
 
 ## Export Events
 
@@ -28,7 +28,7 @@ You can easily export your booking calendars along with their events in FluentBo
 
 Click the **Export** button to export the booking events. The events will be exported in **JSON** format.
                                         
-![Export Events](/images/miscellaneous/import-export-and-clone-events/FluentBooking-Import-Export-and-Clone-2-scaled.webp)
+![Export Events](/images/miscellaneous/import-export-and-clone-events/fluentbooking-import-export-and-clone-2-scaled.webp)
 
 ## Clone Calendar
 
@@ -36,12 +36,12 @@ If you want to create another calendar with the same booking events, you can eas
 
 In the drop-down menu, select **Clone Form** and a duplicate calendar with the same booking events will be created.
 
-![Clone Calendar](/images/miscellaneous/import-export-and-clone-events/FluentBooking-Import-Export-and-Clone-3-scaled.webp)
+![Clone Calendar](/images/miscellaneous/import-export-and-clone-events/fluentbooking-import-export-and-clone-3-scaled.webp)
 
 ## Clone Event
 
 To clone a specific booking event, navigate to the event you want to duplicate click on the three-dot button along with each event, and select **Clone**. A new event identical to the original will be created within the same calendar.
 
-![Clone Event](/images/miscellaneous/import-export-and-clone-events/FluentBooking-Import-Export-and-Clone-4-scaled.webp)
+![Clone Event](/images/miscellaneous/import-export-and-clone-events/fluentbooking-import-export-and-clone-4-scaled.webp)
 
 This is how you can import, export, and clone your booking events. If you have any further questions about this guide, please don't hesitate to [contact us](https://wpmanageninja.com/account/dashboard/).

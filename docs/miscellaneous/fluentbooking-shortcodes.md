@@ -21,7 +21,7 @@ Go to your WordPress dashboard and click on **Pages** or **Posts** from the left
 
 Once done, the booking events will appear on the front end of your website.
 
-![Add Shortcodes to Your Website](/images/miscellaneous/fluentbooking-shortcodes/ShortCode-Forntend-3-scaled.webp)
+![Add Shortcodes to Your Website](/images/miscellaneous/fluentbooking-shortcodes/shortcode-forntend-3-scaled.webp)
 
 ## Shortcodes
 
@@ -138,7 +138,7 @@ This shortcode is designed to display a comprehensive booking management fronten
 
 To locate the ID for an event or calendar go to the specific event in the Fluent Booking dashboard. Click on the **Share** button. In the event sharing options, you’ll find the shortcode containing the Event ID.
 
-![How to Find the Event or Calendar ID](/images/miscellaneous/fluentbooking-shortcodes/Claender-ID-1-scaled.webp)
+![How to Find the Event or Calendar ID](/images/miscellaneous/fluentbooking-shortcodes/claender-id-1-scaled.webp)
 
 ## How to Find the Calendar ID or Event ID
 
@@ -155,6 +155,6 @@ Look at the URL in your browser. The IDs are part of the URL structure:
 
 You can refer to the following example screenshot to identify the Calendar ID and Booking/Event ID easily.
 
-![Edit Page](/images/miscellaneous/fluentbooking-shortcodes/Claender-ID-2-scaled.webp)
+![Edit Page](/images/miscellaneous/fluentbooking-shortcodes/claender-id-2-scaled.webp)
 
 If you have any questions, suggestions, or need further assistance regarding this documentation, please don’t hesitate to [contact us](https://wpmanageninja.com/support-tickets/). We’re here to help!

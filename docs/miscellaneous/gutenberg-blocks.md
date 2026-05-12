@@ -24,7 +24,7 @@ To add a **FluentBooking Calendar** block, open any page or post where you want 
 
 Then, select the **FluentBooking Calendar** block, and it will be added to your content.
 
-![Select FluentBooking Calendar](/images/miscellaneous/gutenberg-blocks/FluentBooking-Calendar-05-scaled.webp)
+![Select FluentBooking Calendar](/images/miscellaneous/gutenberg-blocks/fluentbooking-calendar-05-scaled.webp)
 
 Now, add a **Title** and a short **Description** that will appear on your FluentBooking team block on the page or post.
 
@@ -40,11 +40,11 @@ In this section, start by selecting a **Calendar** from the dropdown menu. After
 
 If you’d like to **Hide** the **calendar info**, just check the **Hide Calendar Info** box. To remove a host from the team, click the **cross (X)** icon next to their name.
 
-![General Settings](/images/miscellaneous/gutenberg-blocks/FluentBooking-Calendar-06-scaled.webp)
+![General Settings](/images/miscellaneous/gutenberg-blocks/fluentbooking-calendar-06-scaled.webp)
 
 Once everything is set, click **Save** and **Publish** your page. You’ll now see a preview of the **FluentBooking Calendar** on your site.
 
-![Preview of the FluentBooking Calendar](/images/miscellaneous/gutenberg-blocks/FluentBooking-Calendar-preview-07.webp)
+![Preview of the FluentBooking Calendar](/images/miscellaneous/gutenberg-blocks/fluentbooking-calendar-preview-07.webp)
 
 ## FluentBooking Team
 
@@ -58,7 +58,7 @@ To learn more about FluentBooking Team page, read this full [article](/getting-s
 
 To add a **FluentBooking Event** block in the Gutenberg editor, open the page or post where you’d like the event to appear. Click the **Plus (+)** icon to add a block, and search for **FluentBooking**. From the list, choose the **FluentBooking Event** block. It will be added to your page right away.
 
-![FluentBooking Event](/images/miscellaneous/gutenberg-blocks/FluentBooking-events-08-scaled.webp)
+![FluentBooking Event](/images/miscellaneous/gutenberg-blocks/fluentbooking-events-08-scaled.webp)
 
 Next, select an event from the dropdown list. Once you've chosen an event, you can customize its appearance using the options on the right-hand sidebar.
 
@@ -103,7 +103,7 @@ By default, this shows all calendars. If you want to display calendars from spec
  * **Show Pagination:** To remove pagination at the bottom of the bookings list, uncheck this option.
  * **No Booking Message:** Add a nice custom message here. This will be displayed to users who don’t have any bookings yet.
 
-![General Settings](/images/miscellaneous/gutenberg-blocks/FluentBooking-Bookings-09-scaled.webp)
+![General Settings](/images/miscellaneous/gutenberg-blocks/fluentbooking-bookings-09-scaled.webp)
 
 
 Once everything is set, click **Save** and **Publish** your page. You’ll now see a preview of the **FluentBooking Bookings** block on your site.

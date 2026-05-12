@@ -54,7 +54,7 @@ These shortcodes will come in four categories:
 
 Once everything is set up, click the **Save Email** button to save your email notification.
 
-![Notification Configuration](/images/host-events/how-to-set-email-notifications-for-a-booking/Email-Notification-configuration-03.webp)
+![Notification Configuration](/images/host-events/how-to-set-email-notifications-for-a-booking/email-notification-configuration-03.webp)
 
 ## Customize Other Notification Settings
 

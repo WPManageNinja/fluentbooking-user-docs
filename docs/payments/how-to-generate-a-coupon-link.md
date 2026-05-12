@@ -21,13 +21,13 @@ Now, in the **Field** dropdown menu, select **Coupon**. In the Value field, type
 
 You can now open the link in a new tab to test it or share it directly with your clients.
 
-![Generate Link](/images/payments/how-to-generate-a-coupon-link/Generate-link-02.webp)
+![Generate Link](/images/payments/how-to-generate-a-coupon-link/generate-link-02.webp)
 
 ### What Your Clients See
 
 On your clients' side, the booking process becomes super simple. When they click the link you shared, they will be taken to the booking page where the discount is already applied. They just click, schedule, and get the discounted price instantly.
 
-![Schedule Meetings](/images/payments/how-to-generate-a-coupon-link/Schedule-meeting-03.webp)
+![Schedule Meetings](/images/payments/how-to-generate-a-coupon-link/schedule-meeting-03.webp)
 
 Congratulations! You now know how to create and share booking links with automatic discounts. This is a fantastic way to run promotions and make it even easier for people to book your services.
 

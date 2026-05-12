@@ -16,7 +16,7 @@ Add the **FluentBooking Field** in the form from **Advanced Input** fields or cl
 > [!Note]
 > In order to take booking, you must add **Name** and **Email** field to that form.
 
-![Add Booking to the Fluent Forms](/images/integrations/fluent-form-integration-with-fluentbooking/adding-Fluent-Booking-02-scaled.webp)
+![Add Booking to the Fluent Forms](/images/integrations/fluent-form-integration-with-fluentbooking/adding-fluent-booking-02-scaled.webp)
 
 ## Map with your specific calendar
 
@@ -37,7 +37,7 @@ You will find various settings options for customizing the field. Located in the
  * **F. Show Host Info:** If you want to show your host info, then check the **Show Host Info** option. If you do not want to show off your host info, then uncheck the **Show Host Info** option.
  * **G. Required:** Choose the appropriate option from here to determine whether the field should be empty when the user submits your form.
 
-![Input Customize Tab](/images/integrations/fluent-form-integration-with-fluentbooking/Fluent-booking-options-04-scaled.webp)
+![Input Customize Tab](/images/integrations/fluent-form-integration-with-fluentbooking/fluent-booking-options-04-scaled.webp)
 
 ### Advanced Options
 
@@ -47,16 +47,16 @@ Advanced settings allow further customization to meet specific use cases. All th
  * **B. Name Attribute:** The input field’s name attribute is the HTML equivalent of the same name. You don’t need to modify this.
  * **C. Conditional Logic:** This option allows you to create specific rules to dynamically hide/show the input field to function conditionally based on your submission values according to your set of conditional logic.
 
-![Advanced Options](/images/integrations/fluent-form-integration-with-fluentbooking/Advanced-options-05-scaled.webp)
+![Advanced Options](/images/integrations/fluent-form-integration-with-fluentbooking/advanced-options-05-scaled.webp)
 
 ## Preview of Added FluentBooking Field
 
 Here is a preview of the form with the **FluentBooking** field.
 
-![Preview of Added FluentBooking Field](/images/integrations/fluent-form-integration-with-fluentbooking/Preview-07-scaled.webp)
+![Preview of Added FluentBooking Field](/images/integrations/fluent-form-integration-with-fluentbooking/preview-07-scaled.webp)
 
 That's it! You've successfully added your booking event to Fluent Forms. Now, you will be able to see the form data inside the **Booking details** page and also from the form entries of Fluent Forms.
 
-![Booking Details](/images/integrations/fluent-form-integration-with-fluentbooking/FF-FB.webp)
+![Booking Details](/images/integrations/fluent-form-integration-with-fluentbooking/ff-fb.webp)
 
 Please get in touch with us if you need any help integrating FluentBooking with Fluent Forms or if you have any issues. We're [here](https://wpmanageninja.com/account/dashboard/) to assist you!

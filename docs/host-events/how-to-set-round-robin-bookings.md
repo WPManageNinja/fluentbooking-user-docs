@@ -17,7 +17,7 @@ Here's a step-by-step guide on how to set up a Round Robin booking event:
 
 Navigate to the **Calendars** in FluentBooking, select the **New** button, and click on **Add Team** to initiate the team creation process.
 
-![Create a New Team](/images/host-events/how-to-set-round-robin-bookings/Create-a-team-scaled.webp)
+![Create a New Team](/images/host-events/how-to-set-round-robin-bookings/create-a-team-scaled.webp)
 
 ## Team Configuration (Round Robin)
 

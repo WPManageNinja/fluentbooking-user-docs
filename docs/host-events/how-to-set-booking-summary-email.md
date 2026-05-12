@@ -23,4 +23,4 @@ In the first section, you'll find the following options:
 - **Summary Email:** Enabling this option will send you a summary email notification for each booking. You can also choose how often you want to receive these emails from the **How Often to Send Summary Email?** option.
 
 
-![Enable Booking Summary](/images/host-events/how-to-set-booking-summary-email/Enable-Booking-Summary.png)
+![Enable Booking Summary](/images/host-events/how-to-set-booking-summary-email/enable-booking-summary.webp)

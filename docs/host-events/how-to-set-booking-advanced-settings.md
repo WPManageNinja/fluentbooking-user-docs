@@ -13,25 +13,25 @@ In this article, we will explore the booking advanced features available in the 
 
 Go to the **Calendars** in the FluentBooking navbar and click the **Edit** button for the booking you want to access Advanced Settings.
 
-![Booking Calender](/images/host-events/how-to-set-booking-advanced-settings/FluentBooking-Advanced-Settings-1-scaled.webp)
+![Booking Calender](/images/host-events/how-to-set-booking-advanced-settings/fluentbooking-advanced-settings-1-scaled.webp)
 
 In the booking editing page, select **Advanced Settings** from the left sidebar. Here, you will find all the advanced settings and features to make your booking more customizable and effective.
 
-![Advanced Settings](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-1-scaled.webp)
+![Advanced Settings](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-1-scaled.webp)
 
 
 ## Booking Title
 
 In the Advanced Settings section, the first option you'll see is the **Booking Title**. Here, you can set an advanced title for your bookings using shortcodes. Click the three-dot button next to the booking title field to view the available shortcodes.
 
-![Booking Title](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-2-scaled.webp)
+![Booking Title](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-2-scaled.webp)
 
 
 ## Submit Button Text
 
 You can customize the Submit Button text on your booking form. To do this, simply enter the desired text for the Submit button and click the **Save Changes** button to apply your update.
 
-![Submit Button Text](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking.png)
+![Submit Button Text](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking.webp)
 
 
 ## Redirect After Booking
@@ -41,7 +41,7 @@ Here, you can set the page to which attendees will be redirected after a success
 Alternatively, you can check the **"Pass Field Data Via Query String"** option and simply add the shortcode. The data will then be passed with the URL link according to the shortcode you have placed.
 
 
-![Redirect After Booking](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-4.webp)
+![Redirect After Booking](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-4.webp)
 
 
 ## Requires Confirmation
@@ -54,7 +54,7 @@ With the **“When booking notice is less than”** option, you can specify the 
 > The **Requires Confirmation** option is only available for **one-to-one events**. In the **Advanced Settings** of other event types, this setting will not appear.
 
 
-![Requires Confirmation](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-5.webp)
+![Requires Confirmation](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-5.webp)
 
 
 ## Allow Multiple Booking
@@ -65,7 +65,7 @@ This feature is useful when an event has various sessions or appointments, enabl
 
 Here you can also set the **Maximum Booking Limit** as you want.
 
-![Allow Multiple Booking](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-3.png)
+![Allow Multiple Booking](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-3.webp)
 
 
 ## Attendee Cannot Cancel
@@ -75,7 +75,7 @@ Once you confirm the meeting, the attendee will no longer be able to cancel it. 
 Additionally, you can set a message to display to attendees if they attempt to cancel the meeting.
 
 
-![Attendee Cannot Cancel](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-6.webp)
+![Attendee Cannot Cancel](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-6.webp)
 
 
 ## Attendee Cannot Reschedule
@@ -83,14 +83,14 @@ Additionally, you can set a message to display to attendees if they attempt to c
 By enabling the **Always** option, attendees will not be able to reschedule a meeting once it has been confirmed. You can also specify a time frame and set a message to notify attendees if they attempt to reschedule.
 
 
-![Attendee Cannot Reschedule](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-7.webp)
+![Attendee Cannot Reschedule](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-7.webp)
 
 
 ## Landing Page Settings
 
 You can add or change the slug of your event landing page URL using this option. Click on the **Edit** button and then enter the desired slug in the **Slug Field** to update.
 
-![Landing Page Settings](/images/host-events/how-to-set-booking-advanced-settings/Advanced-Settings-FluentBooking-8.webp)
+![Landing Page Settings](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-8.webp)
 
 
 If you have any questions about Booking Advanced Settings, please feel free to [contact us](https://wpmanageninja.com/account/dashboard/).

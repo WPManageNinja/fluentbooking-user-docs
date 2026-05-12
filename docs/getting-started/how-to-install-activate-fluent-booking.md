@@ -33,7 +33,7 @@ Now go to the **Add New Plugin** page from your **WordPress Dashboard**, and cli
 
 Click on the **Choose file** to upload the **fluent-booking-pro.zip** file that you’ve downloaded before, and press the **Install Now** button. The **FluentBooking** plugin will be successfully installed on your WordPress site!
 
-![Installing the FluentBooking](/images/getting-started/how-to-install-activate-fluent-booking/install-fb.png)
+![Installing the FluentBooking](/images/getting-started/how-to-install-activate-fluent-booking/install-fb.webp)
 
 ## Activating the License key
 

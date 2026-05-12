@@ -48,7 +48,7 @@ You can choose an additional date when you will be available or unavailable for 
 
  * **What Hours are you available:** You can set here your available hours for the day you have you selected. If you select the **Mark to Unavailable** checkbox then this hours of the day will be unavailable for booking.
 
-![Add date overrides](/images/host-events/how-to-create-a-booking-schedule/slot-settings-fluentBooking-3-1.png)
+![Add date overrides](/images/host-events/how-to-create-a-booking-schedule/slot-settings-fluentbooking-3-1.webp)
 
 ## Availability Schedule Templates
 
