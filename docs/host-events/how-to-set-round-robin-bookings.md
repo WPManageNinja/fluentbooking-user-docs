@@ -1,9 +1,9 @@
 ---
-title: Set Round Robin Bookings
+title: Round Robin Events
 description: Distribute meetings across multiple hosts automatically. Set up round-robin team scheduling in FluentBooking.
 ---
 
-# Set Round Robin Bookings
+# Round Robin Events
 
 FluentBooking's **Round Robin** feature allows you to efficiently organize team meetings by incorporating multiple hosts for your booking events. This ensures that if one host becomes unavailable, another host will be set automatically in the Round Robin schedule. 
 

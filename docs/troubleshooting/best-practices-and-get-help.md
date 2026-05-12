@@ -17,7 +17,7 @@ Follow these practices to reduce issues and get the most out of FluentBooking:
 
 - **Configure availability and time zones clearly.** Set [availability](/availability/configure-availability) for each host and double-check time zones so slots show at the right times for you and your visitors.   
 
-- **Verify payment and email settings before going live.** Test a booking with Stripe or PayPal in test mode, then switch to Live only after confirming. Check [Global Email Settings](/global-settings/global-email-settings) and event-level [Email Notifications](/host-events/how-to-set-email-notifications-for-a-booking) so confirmations and reminders send correctly.
+- **Verify payment and email settings before going live.** Test a booking with Stripe or PayPal in test mode, then switch to Live only after confirming. Check [Global Email Settings](/global-settings/global-email-settings) and event-level [Email Notifications](/host-events/email-notifications-for-events) so confirmations and reminders send correctly.
 
 - **Use shortcodes and blocks correctly.** When embedding the booking form, use the right [shortcode](/miscellaneous/fluentbooking-shortcodes) or [Gutenberg block](/miscellaneous/gutenberg-blocks) for your calendar or event so the form displays and loads as expected.
 

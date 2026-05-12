@@ -30,7 +30,7 @@ You have to select a WooCommerce product from the dropdown menu and click on the
 ![Select WooCommerce Checkout](/images/integrations/woocommerce-integration-with-fluentbooking/update-3.webp)
 
 
-Your booking event is now ready to be shared. For guidance on sharing it effectively on the front end, you can follow this [Documentation](/getting-started/add-your-booking-form-to-the-wordpress-sites-front-end).
+Your booking event is now ready to be shared. For guidance on sharing it effectively on the front end, you can follow this [Documentation](/getting-started/add-booking-form-to-site).
 
 ![Settings](/images/integrations/woocommerce-integration-with-fluentbooking/settings-4.webp)
 

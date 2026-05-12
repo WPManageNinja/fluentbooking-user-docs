@@ -1,9 +1,9 @@
 ---
-title: Prettify Landing Page URL
+title: Clean Up Booking URLs
 description: Make FluentBooking landing page URLs clean and readable (e.g. /booking/host-slug/). Add code to wp-config.php.
 ---
 
-# Prettify Landing Page URL
+# Clean Up Booking URLs
 
 By default, the FluentBooking landing page URL follows a query-based structure, such as:
 

@@ -1,9 +1,9 @@
 ---
-title: Offline Payment for Booking
+title: Offline Payments
 description: Let guests pay outside the calendar—cash, bank transfer, or later. Enable offline payment in FluentBooking.
 ---
 
-# Offline Payment for Booking
+# Offline Payments
 
 You can let your users choose offline payment in FluentBooking. With this option enabled, users can select offline payment directly from the booking calendar. In this guide, we’ll walk you through the steps to enable offline payments for your bookings.
 

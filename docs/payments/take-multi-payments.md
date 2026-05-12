@@ -1,9 +1,9 @@
 ---
-title: Take Multi-Payments
+title: Multiple Pricing Options
 description: Charge different prices by meeting duration. Let clients choose session length and pay accordingly in FluentBooking.
 ---
 
-# Take Multi-Payments
+# Multiple Pricing Options
 
 FluentBooking allows you to charge multiple pricing options for a booking based on the meeting duration, ensuring you get paid fairly for your time. It also gives your clients the flexibility to choose their preferred session length of a booking service.
 
@@ -66,7 +66,7 @@ Additionally, click the **Share** button to view the functionalities of this mul
 
 ### Preview of Multi-Payment Feature
 
-Once you click the **Share** button, you will get four options to display your booking events on the front-end of the WordPress Site. To learn more about this, read this [Documentation](/getting-started/add-your-booking-form-to-the-wordpress-sites-front-end).
+Once you click the **Share** button, you will get four options to display your booking events on the front-end of the WordPress Site. To learn more about this, read this [Documentation](/getting-started/add-booking-form-to-site).
 
 For example, I use the **Landing Page** option to show you the preview of this feature. To learn more about the **Landing Page**, read this [Documentation](/host-events/how-to-enable-landing-page-for-your-host).
 

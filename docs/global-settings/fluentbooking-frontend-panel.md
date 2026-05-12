@@ -1,9 +1,9 @@
 ---
-title: FluentBooking Frontend Panel
+title: Frontend Booking Panel
 description: Let users view, manage, and cancel bookings from the front end without the WordPress admin. Set up the FluentBooking frontend panel.
 ---
 
-# Frontend Panel
+# Frontend Booking Panel
 
 FluentBooking enables you to create a frontend panel where you and your users can effortlessly view, manage, and cancel bookings without needing to access the admin dashboard. Read this article to learn more about the FluentBooking Frontend Panel.
 

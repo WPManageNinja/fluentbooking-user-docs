@@ -1,9 +1,9 @@
 ---
-title: Take Payment in Bookings
+title: Set Up Payments
 description: Enable payments for your events—Stripe, PayPal, WooCommerce, or offline. Setup and configure your first paid booking in FluentBooking.
 ---
 
-# Take Payment in Bookings
+# Set Up Payments
 
 FluentBooking provides a complete solution to accept payments for your services. You can connect popular gateways like Stripe and PayPal, use WooCommerce, or even accept offline payments. This guide will walk you through the entire process, from initial setup to configuring your first paid event.
 

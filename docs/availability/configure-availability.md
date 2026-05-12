@@ -1,9 +1,9 @@
 ---
-title: Configure Availability
+title: Create Availability Schedules
 description: Create and manage availability schedules for your hosts and events. Step-by-step guide in FluentBooking.
 ---
 
-# Configure Availability
+# Create Availability Schedules
 
 FluentBooking provides a convenient feature that allows you to create availability schedules for your bookings. This feature saves you time and eliminates the need to adjust your schedule for each booking event individually.
 

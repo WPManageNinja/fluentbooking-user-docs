@@ -1,9 +1,9 @@
 ---
-title: Set Booking Limits
+title: Booking Limits & Rules
 description: Control how far ahead guests can book and how many bookings per person or day. Configure booking limits in FluentBooking.
 ---
 
-# Set Booking Limits
+# Booking Limits & Rules
 
 FluentBooking provides a helpful feature to incorporate breaks between your booked events. You can set various limits according to your preferences. This guide explains the limit feature in FluentBooking in more detail.
 

@@ -1,9 +1,9 @@
 ---
-title: Install, Activate, and Update FluentBooking
+title: Install & Activate FluentBooking
 description: Step-by-step guide to install, activate, and update the FluentBooking plugin from your WordPress dashboard. Get started with appointment booking in minutes.
 ---
 
-# Install, Activate, and Update FluentBooking
+# Install & Activate FluentBooking
 
 [FluentBooking](https://fluentbooking.com/) offers the perfect solution for effortless and hassle-free booking for appointments, meetings, webinars, events, sales calls, and more. 
 

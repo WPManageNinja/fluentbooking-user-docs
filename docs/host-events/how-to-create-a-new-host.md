@@ -1,9 +1,9 @@
 ---
-title: Create a New Host
+title: Create a Host
 description: Add a calendar host in FluentBooking so you can set availability and accept bookings. Step-by-step guide to create your first host.
 ---
 
-# Create a New Host
+# Create a Host
 
 With FluentBooking you can set your availability, and attendees simply can choose a suitable time slot to schedule meetings with you and your team. In FluentBooking you can create calendars or hosts for your meetings. In this guide, we'll walk you through the effortless steps to create a host in FluentBooking.
 

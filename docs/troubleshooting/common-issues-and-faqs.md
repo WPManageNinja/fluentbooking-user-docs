@@ -24,7 +24,7 @@ This section provides solutions to frequently encountered issues and answers to 
 
 - **Add Block or Shortcode:** Ensure the booking form block or shortcode is added to your page. Use the FluentBooking block (Gutenberg) or the correct [shortcode](/miscellaneous/fluentbooking-shortcodes) for your calendar or event.
 - **Check Event & Availability:** Confirm the event is published and has [availability configured](/availability/configure-availability). If there are no available slots, the calendar may appear empty or not load.
-- **Correct Calendar/Event:** Verify you are embedding the right calendar or event ID. See [Add your Booking Form to the WordPress site's Front-end](/getting-started/add-your-booking-form-to-the-wordpress-sites-front-end).
+- **Correct Calendar/Event:** Verify you are embedding the right calendar or event ID. See [Add Booking Form to Your Site](/getting-started/add-booking-form-to-site).
 
 **Q: Calendar or meetings are not syncing with Google Calendar, Outlook, or Zoom.**
 
@@ -48,7 +48,7 @@ This section provides solutions to frequently encountered issues and answers to 
 **A:**
 
 - **Global Email Settings:** Ensure [Global Email Settings](/global-settings/global-email-settings) are configured and that the “From” address and mail method (e.g. WordPress default or SMTP) are correct.
-- **Event-Level Notifications:** For booking confirmations and reminders, check [Email Notifications for a Booking](/host-events/how-to-set-email-notifications-for-a-booking) and [Booking Summary Email](/host-events/how-to-set-booking-summary-email) for the event.
+- **Event-Level Notifications:** For booking confirmations and reminders, check [Email Notifications](/host-events/email-notifications-for-events) and [Booking Summary Email](/host-events/how-to-set-booking-summary-email) for the event.
 - **Spam / Deliverability:** Ask customers to check spam folders. If using SMTP, verify credentials and that your server allows outbound mail.
 
 **Q: I can’t find my FluentBooking menu or dashboard.**

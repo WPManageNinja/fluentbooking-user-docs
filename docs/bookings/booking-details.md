@@ -1,9 +1,9 @@
 ---
-title: Booking Details
+title: View All Bookings
 description: View and manage all your FluentBooking reservations. List view, calendar view, upcoming and completed bookings, and booking details.
 ---
 
-# Booking Details
+# View All Bookings
 
 The Booking section in FluentBooking contains all the information about your reservations. You can also sort the bookings by host. Let's take a closer look at the Booking section to see how each option works.
 

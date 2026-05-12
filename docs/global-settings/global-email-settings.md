@@ -1,9 +1,9 @@
 ---
-title: Global Email & General Settings
+title: Email & Notification Settings
 description: Configure admin email, email templates, general options, and default booking behavior in FluentBooking global settings.
 ---
 
-# Global Settings
+# Email & Notification Settings
 
 The Global Settings in FluentBooking help you manage the core setup of your booking system.Here, you’ll find essential options like admin email preferences, email templates, and theme customization. You can also define default behaviors for new bookings.
 

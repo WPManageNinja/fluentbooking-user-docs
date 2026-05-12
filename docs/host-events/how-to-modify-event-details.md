@@ -1,9 +1,9 @@
 ---
-title: Modify Event Details
+title: Edit Event Details
 description: Update, pause, or delete booking events. Keep your FluentBooking calendar accurate with simple edits.
 ---
 
-# Modify Event Details
+# Edit Event Details
 
 Managing your scheduling system is simple with FluentBooking. You can update meeting details, pause an event, or delete it whenever needed, all from one place.
 

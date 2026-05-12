@@ -1,9 +1,9 @@
 ---
-title: Introduction to FluentBooking
+title: What is FluentBooking
 description: FluentBooking is a fast, native WordPress scheduling plugin for appointments, meetings, webinars, and team events—with calendar sync, payments, and deep integrations.
 ---
 
-# Introduction to FluentBooking
+# What is FluentBooking
 
 **FluentBooking** is a powerful, native WordPress scheduling plugin built to replace bloated SaaS booking tools. Run appointments, sales calls, consultations, webinars, and team events directly from your own site, no monthly per-seat fees, no data leaving your server.
 
@@ -75,7 +75,7 @@ New here? Follow this path:
 1. **[Install, Activate & Update](/getting-started/install-activate-and-update-fluentbooking)** — get the plugin running.
 2. **[Dashboard Overview](/getting-started/dashboard-overview)** — learn the layout.
 3. **[Create Your First Event](/host-events/how-to-create-new-events)** — start accepting bookings.
-4. **[Add the Booking Form to Your Site](/getting-started/add-your-booking-form-to-the-wordpress-sites-front-end)** — go live.
+4. **[Add the Booking Form to Your Site](/getting-started/add-booking-form-to-site)** — go live.
 
 Need help along the way? Check **[Common Issues & FAQs](/troubleshooting/common-issues-and-faqs)** or reach the team via **[Best Practices & Get Help](/troubleshooting/best-practices-and-get-help)**.
 

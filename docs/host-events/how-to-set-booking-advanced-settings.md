@@ -1,9 +1,9 @@
 ---
-title: Set Booking Advanced Settings
+title: Advanced Event Settings
 description: Configure redirects, confirmation, cancellation, and landing page options for each event in FluentBooking.
 ---
 
-# Set Booking Advanced Settings
+# Advanced Event Settings
 
 FluentBooking is the ultimate tool for managing your website's bookings. It offers a range of Advanced Settings to enhance your booking management. 
 

@@ -1,9 +1,9 @@
 ---
-title: How to Generate a Coupon Link
+title: Share a Coupon Link
 description: Share a booking link with a coupon pre-applied. No manual code entry—discount included in the URL in FluentBooking.
 ---
 
-# Generate a Coupon Link
+# Share a Coupon Link
 
 Make booking easier for your clients by sharing a link that already has the coupon applied. With the Generate Coupon Link feature, your clients don’t need to type codes manually. The discount is included in the link, streamlining the process and boosting conversions.
 

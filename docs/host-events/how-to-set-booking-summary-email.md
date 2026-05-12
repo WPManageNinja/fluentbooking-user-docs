@@ -1,9 +1,9 @@
 ---
-title: Set Booking Summary Email
+title: Booking Summary Report Email
 description: Receive periodic booking reports by email. Enable and configure the summary email in FluentBooking global settings.
 ---
 
-# Set Booking Summary Email
+# Booking Summary Report Email
 
 **Booking Summary** features enable you to get booking reports directly to your email based on your desired interval.
 

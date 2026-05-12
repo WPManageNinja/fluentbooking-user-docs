@@ -1,9 +1,9 @@
 ---
-title: Create New Events
+title: Create a Booking Event
 description: Define event types (one-to-one or group), duration, and booking flow. Learn how to create new booking events in FluentBooking.
 ---
 
-# Create New Events
+# Create a Booking Event
 
 Creating a new event in FluentBooking is the foundation of your scheduling system. This feature allows you to define exactly how, where, and for how long your meetings will occur, whether they are simple one-on-one sessions or group events. 
 
@@ -55,7 +55,7 @@ In the next step, you’ll find settings for your booking, including:
 - [Availability](/host-events/how-to-create-a-booking-schedule)
 - [Limits](/host-events/how-to-set-booking-limits)
 - [Questions Settings](/host-events/how-to-set-booking-questions)
-- [Email Notification](/host-events/how-to-set-email-notifications-for-a-booking)
+- [Email Notification](/host-events/email-notifications-for-events)
 - [SMS Notification](/integrations/twilio-integration-with-fluentbooking)
 - [Advanced Settings](/host-events/how-to-set-booking-advanced-settings)
 - [Payment Settings](/payments/how-to-take-payment-in-bookings)

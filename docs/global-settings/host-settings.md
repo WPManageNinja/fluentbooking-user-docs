@@ -1,9 +1,9 @@
 ---
-title: Host Settings
+title: Host Profile Settings
 description: Personalize your host or calendar profile—avatar, info, and features. Configure host settings in FluentBooking.
 ---
 
-# Host Settings
+# Host Profile Settings
 
 In FluentBooking, you have the freedom to enhance your host profile with more information and exciting features. This guide will walk you through the process of personalizing your Host/Calendar profile.
 

@@ -1,9 +1,9 @@
 ---
-title: Create a Booking Schedule
+title: Assign a Booking Schedule
 description: Set when your calendar is available for bookings. Configure availability schedule for hosts and events in FluentBooking.
 ---
 
-# Create a Booking Availability
+# Assign a Booking Schedule
 
 Every business, big or small, needs an appointment scheduling system to make setting up appointments easy. Without it, keeping track of scheduled appointments can be difficult. In this guide, we will let you know how to set an **Availability** schedule in FluentBooking.
 

@@ -1,9 +1,9 @@
 ---
-title: Host & User Access Management
+title: Team Permissions & Access
 description: Control who can view or edit bookings by WordPress role. Assign hosts and manage team access in FluentBooking.
 ---
 
-# Host/User Access Management
+# Team Permissions & Access
 
 Managing your team in FluentBooking is a simple way to delegate scheduling tasks. This feature allows you to decide exactly who can view or edit bookings, keeping your workflow organized and your data secure.
 

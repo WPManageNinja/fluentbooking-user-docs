@@ -1,9 +1,9 @@
 ---
-title: Set Email Notifications for a Booking
+title: Email Notifications
 description: Configure confirmation, reminder, reschedule, and cancellation emails per event in FluentBooking.
 ---
 
-# Set Email Notifications for a Booking
+# Email Notifications
 
 FluentBooking allows you to send automatic email notifications for various actions like bookingconfirmation, reminders, rescheduling, and cancellations. This notification will be received via email.
 
@@ -22,19 +22,19 @@ Go to your FluentBooking dashboard. From the top navigation bar, click on **Cale
 
 Once you've found it, click the **Edit** button next to it to open the settings and customize your email notifications.
 
-![ Set up Email Notification](/images/host-events/how-to-set-email-notifications-for-a-booking/edit-icon-01-scaled.webp)
+![ Set up Email Notification](/images/host-events/email-notifications-for-events/edit-icon-01-scaled.webp)
 
 A new page will appear. Next, click on the **Email Notification** section from the left side bar.
 
 Here, you will find some default notification templates already set up for you. Some notifications are meant for the 'Organizer' and some for the 'Attendee'. You can easily turn **on** or **off** the notifications you'd like to receive or send.
 
-![Email Notification](/images/host-events/how-to-set-email-notifications-for-a-booking/email-notification-02-scaled.webp)
+![Email Notification](/images/host-events/email-notifications-for-events/email-notification-02-scaled.webp)
 
 ## Customization Notification Settings
 
 Want to add a personal touch to your notifications? Click the**Edit**icon, and a pop-up will appear, allowing you to customize the email’s subject and content.
 
-![Customization Notification Settings](/images/host-events/how-to-set-email-notifications-for-a-booking/enable-notificstion-scaled.webp)
+![Customization Notification Settings](/images/host-events/email-notifications-for-events/enable-notificstion-scaled.webp)
 
 **A. Subject:** Type the subject of your email. Our notification editor comes with a bunch of shortcodes that will allow you to get all the information related to the booking. Just click on the **three-dot icon** to insert shortcodes as needed.
 
@@ -54,7 +54,7 @@ These shortcodes will come in four categories:
 
 Once everything is set up, click the **Save Email** button to save your email notification.
 
-![Notification Configuration](/images/host-events/how-to-set-email-notifications-for-a-booking/email-notification-configuration-03.webp)
+![Notification Configuration](/images/host-events/email-notifications-for-events/email-notification-configuration-03.webp)
 
 ## Customize Other Notification Settings
 
@@ -72,7 +72,7 @@ These questions let you ask your users why they are canceling or rescheduling th
 
 Once everything looks good, click the **Save Email** button to save your changes.
 
-![Customize Other Notification](/images/host-events/how-to-set-email-notifications-for-a-booking/other-email-noptification-scaled.webp)
+![Customize Other Notification](/images/host-events/email-notifications-for-events/other-email-noptification-scaled.webp)
 
 You’re now all set to enjoy FluentBooking’s notification features.  Furthermore, you can edit the templates as per your needs, and the changes will reflect only on your particular events.
 
