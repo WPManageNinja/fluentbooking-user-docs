@@ -23,7 +23,7 @@ Admin can make WordPress **Contributor,Author**, and **Editor** users as a* *Hos
 Admin can also set permission for their Host to manage the bookings; the permission can be Read, Write, or both. Go to the FluentBooking dashboard, select **Settings**, and you will find the option **Team** in the left sidebar. Click on it.
 
 
-![Team](/images/host-events/host-user-access-management/Team-Management-FluentBooking-1.webp)
+![Team](/images/host-events/host-user-access-management/team-management-fluentBooking-1.webp)
 
 
 Here you will see the Team Member button. Click on it to **add a team member**. It will save the host's permissions.
