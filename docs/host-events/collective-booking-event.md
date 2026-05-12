@@ -16,11 +16,11 @@ To create a Collective Booking, navigate to your Fluent Booking dashboard and cl
 Next, click the **New** button and select **Add Team**. Please note that the Collective Booking feature is available exclusively within Team Events.
 
 
-![Create Collective Booking](/images/host-events/collective-booking-event/Collective-Meeting-1-scaled.webp)
+![Create Collective Booking](/images/host-events/collective-booking-event/collective-meeting-1-scaled.webp)
 
 Assign a name to your team, then use the **Select Team Member** dropdown to choose the team members. Below this, you’ll find the **Collective** option—select it to enable the Collective Booking feature.
 
-![Select Team Member](/images/host-events/collective-booking-event/Collective-Meeting-2-scaled.webp)
+![Select Team Member](/images/host-events/collective-booking-event/collective-meeting-2-scaled.webp)
 
 Next, you'll be directed to the **Collective Booking Details** page. Here, provide a name and description for your booking.
 
@@ -28,12 +28,12 @@ Use the **Meeting Duration** dropdown field to select the desired duration for t
 
 Below that, you'll find options for **Meeting Location** and **Timezone**. Customize these settings as needed, then click the **Continue** button to proceed.
 
-![Customize Settings](/images/host-events/collective-booking-event/Collective-Meeting-3-scaled.webp)
+![Customize Settings](/images/host-events/collective-booking-event/collective-meeting-3-scaled.webp)
 
 
 You will now be redirected to the **Booking Event Editor** page, where you can select and customize all the options to make your booking more effective and tailored to your needs.
 
-![Booking Event Editor](/images/host-events/collective-booking-event/Collective-Meeting-4-scaled.webp)
+![Booking Event Editor](/images/host-events/collective-booking-event/collective-meeting-4-scaled.webp)
 
 
 ## Availability Settings
@@ -55,7 +55,7 @@ If you prefer to use each host's individual availability, select the **Host Sche
 Finally, click the **Save Settings** button to apply the changes to your Collective Booking.
 
 
-![Choose Host Schedule](/images/host-events/collective-booking-event/Collective-Meeting-5-scaled.webp)
+![Choose Host Schedule](/images/host-events/collective-booking-event/collective-meeting-5-scaled.webp)
 
 
 And that’s how you can create a collective booking! If you have any further questions, concerns, or suggestions about this documentation, please don’t hesitate to reach [out to us](https://wpmanageninja.com/support-tickets/). We’re here to help!
