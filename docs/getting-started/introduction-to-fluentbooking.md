@@ -5,7 +5,7 @@ description: FluentBooking is a fast, native WordPress scheduling plugin for app
 
 # Introduction to FluentBooking
 
-**FluentBooking** is a powerful, native WordPress scheduling plugin built to replace bloated SaaS booking tools. Run appointments, sales calls, consultations, webinars, and team events directly from your own site—no monthly per-seat fees, no data leaving your server.
+**FluentBooking** is a powerful, native WordPress scheduling plugin built to replace bloated SaaS booking tools. Run appointments, sales calls, consultations, webinars, and team events directly from your own site, no monthly per-seat fees, no data leaving your server.
 
 This guide gives you a quick tour of what FluentBooking can do and where to go next.
 
@@ -22,10 +22,10 @@ Whether you are a solo consultant or a multi-host team, FluentBooking adapts to 
 
 Supported event types:
 
-- **One-to-One** — classic 1:1 appointments and consultations.
-- **Group Events** — webinars, classes, and workshops with capacity limits.
-- **[Round Robin](/host-events/how-to-set-round-robin-bookings#set-round-robin-bookings)** — distribute bookings evenly across a team.
-- **[Collective](/host-events/collective-booking-event#create-collective-booking)** — book multiple hosts together for a single meeting.
+- **One-to-One**: classic 1:1 appointments and consultations.
+- **Group Events**: webinars, classes, and workshops with capacity limits.
+- **[Round Robin](/host-events/how-to-set-round-robin-bookings#set-round-robin-bookings)**: distribute bookings evenly across a team.
+- **[Collective](/host-events/collective-booking-event#create-collective-booking)**: book multiple hosts together for a single meeting.
 - **Recurring & One-off Events** — fixed-date sessions or repeating series.
 
 ## Total Control Over Availability
