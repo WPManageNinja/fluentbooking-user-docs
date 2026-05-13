@@ -44,7 +44,7 @@ You can customize your integration feed using the following settings:
     * **Skip name update if existing contact have old data:** Protects existing contact information from being overwritten.
     * **Enable Double opt-in for new contacts:** Sends a confirmation email to new subscribers.
     * **Enable Force Subscribe:** Forcibly updates a contact to "Subscribed" status regardless of their previous state.
-* **Event Trigger:** Select which booking actions will fire this integration feed. You can choose from **Booking Confirmed, Completed, Canceled, Rescheduled, or Rejected**.
+* **Event Trigger:** Select which booking actions will fire this integration feed. You can choose from **Booking Confirmed, Completed, Canceled, Rescheduled, Rejected, or No Show**.
 * **Remove Contact Tags:** Choose specific tags to be automatically removed from a contact when the selected trigger occurs.
 * **Status:** Toggle the Enable This feed checkbox to activate or deactivate the integration.
 
@@ -65,6 +65,7 @@ A popup window will appear. From the sidebar, select **Booking**, then choose a 
  * **Booking Cancelled:** Runs the automation when a booking is canceled.
  * **Booking Complete:** Runs the automation when a booking is marked as completed, either manually or automatically.
  * **Booking Rescheduled:** Runs the automation when an existing booking is moved to a new date or time.
+ * **Booking No Show:** Runs the automation when a booking is marked as no-show by the host.
 
 After selecting a trigger, click the **Continue** button to start setting up the funnel.
 

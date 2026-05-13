@@ -60,7 +60,9 @@ Want to see all your bookings in one place? Just choose the **Calendar View** op
 
 If you need more details for specific events, just click on any day or event and you’re in.
 
-![Month View](/images/bookings/booking-details/11-scaled.webp)
+**Exporting Bookings to CSV:** You can easily export your booking data for reporting or bookkeeping. Simply click the **Export CSV** icon located next to the search bar to download a full record of your filtered events directly to your device.
+
+![Month View](/images/bookings/booking-details/monthly-booking-11.webp)
 
 ## View Specific Host's Bookings
 

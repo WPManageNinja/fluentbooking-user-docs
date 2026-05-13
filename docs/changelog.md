@@ -7,6 +7,59 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.1.0
+
+*Released on May 12, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Introduced: Bookings CSV Export with Filter Hooks
+• Added: Persist Author and Status Filters in Local Storage
+• Added: FluentCart Slot Icon and Unified Event Price Source
+• Added: Uploaded File Cleanup on Booking Deletion
+• Added: Recurring Default Occurrence Filter
+• Added: No-Show Option to FluentCRM Event Trigger Feed
+• Added: Disable Start Date Option in Fluent Boards Integration
+• Added: PHP 8.4 Compatibility Support
+```
+
+```markdown [🚀 Improvements]
+• Improved: Scheduler Performance with Batched Writes and Bounded Sweeps
+• Improved: Aggregate SQL for Report Stats and Widget Numbers
+• Improved: Batched User Lookups in Team and Zoom Listings
+• Improved: Calendar Deeplink Body Renders with Proper Line Breaks
+```
+
+```markdown [🔒 Security]
+• Security: Authorization Hardened Across Calendars, Events and Integrations
+• Security: OAuth State Validated Against Current User
+• Security: Ownership Proof for File Delete
+• Security: ICS Description and Location Output Escaped Against Injection
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Host CSV Export Column Mismatch and Null Transaction Crash
+• Fixed: Apple Calendar Event Renders with Host Timezone
+• Fixed: Outlook Add-to-Calendar Wrong Time and Missing Details
+• Fixed: FluentCart Checkout Split First/Last Name Prefill
+• Fixed: FluentCart Checkout Conflict with Woo Flow
+• Fixed: Stripe Sub-cent Truncation and Coupon Amount Conversion
+• Fixed: Date Field Not Selectable on iPhone
+• Fixed: Webhook Selected Fields Missing Source URL Option
+• Fixed: System-Expired Pending Bookings Fire auto_cancelled Hook
+• Fixed: Report Next-Meetings Ordering and Per-Group Identity
+• Fixed: No-Availability Flash on Auto-Advancing to Next Month
+• Fixed: Slot Booking View Fallthrough to Host Page
+• Fixed: Multi-Time, Multi-Guest, Cart and Calendar Null Safety
+• Fixed: Imported Calendar Required Fields Validation
+• Fixed: Integration Enabled Flag Preserved on Save
+• Fixed: Minor Dark Mode and Responsive Issue
+```
+
+:::
+
+
 ## FluentBooking v2.0.05
 
 *Released on February 17, 2026*
@@ -29,6 +82,32 @@ Stay updated with the latest improvements, new features, bug fixes, and performa
 
 ```markdown [🚀 Improvements]
 • Improved: Minor UI-UX and Dark Mode
+```
+
+:::
+
+
+## FluentBooking v2.0.01
+
+*Released on January 12, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added: All Bookings Shortcode
+• Added: Recurring Booking Support in Admin Booking
+```
+
+```markdown [🚀 Improvements]
+• Improved: Dark Mode and Overall Responsiveness
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Calendar Shortcode Showing Disabled Events
+• Fixed: Paid Events Not Working in Admin Booking
+• Fixed: Recurring Booking Issue with Group Events
+• Fixed: Group Booking Status not Updating
+• Fixed: Date Field Formatting Issue
 ```
 
 :::

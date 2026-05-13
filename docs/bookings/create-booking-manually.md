@@ -17,7 +17,7 @@ Go to the **Bookings** section from the top navigation bar in your FluentBooking
 
 The **Add New Booking** form will open. You need to fill in the following information to create the appointment:
 
- * **A. Select Event:** Choose the event from the dropdown option.
+ * **A. Select Event:** Choose the event from the dropdown option. Recurring events are supported — selecting a recurring event lets you pick any occurrence.
  * **B. Attendee’s Timezone:** Select the timezone of the attendee.
  * **C. Meeting Duration:** Pick the meeting duration. The available durations will match the selected event.
  * **D. Ignore Availability:** Check this box if you want to override normal availability for this booking.

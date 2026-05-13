@@ -45,7 +45,7 @@ Use the following shortcodes exactly as needed:
 [fluent_booking_team event_ids="68, 139, 158, 131, 149" title="", description="",logo_url=""]
 ```
 ```
-[fluent_booking_lists title="", filter="show", pagination="show" period="upcoming" per_page=10 no_bookings="No bookings found"]
+[fluent_booking_lists title="" filter="show" pagination="show" period="upcoming" per_page=10 calendar_ids="all" no_bookings="No bookings found"]
 ```
 ```
 [fluent_booking_panel]
@@ -114,7 +114,7 @@ Logged-in users can view their bookings using this shortcode. Customize the para
 For example:
 
 ```
-[fluent_booking_lists title="" filter="show" pagination="show" period="upcoming" per_page="10" no_bookings="No bookings found"]
+[fluent_booking_lists title="" filter="show" pagination="show" period="upcoming" per_page="10" calendar_ids="all" no_bookings="No bookings found"]
 ```
 
 **Parameters:**
@@ -122,8 +122,9 @@ For example:
 - **title:** Title for the booking list.
 - **filter:** Show filters for bookings (show or hide).
 - **pagination:** Enable or disable pagination.
-- **period:** Specify booking periods (e.g., upcoming).
+- **period:** Specify booking periods (`upcoming`, `completed`, `cancelled`, `all`).
 - **per_page:** Set the number of bookings to display per page.
+- **calendar_ids:** Limit the list to specific calendars. Pass a comma-separated list of calendar IDs, or use `all` to show bookings across all calendars (default: `all`).
 - **no_bookings:** Message to display if no bookings are found.
 
 ### Embedding a Booking Frontend Panel
