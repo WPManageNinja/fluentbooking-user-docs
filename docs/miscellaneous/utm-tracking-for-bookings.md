@@ -40,5 +40,3 @@ First, navigate to **FluentBooking → Bookings** from your dashboard. Next, cli
 ![Viewing UTM Data in Bookings](/images/miscellaneous/utm-tracking-for-bookings/image-2.webp)
 
 Congratulations! You can now track your marketing efforts and understand exactly which channels bring you the most clients.
-
-If you need assistance, don’t hesitate to contact our [support](https://wpmanageninja.com/account/dashboard/) team.

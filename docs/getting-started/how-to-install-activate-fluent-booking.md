@@ -44,4 +44,3 @@ And finally, click the **Verify License** button. Your **FluentBooking Pro versi
 ![Activating the License Key](/images/getting-started/how-to-install-activate-fluent-booking/booking-licence-2-scaled.webp)
 
 Congratulations now you can explore all the amazing features of FluentBooking!
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

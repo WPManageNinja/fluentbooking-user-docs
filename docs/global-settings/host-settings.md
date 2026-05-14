@@ -55,4 +55,4 @@ That’s it! You can now share the copied link with anyone you’d like.
 
 Don't forget to click **Save Changes** to confirm your updates to the host profile.
 
-That covers the essentials of managing your FluentBooking Host/Calendar profile. If you have any more questions, please don't hesitate to reach out to us.
+That covers the essentials of managing your FluentBooking Host/Calendar profile. 

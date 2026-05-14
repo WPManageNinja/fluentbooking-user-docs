@@ -96,6 +96,3 @@ Click the **Apply** button to update your view. The page will now only show cale
 
 
 You can now efficiently find and manage your booking calendars using search and filter.
-
-
-If you have any questions or need assistance, feel free to get in touch [with us](https://wpmanageninja.com/account/dashboard/).

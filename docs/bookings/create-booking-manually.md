@@ -40,5 +40,3 @@ If you want to change your mind, click **Cancel** instead.
 ![Add New Booking](/images/bookings/create-booking-manually/add-new-booking-2.webp)
 
 Congratulations, you have successfully created a manual booking! You can now manage this appointment just like any other booking on your list.
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

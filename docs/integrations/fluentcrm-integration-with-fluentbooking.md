@@ -94,5 +94,3 @@ You can view attendees’ FluentCRM data inside the **Booking Details** page.
 Booking information will also appear in the attendee’s **FluentCRM Contact Profile**.
 
 ![FluentCRM Profile](/images/integrations/fluentcrm-integration-with-fluentbooking/crm-contact-6.webp)
-
-If you have any questions or need assistance, feel free to reach out to our [support](https://wpmanageninja.com/account/dashboard/).

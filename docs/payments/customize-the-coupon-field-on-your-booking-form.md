@@ -37,5 +37,3 @@ Now, when clients visit your booking page, they will see the customized coupon f
 ![Payment Summary](/images/payments/customize-the-coupon-field-on-your-booking-form/payment-summary04.webp)
 
 Well done! You’ve made it even easier for customers to use their discounts and book your services.
-
-If you need assistance, don’t hesitate to contact our [support](https://wpmanageninja.com/account/dashboard/) team.

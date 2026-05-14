@@ -50,4 +50,3 @@ Now, check if any update is available. If yes, just click on the **Update** butt
 
 
 Congratulations! Now, you can explore all the amazing features of FluentBooking!
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

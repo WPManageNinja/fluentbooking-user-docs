@@ -81,5 +81,3 @@ Once you book the schedule and complete the process, you will see a confirmation
 Also, you will get the same booking information in your email through which you booked the event.
 
 ![Meeting Schedule Confirmation message](/images/payments/take-multi-payments/9.-metting-schduled-confirmation-message.webp)
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

@@ -52,5 +52,3 @@ Go to the specific page or post where you want the calendar to appear.
 Once everything looks good in the preview, click **Save** or **Publish**. Your booking calendar is now live! Clients can book appointments directly from this embedded view.
 
 **Congratulations!** You have successfully embedded your booking calendar. Embedding your schedule is a quick and easy way to keep clients engaged on your own website.
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our  [**support team**](https://wpmanageninja.com/account/dashboard/). Thank you.

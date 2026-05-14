@@ -53,6 +53,3 @@ Your **Team** section will appear on the front page as shown
 
 
 ![Select Booking Event](/images/getting-started/create-team-booking-page/team.gif)
-
-
-This is how you can enable the Team Page in FluentBooking. If you have any further questions, feel free to reach out to us for assistance.

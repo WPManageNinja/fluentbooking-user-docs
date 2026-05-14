@@ -74,6 +74,3 @@ To share this booking event, click the **Share** button of the event in the **Ca
 
 
 > Please be aware that the booking event will disappear from your calendar once an attendee books it, as it is a Single One-off Event. This event is designed for a single occurrence only, so it will no longer appear in the calendars after it has been booked.
-
-
-This concludes the information on the Single One-off Event in FluentBooking. If you have any additional questions about this guideline, please don't hesitate to [contact us](https://wpmanageninja.com/account/dashboard/).

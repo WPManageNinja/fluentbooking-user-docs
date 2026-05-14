@@ -49,6 +49,3 @@ Your Stripe Payment and FluentBooking will be effortlessly connected after a suc
 Finally, click the **Save Settings** button to save your changes.
 
 > If you want to add payment to your bookings, please read [this doc](/how-to-take-payment-in-bookings).
-
-
-The integration of Stripe with FluentBooking is now complete. Please do not hesitate to [contact us](https://wpmanageninja.com/account/dashboard/) if you have any more queries.

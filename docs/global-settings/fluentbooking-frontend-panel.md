@@ -58,5 +58,3 @@ Here’s what the login page will look like on your site’s frontend for access
 Your FluentBooking will appear in the frontend panel as shown in the screenshot below.
 
 ![Frontend Panel](/images/global-settings/fluentbooking-frontend-panel/fluentbooking-frontend-portal-7-scaled.webp)
-
-If you have any further questions about the FluentBooking Frontend Panel, please don’t hesitate to  [contact us](https://wpmanageninja.com/account/dashboard/).

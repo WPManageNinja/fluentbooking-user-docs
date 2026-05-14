@@ -57,4 +57,4 @@ Lastly, click the **Save Changes** button to save your availability schedule.
 To edit an existing availability schedule, click on the specific profile. This action will redirect you to the availability schedule settings page, where you can make the necessary edits.
 
 
-That's all there is to say regarding the availability schedule. If you have any questions, please get in touch [with us](https://wpmanageninja.com/account/dashboard/).
+That's all there is to say regarding the availability schedule. 

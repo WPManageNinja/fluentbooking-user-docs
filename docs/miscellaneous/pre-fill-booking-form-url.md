@@ -86,5 +86,3 @@ Select the specific **UTM parameter** (e.g., utm_source) from the **Field** drop
 ![Adding UTM Source Parameters](/images/miscellaneous/pre-fill-booking-form-url/utm-source-scaled-5.webp)
 
 And that’s how you can pass default booking information to the URL! By using these parameters, you can offer a smoother, faster booking experience for your clients.
-
-If you have any further questions, concerns, or suggestions about this documentation, please don’t hesitate to reach out to [us](https://wpmanageninja.com/account/dashboard/).

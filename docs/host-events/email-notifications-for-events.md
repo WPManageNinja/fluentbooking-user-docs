@@ -75,5 +75,3 @@ Once everything looks good, click the **Save Email** button to save your changes
 ![Customize Other Notification](/images/host-events/email-notifications-for-events/other-email-noptification-scaled.webp)
 
 You’re now all set to enjoy FluentBooking’s notification features.  Furthermore, you can edit the templates as per your needs, and the changes will reflect only on your particular events.
-
-If you have any questions or need assistance, feel free to get in touch [with us](https://wpmanageninja.com/account/dashboard/).

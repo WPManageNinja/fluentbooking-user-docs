@@ -91,6 +91,3 @@ Now, go back to your booking event and select **Use WooCommerce Checkout**. You 
 When all is done, click the **Save Changes** button.
 
 ![Use WooCommerce Checkout](/images/payments/how-to-take-payment-in-bookings/use-woocommerce-checkout-05-scaled.webp)
-
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

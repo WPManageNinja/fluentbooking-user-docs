@@ -109,5 +109,3 @@ By default, this shows all calendars. If you want to display calendars from spec
 Once everything is set, click **Save** and **Publish** your page. You’ll now see a preview of the **FluentBooking Bookings** block on your site.
 
 ![Preview](/images/miscellaneous/gutenberg-blocks/5.webp)
-
-So, here are all the FluentBooking Blocks in the Gutenberg editor. If you have any further questions or need assistance, feel free to reach out to our [support](https://wpmanageninja.com/support-tickets/) team.

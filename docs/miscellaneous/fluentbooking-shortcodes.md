@@ -157,5 +157,3 @@ Look at the URL in your browser. The IDs are part of the URL structure:
 You can refer to the following example screenshot to identify the Calendar ID and Booking/Event ID easily.
 
 ![Edit Page](/images/miscellaneous/fluentbooking-shortcodes/claender-id-2-scaled.webp)
-
-If you have any questions, suggestions, or need further assistance regarding this documentation, please don’t hesitate to [contact us](https://wpmanageninja.com/support-tickets/). We’re here to help!

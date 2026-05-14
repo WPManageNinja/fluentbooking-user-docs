@@ -49,5 +49,3 @@ You can easily disable, enable, edit, and delete the task by clicking the icon.
 To see your boards in FluentBoards, simply go to the **FluentBoards Dashboard**. From there, click on the task for the board you want to view. You’ll find all the boards assigned from **FluentBooking** right in one place.
 
 ![Viewing the Boards in FluentBoards](/images/integrations/fluentboards-integration-with-fluentbooking/boards-scaled.webp)
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

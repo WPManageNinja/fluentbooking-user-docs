@@ -50,5 +50,3 @@ On the **Booking Details** page, you'll find the transaction details. To mark a 
 Alternatively, you can update the payment status from the **Billing Details** section. Just click the **Edit icon** next to the **Transaction Details** and adjust the status as needed.
 
 ![Booking Details Page](/images/payments/offline-payment-for-booking/payment-fluentbooking-4-scaled.webp)
-
-That’s how you can easily enable and manage offline payments for your booking events. If you have any further questions, feel free to reach out to our [support team](https://wpmanageninja.com/support-tickets/). we’re here to help!

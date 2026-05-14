@@ -43,5 +43,3 @@ In the drop-down menu, select **Clone Form** and a duplicate calendar with the s
 To clone a specific booking event, navigate to the event you want to duplicate click on the three-dot button along with each event, and select **Clone**. A new event identical to the original will be created within the same calendar.
 
 ![Clone Event](/images/miscellaneous/import-export-and-clone-events/fluentbooking-import-export-and-clone-4-scaled.webp)
-
-This is how you can import, export, and clone your booking events. If you have any further questions about this guide, please don't hesitate to [contact us](https://wpmanageninja.com/account/dashboard/).
