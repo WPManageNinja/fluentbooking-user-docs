@@ -93,4 +93,4 @@ You can add or change the slug of your event landing page URL using this option.
 ![Landing Page Settings](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-8.webp)
 
 
-If you have any questions about Booking Advanced Settings, please feel free to [contact us](https://wpmanageninja.com/account/dashboard/).
+

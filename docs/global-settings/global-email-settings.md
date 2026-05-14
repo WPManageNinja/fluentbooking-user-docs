@@ -54,4 +54,4 @@ This allows you to create a more personalized and accessible experience for your
 
 You've successfully configured your global settings, creating a more consistent booking experience.
 
-If you need any further assistance with this article, feel free to contact our [support team](https://wpmanageninja.com/support-tickets/). We're always happy to help!
+

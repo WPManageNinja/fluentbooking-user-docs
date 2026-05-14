@@ -116,4 +116,4 @@ The host of the Fluentbooking and the attendees will receive the **Zoom video li
 ![Zoom video link](/images/integrations/zoom-integration-with-fluentbooking/4d470267-0140-4a15-b0c1-c2686af946b7.webp)
 
 
-If you have any further queries about this integration feel free to reach our [support team](https://wpmanageninja.com/account/dashboard/).
+
