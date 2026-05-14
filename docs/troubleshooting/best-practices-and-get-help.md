@@ -11,19 +11,19 @@ This guide covers recommended practices for running FluentBooking smoothly and w
 
 Follow these practices to reduce issues and get the most out of FluentBooking:
 
-- **Keep FluentBooking and WordPress up to date.** Install updates when they are released so you benefit from fixes and new features. See [Install, Activate & Update](/getting-started/install-activate-and-update-fluentbooking).
+- **Keep FluentBooking and WordPress up to date.** Install updates when they are released so you benefit from fixes and new features. See [Install, Activate & Update](/install-activate-and-update-fluentbooking).
 
 - **Use a supported theme and avoid conflicting plugins.** Test with a default theme (e.g. Twenty Twenty-Four) if you suspect display or script conflicts. Deactivate other booking or calendar plugins when not needed.
 
-- **Configure availability and time zones clearly.** Set [availability](/availability/configure-availability) for each host and double-check time zones so slots show at the right times for you and your visitors.   
+- **Configure availability and time zones clearly.** Set [availability](/configure-availability) for each host and double-check time zones so slots show at the right times for you and your visitors.   
 
-- **Verify payment and email settings before going live.** Test a booking with Stripe or PayPal in test mode, then switch to Live only after confirming. Check [Global Email Settings](/global-settings/global-email-settings) and event-level [Email Notifications](/host-events/email-notifications-for-events) so confirmations and reminders send correctly.
+- **Verify payment and email settings before going live.** Test a booking with Stripe or PayPal in test mode, then switch to Live only after confirming. Check [Global Email Settings](/global-email-settings) and event-level [Email Notifications](/email-notifications-for-events) so confirmations and reminders send correctly.
 
-- **Use shortcodes and blocks correctly.** When embedding the booking form, use the right [shortcode](/miscellaneous/fluentbooking-shortcodes) or [Gutenberg block](/miscellaneous/gutenberg-blocks) for your calendar or event so the form displays and loads as expected.
+- **Use shortcodes and blocks correctly.** When embedding the booking form, use the right [shortcode](/fluentbooking-shortcodes) or [Gutenberg block](/gutenberg-blocks) for your calendar or event so the form displays and loads as expected.
 
-- **Review booking limits and cut-offs.** Use [Booking Limits](/host-events/how-to-set-booking-limits) and minimum notice / cut-off settings to avoid last-minute or overbooked slots and to keep your schedule manageable.
+- **Review booking limits and cut-offs.** Use [Booking Limits](/how-to-set-booking-limits) and minimum notice / cut-off settings to avoid last-minute or overbooked slots and to keep your schedule manageable.
 
-If you run into a specific issue, check [Common Issues & FAQs](/troubleshooting/common-issues-and-faqs) first.
+If you run into a specific issue, check [Common Issues & FAQs](/common-issues-and-faqs) first.
 
 ## Get Help
 

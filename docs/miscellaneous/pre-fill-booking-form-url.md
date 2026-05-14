@@ -65,7 +65,7 @@ If you prefer to manually construct the URL or understand how the **Generate Lin
 
 You can also pre-fill answers for custom Booking Questions you have set up for your event.
 
-> To learn how to create these questions first, please read our documentation on [**How to Set Booking Questions**](/host-events/how-to-set-booking-questions).
+> To learn how to create these questions first, please read our documentation on [**How to Set Booking Questions**](/how-to-set-booking-questions).
 
 In the **Generate Link** tab, look at the **Field** dropdown. Select the specific question you want to answer (e.g., "What is your company website?"). In the **Value** box, type the answer you want to pre-fill. **Copy** the generated URL.
     
@@ -81,7 +81,7 @@ Passing UTM data works the same way as Booking Questions and standard fields.
 
 Select the specific **UTM parameter** (e.g., utm_source) from the **Field** dropdown. **Enter** your source name (e.g., newsletter) in the **Value** box.
 
-> For a deeper dive into tracking, please read our documentation on [**UTM Tracking for Bookings**](/miscellaneous/utm-tracking-for-bookings).
+> For a deeper dive into tracking, please read our documentation on [**UTM Tracking for Bookings**](/utm-tracking-for-bookings).
 
 ![Adding UTM Source Parameters](/images/miscellaneous/pre-fill-booking-form-url/utm-source-scaled-5.webp)
 

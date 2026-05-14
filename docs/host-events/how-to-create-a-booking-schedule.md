@@ -34,7 +34,7 @@ In the **Availability Range Settings** section, you can manage the schedule as f
 
 You can choose **Custom Hours** or use an **Use an Existing Schedule**.
 
-> You can create **Existing Schedule Templates** by reading [this documentation](/availability/configure-availability).
+> You can create **Existing Schedule Templates** by reading [this documentation](/configure-availability).
 
 ![Configuring Availability Hours](/images/host-events/how-to-create-a-booking-schedule/create-a-booking-schedule-4-scaled.webp)
 

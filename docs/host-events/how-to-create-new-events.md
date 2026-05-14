@@ -14,7 +14,7 @@ In this guide, we'll provide you with step-by-step instructions to create new bo
 
 
 ::: tip Important
-Before creating a new event, make sure you've already created a [host](/host-events/how-to-create-a-new-host). You need at least one host to set up a booking event.
+Before creating a new event, make sure you've already created a [host](/how-to-create-a-new-host). You need at least one host to set up a booking event.
 :::
 
 
@@ -51,15 +51,15 @@ After that, click on the **Continue** button to save it.
 In the next step, you’ll find settings for your booking, including:
 
 
-- [Event Details](/host-events/how-to-modify-event-details)
-- [Availability](/host-events/how-to-create-a-booking-schedule)
-- [Limits](/host-events/how-to-set-booking-limits)
-- [Questions Settings](/host-events/how-to-set-booking-questions)
-- [Email Notification](/host-events/email-notifications-for-events)
-- [SMS Notification](/integrations/twilio-integration-with-fluentbooking)
-- [Advanced Settings](/host-events/how-to-set-booking-advanced-settings)
-- [Payment Settings](/payments/how-to-take-payment-in-bookings)
-- [Webhooks Feeds](/integrations/webhook-integration-with-fluentbooking)
+- [Event Details](/how-to-modify-event-details)
+- [Availability](/how-to-create-a-booking-schedule)
+- [Limits](/how-to-set-booking-limits)
+- [Questions Settings](/how-to-set-booking-questions)
+- [Email Notification](/email-notifications-for-events)
+- [SMS Notification](/twilio-integration-with-fluentbooking)
+- [Advanced Settings](/how-to-set-booking-advanced-settings)
+- [Payment Settings](/how-to-take-payment-in-bookings)
+- [Webhooks Feeds](/webhook-integration-with-fluentbooking)
 - Integrations
 
 Once you've configured everything, click the **Save Changes** button to save your settings.

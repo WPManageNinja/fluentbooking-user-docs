@@ -28,7 +28,7 @@ To delete or disable your booking event, go to the **Calendars** and choose the 
 
 Here, you’ll find the **Delete** and **Disable** buttons. Simply click the button that suits your needs, and your event booking will be deleted or disabled accordingly. You’ll also see a **Clone** option here to duplicate the event easily. 
 
-If you learn more about cloning events, check out this [article](/miscellaneous/import-export-and-clone-events).
+If you learn more about cloning events, check out this [article](/import-export-and-clone-events).
 
 
 ![Deleting or Disabling a Booking](/images/host-events/how-to-modify-event-details/delete-or-disabling-scaled.webp)

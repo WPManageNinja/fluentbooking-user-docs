@@ -9,7 +9,7 @@ FluentBooking allows you to send automatic email notifications for various actio
 
 In this guide, you'll learn how to easily set up these email notification settings for each of your booking events.
 
-> If you want to manage notifications for all bookings, check out the **Global Email Settings** in our full [Documentation](/global-settings/global-email-settings).
+> If you want to manage notifications for all bookings, check out the **Global Email Settings** in our full [Documentation](/global-email-settings).
 
 
 <div class="video-container">

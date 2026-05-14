@@ -36,10 +36,10 @@ Fill in the required details for your chosen gateway. For example, to use PayPal
 
 For detailed instructions on each gateway, please see our guides:
 
-- [How to set up Stripe Payment with FluentBooking](/payments/stripe-integration-with-fluent-booking)
-- [How to set up PayPal Payment with FluentBooking](/payments/paypal-integration-with-fluentbooking)
-- [How to set up Offline Payment with FluentBooking](/payments/offline-payment-for-booking)
-- [How to use Multiple Payment Methods in one Booking](/payments/take-multi-payments)
+- [How to set up Stripe Payment with FluentBooking](/stripe-integration-with-fluent-booking)
+- [How to set up PayPal Payment with FluentBooking](/paypal-integration-with-fluentbooking)
+- [How to set up Offline Payment with FluentBooking](/offline-payment-for-booking)
+- [How to use Multiple Payment Methods in one Booking](/take-multi-payments)
 
 ![Payment Method](/images/payments/how-to-take-payment-in-bookings/payment-methods-02-1-scaled.webp)
 

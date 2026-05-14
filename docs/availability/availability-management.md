@@ -23,7 +23,7 @@ Events can be set up with various time durations, such as 15, 30, 60 minutes, or
 ## Configuring Availability
 
 
-Configuring availability is user-friendly with FluentBooking. Detailed instructions are available in the [Documentation](/availability/configure-availability) for easy setup.
+Configuring availability is user-friendly with FluentBooking. Detailed instructions are available in the [Documentation](/configure-availability) for easy setup.
 
 
 ## Shared Availability

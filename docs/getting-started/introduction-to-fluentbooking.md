@@ -24,8 +24,8 @@ Supported event types:
 
 - **One-to-One**: classic 1:1 appointments and consultations.
 - **Group Events**: webinars, classes, and workshops with capacity limits.
-- **[Round Robin](/host-events/how-to-set-round-robin-bookings#set-round-robin-bookings)**: distribute bookings evenly across a team.
-- **[Collective](/host-events/collective-booking-event#create-collective-booking)**: book multiple hosts together for a single meeting.
+- **[Round Robin](/how-to-set-round-robin-bookings#set-round-robin-bookings)**: distribute bookings evenly across a team.
+- **[Collective](/collective-booking-event#create-collective-booking)**: book multiple hosts together for a single meeting.
 - **Recurring & One-off Events** — fixed-date sessions or repeating series.
 
 ## Total Control Over Availability
@@ -72,11 +72,11 @@ Connect FluentBooking to the rest of your stack and let it run on autopilot:
 
 New here? Follow this path:
 
-1. **[Install, Activate & Update](/getting-started/install-activate-and-update-fluentbooking)** — get the plugin running.
-2. **[Dashboard Overview](/getting-started/dashboard-overview)** — learn the layout.
-3. **[Create Your First Event](/host-events/how-to-create-new-events)** — start accepting bookings.
-4. **[Add the Booking Form to Your Site](/getting-started/add-booking-form-to-site)** — go live.
+1. **[Install, Activate & Update](/install-activate-and-update-fluentbooking)** — get the plugin running.
+2. **[Dashboard Overview](/dashboard-overview)** — learn the layout.
+3. **[Create Your First Event](/how-to-create-new-events)** — start accepting bookings.
+4. **[Add the Booking Form to Your Site](/add-booking-form-to-site)** — go live.
 
-Need help along the way? Check **[Common Issues & FAQs](/troubleshooting/common-issues-and-faqs)** or reach the team via **[Best Practices & Get Help](/troubleshooting/best-practices-and-get-help)**.
+Need help along the way? Check **[Common Issues & FAQs](/common-issues-and-faqs)** or reach the team via **[Best Practices & Get Help](/best-practices-and-get-help)**.
 
 Welcome aboard—let's get your calendar booked. 🎉

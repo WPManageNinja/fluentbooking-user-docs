@@ -19,7 +19,7 @@ From your WordPress dashboard, navigate to **FluentBooking → Calendars**. Next
 
 A pop-up will appear. Click on the **Generate Link** tab. Now, find the **Add Parameter** section. Then, fill in the **Fields** and **Values** to track your campaign details from the dropdown options.
 
-To know more about the Generate Link, read this [article](/getting-started/add-booking-form-to-site).
+To know more about the Generate Link, read this [article](/add-booking-form-to-site).
 
 - **UTM Source:** Identify the source of your traffic (e.g., Facebook, Newsletter).
 - **UTM Medium:** Specify the marketing medium (e.g., cpc, email).

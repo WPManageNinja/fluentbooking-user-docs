@@ -9,7 +9,7 @@ Make booking easier for your clients by sharing a link that already has the coup
 
 ### Creating Your Coupon Link
 
-Create a [coupon](/payments/how-to-create-and-manage-payment-coupons) link easily, simply, and with only a few steps. Follow these steps to generate a booking link with an embedded coupon.
+Create a [coupon](/how-to-create-and-manage-payment-coupons) link easily, simply, and with only a few steps. Follow these steps to generate a booking link with an embedded coupon.
 
 Go to **Calendars** from your FluentBooking dashboard. Find the specific booking event you want to share and click the **Share** button.
 

@@ -17,14 +17,14 @@ Plus, to collect payments through booking, ensure the payment platforms are conf
 
 To learn more detailed guidelines about **Enabling Payment Modules** and **Configuring Payment Platforms**, refer to the following documentation.
 
-- [Stripe Integration with FluentBooking](/payments/stripe-integration-with-fluent-booking)
-- [PayPal Integration with FluentBooking](/payments/paypal-integration-with-fluentbooking)
+- [Stripe Integration with FluentBooking](/stripe-integration-with-fluent-booking)
+- [PayPal Integration with FluentBooking](/paypal-integration-with-fluentbooking)
 
 ## Set up Multi-Payments in a Booking Event
 
 First, go to **Calendars** from the **WordPress Left Sidebar** or the **FluentBooking Navbar**, select the **Booking Event** where you want to add the multi-payment option, and click the **Edit** button on the right.
 
-> If you do not have any existing booking **Event**, read this [Documentation](/host-events/how-to-create-new-events) to create a new one. Plus, to create a new booking **Calendar**, read this [Documentation](/host-events/how-to-create-a-new-host).
+> If you do not have any existing booking **Event**, read this [Documentation](/how-to-create-new-events) to create a new one. Plus, to create a new booking **Calendar**, read this [Documentation](/how-to-create-a-new-host).
 
 ![Set up Multi-Payments in a Booking Event](/images/payments/take-multi-payments/1.-open-desired-calender-scaled.webp)
 
@@ -66,9 +66,9 @@ Additionally, click the **Share** button to view the functionalities of this mul
 
 ### Preview of Multi-Payment Feature
 
-Once you click the **Share** button, you will get four options to display your booking events on the front-end of the WordPress Site. To learn more about this, read this [Documentation](/getting-started/add-booking-form-to-site).
+Once you click the **Share** button, you will get four options to display your booking events on the front-end of the WordPress Site. To learn more about this, read this [Documentation](/add-booking-form-to-site).
 
-For example, I use the **Landing Page** option to show you the preview of this feature. To learn more about the **Landing Page**, read this [Documentation](/host-events/how-to-enable-landing-page-for-your-host).
+For example, I use the **Landing Page** option to show you the preview of this feature. To learn more about the **Landing Page**, read this [Documentation](/how-to-enable-landing-page-for-your-host).
 
 ![Multi-Payment Feature](/images/payments/take-multi-payments/7.-landing-page-and-view-button.webp)
 

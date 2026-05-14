@@ -120,6 +120,6 @@ A confirmation pop-up will appear. Just click **Yes, Delete** button to confirm 
 
 ![Delete Button](/images/bookings/booking-details/delete-button-16.webp)
 
-To cancel a booking instead, click on the **Cancel** option. This will mark the booking as canceled without deleting it. For more details on how to cancel a booking, be sure to check out the related [article](/bookings/how-to-cancel-a-booking).
+To cancel a booking instead, click on the **Cancel** option. This will mark the booking as canceled without deleting it. For more details on how to cancel a booking, be sure to check out the related [article](/how-to-cancel-a-booking).
 
 In FluentBookings, we've designed it to be easy for you to manage your booking details. Enjoy the simplicity!

@@ -13,7 +13,7 @@ This integration allows you to accept payments globally, ensuring secure transac
 
 ## Enable PayPal Payment
 
-> Before proceeding, make sure the main global [Payment Module](/payments/how-to-take-payment-in-bookings#enable-the-global-payment-module) is enabled from the **Payment Setting**.
+> Before proceeding, make sure the main global [Payment Module](/how-to-take-payment-in-bookings#enable-the-global-payment-module) is enabled from the **Payment Setting**.
 
 Go to the WordPress admin dashboard, navigate to **FluentBooking > Settings**, and select **PayPal**. Now, check on the **Enable PayPal Payment for Booking Payment** to enable the PayPal Payment option.
 

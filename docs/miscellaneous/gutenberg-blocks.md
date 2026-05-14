@@ -50,7 +50,7 @@ Once everything is set, click **Save** and **Publish** your page. You’ll now s
 
 To add a **FluentBooking Team** block in the Gutenberg editor, open the page or post where you’d like the event to appear. Click the **Plus (+)** icon to add a block, and search for **FluentBooking**. From the list, choose the **FluentBooking Team** block. It will be added to your page right away.
 
-To learn more about FluentBooking Team page, read this full [article](/getting-started/create-team-booking-page).
+To learn more about FluentBooking Team page, read this full [article](/create-team-booking-page).
 
 ![FluentBooking Team](/images/miscellaneous/gutenberg-blocks/add-fluentbooking-team-block-01-1-scaled.webp)
 

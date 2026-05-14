@@ -19,7 +19,7 @@ To use this, go to **Settings** and switch to **Google Calendar/Meet**. Then, ch
 
 ![fluentbooking google calendar integration](/images/integrations/google-calendar-meet-integration-with-fluent-booking/fluentbooking-global-setting-1.webp)
 
-In the **Calendars** section, select the host you want to sync booking events for on Google Calendar/Meet. If you don't have a host, check out our [Documentation](/host-events/how-to-create-a-new-host) for guidance on creating one. 
+In the **Calendars** section, select the host you want to sync booking events for on Google Calendar/Meet. If you don't have a host, check out our [Documentation](/how-to-create-a-new-host) for guidance on creating one. 
 
 Now, go to the **Host Settings > Remote Calendar** of that host and click **Connect with Google Calendar/Meet**.
 
