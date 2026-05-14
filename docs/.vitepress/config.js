@@ -143,7 +143,7 @@ const sidebar = [
     collapsed: true,
     items: [
       { text: 'Common Issues & FAQs', link: '/common-issues-and-faqs' },
-      { text: 'Best Practices & Get Help', link: '/best-practices-and-get-help' },
+      { text: 'How to Get Support', link: '/best-practices-and-get-help' },
     ],
   },
 ]

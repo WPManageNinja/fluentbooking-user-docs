@@ -66,4 +66,4 @@ This section provides solutions to frequently encountered issues and answers to 
 - **Clear Caches:** If you use a caching or performance plugin, clear cache after changing FluentBooking settings or embedding the booking form.
 - **Review Logs:** If FluentBooking or your host provides logs, check for “Warning” or “Failed” entries related to payments, webhooks, or email.
 
-For more help, see [Best Practices & Get Help](/best-practices-and-get-help).
+For more help, see [How to Get Support](/best-practices-and-get-help).

@@ -1,37 +1,40 @@
 ---
-title: Best Practices & Get Help
-description: Recommended practices for running FluentBooking smoothly and where to get support—documentation, website, changelog, and direct help.
+title: How to Get Support
+description: How to contact the WPManageNinja support team for FluentBooking—submit a ticket, what to include, and support hours.
 ---
 
-# Best Practices & Get Help
+# How to Get Support
 
-This guide covers recommended practices for running FluentBooking smoothly and where to turn when you need additional support.
+If you have reviewed our existing documentation and are still encountering a technical issue or require assistance with the [FluentBooking](https://fluentbooking.com/) plugin, our dedicated support team at **WPManageNinja** is available to help.
 
-## Best Practices
+## How to Contact Support
 
-Follow these practices to reduce issues and get the most out of FluentBooking:
+To ensure you receive the quickest and most effective assistance, please follow these steps when submitting your inquiry:
 
-- **Keep FluentBooking and WordPress up to date.** Install updates when they are released so you benefit from fixes and new features. See [Install, Activate & Update](/install-activate-and-update-fluentbooking).
+1. **Visit the WPManageNinja Support Portal:**
 
-- **Use a supported theme and avoid conflicting plugins.** Test with a default theme (e.g. Twenty Twenty-Four) if you suspect display or script conflicts. Deactivate other booking or calendar plugins when not needed.
+   Go to the official [WPManageNinja support](https://wpmanageninja.com/account/) website. This is the primary, dedicated channel for submitting formal support tickets.
 
-- **Configure availability and time zones clearly.** Set [availability](/configure-availability) for each host and double-check time zones so slots show at the right times for you and your visitors.   
+2. **Submit a Support Ticket:**
 
-- **Verify payment and email settings before going live.** Test a booking with Stripe or PayPal in test mode, then switch to Live only after confirming. Check [Global Email Settings](/global-email-settings) and event-level [Email Notifications](/email-notifications-for-events) so confirmations and reminders send correctly.
+   - Log in to your [WPManageNinja account](https://wpmanageninja.com/account/).
+   - Navigate to the **Support Tickets** section.
+   - Click on **Create a New Ticket**.
 
-- **Use shortcodes and blocks correctly.** When embedding the booking form, use the right [shortcode](/fluentbooking-shortcodes) or [Gutenberg block](/gutenberg-blocks) for your calendar or event so the form displays and loads as expected.
+3. **Provide Detailed Information:**
 
-- **Review booking limits and cut-offs.** Use [Booking Limits](/how-to-set-booking-limits) and minimum notice / cut-off settings to avoid last-minute or overbooked slots and to keep your schedule manageable.
+   When submitting your ticket, please include as much relevant detail as possible. This is crucial for our team to quickly understand your situation and provide an accurate solution. Required details include:
 
-If you run into a specific issue, check [Common Issues & FAQs](/common-issues-and-faqs) first.
+   - **Your FluentBooking License Key:** This is necessary to verify your purchase and ensure eligibility for premium support.
+   - **A Clear Description of the Problem:** Explain the desired functionality and describe exactly what is occurring instead.
+   - **Steps to Reproduce the Issue:** List the precise sequence of actions that leads to the error or unexpected behavior.
+   - **Screenshots or Screen Recordings:** Visual documentation significantly aids in diagnosing complex issues.
+   - **Error Messages:** If any error text is displayed, please copy and paste the full message into the ticket.
+   - **Your WordPress Version.**
+   - **Your FluentBooking Plugin Version.**
 
-## Get Help
+4. **Support Hours:**
 
-When you need more support:
+   Our professional support team operates during standard business hours, typically Monday through Friday. We are committed to responding to all legitimate inquiries and working towards a resolution promptly.
 
-- **Documentation:** Use the search bar (⌘K) or browse the sidebar to find step-by-step guides for installation, events, payments, integrations, and more.
-- **FluentBooking website:** Visit [fluentbooking.com](https://fluentbooking.com) for product information, updates, and support options.
-- **Changelog:** See the [Changelog](/changelog) for the latest fixes, improvements, and new features.
-- **Direct support:** If your issue isn’t resolved by the docs or this troubleshooting section, reach out through the **[support team](/https://wpmanageninja.com/account/)** provided on the WPMangeNinja website.
-
-We recommend having your WordPress version, FluentBooking version, and a short description of the issue and steps to reproduce ready when contacting support.
+We are dedicated to helping you maximize the utility of the FluentBooking plugin.
