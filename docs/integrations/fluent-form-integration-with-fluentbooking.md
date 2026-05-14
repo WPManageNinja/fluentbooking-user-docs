@@ -59,4 +59,3 @@ That's it! You've successfully added your booking event to Fluent Forms. Now, yo
 
 ![Booking Details](/images/integrations/fluent-form-integration-with-fluentbooking/ff-fb.webp)
 
-Please get in touch with us if you need any help integrating FluentBooking with Fluent Forms or if you have any issues. We're [here](https://wpmanageninja.com/account/dashboard/) to assist you!

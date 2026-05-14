@@ -109,4 +109,3 @@ Here are the most common troubleshooting issues:
 
 That’s all there is to it! Your client has now successfully applied a coupon code and booked their discounted event.
 
-If you’re stuck or have any questions, please don’t hesitate to contact our [support](https://wpmanageninja.com/support-tickets/) team.

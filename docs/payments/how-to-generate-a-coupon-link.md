@@ -31,4 +31,4 @@ On your clients' side, the booking process becomes super simple. When they click
 
 Congratulations! You now know how to create and share booking links with automatic discounts. This is a fantastic way to run promotions and make it even easier for people to book your services.
 
-If you’re stuck or have any questions, please don’t hesitate to contact our [support](https://wpmanageninja.com/support-tickets/) team.
+
