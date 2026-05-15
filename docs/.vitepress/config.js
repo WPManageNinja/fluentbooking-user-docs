@@ -178,7 +178,7 @@ export default defineConfig({
     siteTitle: 'FluentBooking',
     nav: [
       { text: 'User Docs', link: '/' },
-      { text: 'Dev Docs', link: 'https://fluentbooking.com', target: '_blank' },
+      { text: 'Dev Docs', link: 'https://developers.fluentbooking.com/', target: '_blank' },
       { text: 'Changelog', link: '/changelog' },
       { text: 'Website', link: 'https://fluentbooking.com', target: '_blank' },
     ],
