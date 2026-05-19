@@ -17,7 +17,7 @@ Inside the event settings, click on the **Question Settings** tab from the left-
 
 In the list of fields, locate the **Payment Summary** field (it is a system field). Click the **Edit** button next to it.
 
-![Payment Summary](/images/payments/customize-the-coupon-field-on-your-booking-form/Question-Settings-02-scaled.webp)
+![Payment Summary](/images/payments/customize-the-coupon-field-on-your-booking-form/question-settings-02-scaled.webp)
 
 ### Configure the Coupon Text 
 
@@ -30,12 +30,10 @@ An "**Update Question**" pop-up window will appear. Here, you can customize all 
 
 After that, click the blue **Save** button in the pop-up window. Finally, click the **Save Changes** button at the bottom right of the page to update your event.
 
-![Configure the Coupon Text ](/images/payments/customize-the-coupon-field-on-your-booking-form/Update-Questions-03.webp)
+![Configure the Coupon Text ](/images/payments/customize-the-coupon-field-on-your-booking-form/update-questions-03.webp)
 
 Now, when clients visit your booking page, they will see the customized coupon field within the payment section. After entering a valid code and clicking the apply button, the booking total will automatically update to reflect the discount.
 
-![Payment Summary](/images/payments/customize-the-coupon-field-on-your-booking-form/Payment-Summary04.webp)
+![Payment Summary](/images/payments/customize-the-coupon-field-on-your-booking-form/payment-summary04.webp)
 
 Well done! You’ve made it even easier for customers to use their discounts and book your services.
-
-If you need assistance, don’t hesitate to contact our [support](https://wpmanageninja.com/account/dashboard/) team.

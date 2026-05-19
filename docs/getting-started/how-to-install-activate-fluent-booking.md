@@ -23,7 +23,7 @@ Now, search for FluentBooking and click the **Download** button. The **fluent-bo
 
 Next, open the **Licenses** section and copy your **License Key**. You will need this key later to activate FluentBooking Pro.
 
-![License Key](/images/getting-started/how-to-install-activate-fluent-booking/Booking-Licence-1-scaled.webp)
+![License Key](/images/getting-started/how-to-install-activate-fluent-booking/booking-licence-1-scaled.webp)
 
 ## Installing the FluentBooking
 
@@ -31,7 +31,7 @@ Now go to the **Add New Plugin** page from your **WordPress Dashboard**, and cli
 
 Click on the **Choose file** to upload the **fluent-booking-pro.zip** file that you’ve downloaded before, and press the **Install Now** button. The **FluentBooking** plugin will be successfully installed on your WordPress site!
 
-![Installing the FluentBooking](/images/getting-started/how-to-install-activate-fluent-booking/Install-FB.png)
+![Installing the FluentBooking](/images/getting-started/how-to-install-activate-fluent-booking/install-fb.webp)
 
 ## Activating the License key
 
@@ -39,6 +39,6 @@ First, go to **Settings** from your **FluentBooking Dashboard**, open the **Lice
 
 And finally, click the **Verify License** button. Your **FluentBooking Pro version** plugin will also be successfully **Activated** on your WordPress site!
 
-![Activating the License Key](/images/getting-started/how-to-install-activate-fluent-booking/Booking-Licence-2-scaled.webp)
+![Activating the License Key](/images/getting-started/how-to-install-activate-fluent-booking/booking-licence-2-scaled.webp)
 
 Congratulations now you can explore all the amazing features of FluentBooking!

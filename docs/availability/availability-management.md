@@ -1,9 +1,9 @@
 ---
-title: Availability Management
+title: How Availability Works
 description: How FluentBooking availability works—assign schedules to events, flexible time slots, and avoid overbooking.
 ---
 
-# Availability Management
+# How Availability Works
 
 FluentBooking offers a dynamic Availability feature to streamline booking events. This feature simplifies scheduling and prevents overbooking conflicts.
 
@@ -23,7 +23,7 @@ Events can be set up with various time durations, such as 15, 30, 60 minutes, or
 ## Configuring Availability
 
 
-Configuring availability is user-friendly with FluentBooking. Detailed instructions are available in the [Documentation](/availability/configure-availability) for easy setup.
+Configuring availability is user-friendly with FluentBooking. Detailed instructions are available in the [Documentation](/configure-availability) for easy setup.
 
 
 ## Shared Availability

@@ -1,9 +1,9 @@
 ---
-title: Install, Activate, and Update FluentBooking
+title: Install & Activate FluentBooking
 description: Step-by-step guide to install, activate, and update the FluentBooking plugin from your WordPress dashboard. Get started with appointment booking in minutes.
 ---
 
-# Install, Activate, and Update FluentBooking
+# Install & Activate FluentBooking
 
 [FluentBooking](https://fluentbooking.com/) offers the perfect solution for effortless and hassle-free booking for appointments, meetings, webinars, events, sales calls, and more. 
 
@@ -22,16 +22,16 @@ First, go to the **Add New Plugin** page from the WordPress **Dashboard**, searc
 Now, click the **Install** button and the **FluentBooking** plugin will be successfully **installed** on your WordPress site.
 
 
-![Add new plugin-search fluentBooking-install button](/images/getting-started/install-activate-and-update-fluentbooking/Add-new-plugin-Search-Fluent-Booking-press-Install-button-scaled.webp)
+![Add new plugin-search fluentBooking-install button](/images/getting-started/install-activate-and-update-fluentbooking/add-new-plugin-search-1.webp)
 
 
 Finally, to activate, click on the **Activate** button.
 
 
-But, you need the **License key** to activate all the **FluentBooking** features successfully. To learn how to activate the license key, read this [Documentation](/getting-started/how-to-install-activate-fluent-booking#activating-the-license-key)
+But, you need the **License key** to activate all the **FluentBooking** features successfully. To learn how to activate the license key, read this [Documentation](/how-to-install-activate-fluent-booking#activating-the-license-key)
 
 
-![Active button](/images/getting-started/install-activate-and-update-fluentbooking/Active-button-scaled.webp)
+![Active button](/images/getting-started/install-activate-and-update-fluentbooking/active-button-scaled-2.webp)
 
 
 ## How to Update FluentBooking
@@ -46,7 +46,7 @@ Go to the **Installed Plugins** page of your **WordPress Dashboard** and search 
 Now, check if any update is available. If yes, just click on the **Update** button.
 
 
-![Update option of fluentbooking](/images/getting-started/install-activate-and-update-fluentbooking/Update-plugin-scaled.webp)
+![Update option of fluentbooking](/images/getting-started/install-activate-and-update-fluentbooking/update-plugin-3.webp)
 
 
 Congratulations! Now, you can explore all the amazing features of FluentBooking!

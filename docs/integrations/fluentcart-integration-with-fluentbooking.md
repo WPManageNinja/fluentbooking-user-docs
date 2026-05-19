@@ -73,6 +73,3 @@ All bookings made through this integration are automatically synced between the 
 
 
 **Congratulations!** You have successfully integrated FluentCart with FluentBooking, turning your appointments into a fully connected WooCommerce-powered sales channel.
-
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [**support team**](https://wpmanageninja.com/account/dashboard/). Thank you.

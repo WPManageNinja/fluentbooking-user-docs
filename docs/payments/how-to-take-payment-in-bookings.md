@@ -1,9 +1,9 @@
 ---
-title: Take Payment in Bookings
+title: Set Up Payments
 description: Enable payments for your events—Stripe, PayPal, WooCommerce, or offline. Setup and configure your first paid booking in FluentBooking.
 ---
 
-# Take Payment in Bookings
+# Set Up Payments
 
 FluentBooking provides a complete solution to accept payments for your services. You can connect popular gateways like Stripe and PayPal, use WooCommerce, or even accept offline payments. This guide will walk you through the entire process, from initial setup to configuring your first paid event.
 
@@ -24,7 +24,7 @@ After that, configure the global currency settings:
 
 Once that’s done, click the **Save Settings** button.
 
-![Configure the Global Currency Settings](/images/payments/how-to-take-payment-in-bookings/Payment-Settings-1-scaled.webp)
+![Configure the Global Currency Settings](/images/payments/how-to-take-payment-in-bookings/payment-settings-1-scaled.webp)
 
 ## Set Up a Payment Gateway
 
@@ -36,18 +36,18 @@ Fill in the required details for your chosen gateway. For example, to use PayPal
 
 For detailed instructions on each gateway, please see our guides:
 
-- [How to set up Stripe Payment with FluentBooking](/payments/stripe-integration-with-fluent-booking)
-- [How to set up PayPal Payment with FluentBooking](/payments/paypal-integration-with-fluentbooking)
-- [How to set up Offline Payment with FluentBooking](/payments/offline-payment-for-booking)
-- [How to use Multiple Payment Methods in one Booking](/payments/take-multi-payments)
+- [How to set up Stripe Payment with FluentBooking](/stripe-integration-with-fluent-booking)
+- [How to set up PayPal Payment with FluentBooking](/paypal-integration-with-fluentbooking)
+- [How to set up Offline Payment with FluentBooking](/offline-payment-for-booking)
+- [How to use Multiple Payment Methods in one Booking](/take-multi-payments)
 
-![Payment Method](/images/payments/how-to-take-payment-in-bookings/Payment-Methods-02-1-scaled.webp)
+![Payment Method](/images/payments/how-to-take-payment-in-bookings/payment-methods-02-1-scaled.webp)
 
 ## Configure Payments for an Event
 
 To set up payments for a specific booking, click the **Calendars** section in your FluentBooking dashboard. Find the booking you want to update, then click the **Edit** button.
 
-![Configure Payments for an Event](/images/payments/how-to-take-payment-in-bookings/Edit-events-02-scaled.webp)
+![Configure Payments for an Event](/images/payments/how-to-take-payment-in-bookings/edit-events-02-scaled.webp)
 
 Now, select the **Payment Settings** option and choose the checkbox that says **Enable this event as Paid and collect payment on booking**.
 
@@ -61,7 +61,7 @@ Once you’ve selected your preferred payment method, head to the **Booking Paym
 
 If you need to add more services or items, click the **Add More Item** button and fill in the details. After setting everything up, click the **Save Changes** button to save your settings.
 
-![Payment Settings](/images/payments/how-to-take-payment-in-bookings/Payment-Settings-03-scaled.webp)
+![Payment Settings](/images/payments/how-to-take-payment-in-bookings/payment-settings-03-scaled.webp)
 
 ## Use FluentCart Checkout (Recommended)
 
@@ -84,13 +84,10 @@ If you’d like to use **WooCommerce Checkout** to accept payments for your book
 
 To do this, go to **Settings** from the top menu, then scroll down and click on **Advanced Features & Addons** on the left side. Find the **WooCommerce** option and turn it on by clicking the **Radio** button.
 
-![Use WooCommerce Checkout](/images/payments/how-to-take-payment-in-bookings/WooCommerce-04-scaled.webp)
+![Use WooCommerce Checkout](/images/payments/how-to-take-payment-in-bookings/woocommerce-04-scaled.webp)
 
 Now, go back to your booking event and select **Use WooCommerce Checkout**. You can only choose from existing products in your WooCommerce store. The booking price will match the product price in your store.
 
 When all is done, click the **Save Changes** button.
 
 ![Use WooCommerce Checkout](/images/payments/how-to-take-payment-in-bookings/use-woocommerce-checkout-05-scaled.webp)
-
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

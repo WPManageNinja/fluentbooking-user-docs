@@ -1,9 +1,9 @@
 ---
-title: Global Email & General Settings
+title: Email & Notification Settings
 description: Configure admin email, email templates, general options, and default booking behavior in FluentBooking global settings.
 ---
 
-# Global Settings
+# Email & Notification Settings
 
 The Global Settings in FluentBooking help you manage the core setup of your booking system.Here, you’ll find essential options like admin email preferences, email templates, and theme customization. You can also define default behaviors for new bookings.
 
@@ -38,7 +38,7 @@ The **Email Settings** section lets you configure how emails are sent from Fluen
 - **Include ICS File Attachment in Booking Confirmation Email**: Enable this to attach an **.ics (calendar)** file to confirmation emails, allowing guests to easily add the booking to their calendars.
 - **Email Footer for Booking-Related Emails**: Customize the footer text that appears at the bottom of all booking-related emails.
 
-![Email Settings](/images/global-settings/global-email-settings/General-Settings-email-setting-2.webp)
+![Email Settings](/images/global-settings/global-email-settings/general-settings-email-setting-2.webp)
 
 ### Theme
 
@@ -50,8 +50,8 @@ In the **Theme** settings, you can choose how your booking page appears to users
 
 This allows you to create a more personalized and accessible experience for your users.
 
-![Theme](/images/global-settings/global-email-settings/General-Settings-theme-3.webp)
+![Theme](/images/global-settings/global-email-settings/general-settings-theme-3.webp)
 
 You've successfully configured your global settings, creating a more consistent booking experience.
 
-If you need any further assistance with this article, feel free to contact our [support team](https://wpmanageninja.com/support-tickets/). We're always happy to help!
+

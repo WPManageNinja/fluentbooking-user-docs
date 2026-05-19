@@ -21,7 +21,7 @@ To connect your FluentBooking with Zoom you need some credentials. First, go to 
 
 You have to create a Zoom App in order to get the credentials for the integration. On the top right side, you will find the **Develop** button hover over the button and you will find the **Build App** option click on it.
 
-![Create Zoom App](/images/integrations/zoom-integration-with-fluentbooking/Zoom-app-building-scaled.webp)
+![Create Zoom App](/images/integrations/zoom-integration-with-fluentbooking/zoom-app-building-scaled.webp)
 
 Here you need to select the app type **Server-to-Sever OAuth App** then click on the **Create** button.
 
@@ -29,7 +29,7 @@ Here you need to select the app type **Server-to-Sever OAuth App** then click on
 
 Now give a name to your App then click on the **Create** button.
 
-![Create Button](/images/integrations/zoom-integration-with-fluentbooking/Zoom-app-name--scaled-3.webp)
+![Create Button](/images/integrations/zoom-integration-with-fluentbooking/zoom-app-name--scaled-3.webp)
 
 ### App Credentials
 
@@ -47,14 +47,14 @@ On the Information page, there are some mandatory fields those are **Basic Infor
 
 In the feature section, you don’t need to change anything so you can simply skip the feature section.
 
-![Faeture Section](/images/integrations/zoom-integration-with-fluentbooking/Feature-.webp)
+![Faeture Section](/images/integrations/zoom-integration-with-fluentbooking/feature-.webp)
 
 
 ### Scopes
 
 Here you have to add four scopes. Click on the **Add Scopes** button and a pop-up will come up.
 
-![Add Scopes](/images/integrations/zoom-integration-with-fluentbooking/App-Marketplac.webp)
+![Add Scopes](/images/integrations/zoom-integration-with-fluentbooking/app-marketplac.webp)
 
 Select the following scopes from the **Meeting** and **User** Scopes then click on the **Done** button and continue:
 
@@ -67,7 +67,7 @@ From **Meeting** go to **View and manage all user meetings** and select these th
 From **User** go to **View all User information** then select-
  - ***View a user (user:read:user:admin).***
 
-![Zoom Scope Adding](/images/integrations/zoom-integration-with-fluentbooking/Zoom-scope-adding-2-scaled.webp)
+![Zoom Scope Adding](/images/integrations/zoom-integration-with-fluentbooking/zoom-scope-adding-2-scaled.webp)
 
 ### Activation
 
@@ -95,25 +95,25 @@ To connect another user account of FluentBooking with Zoom you need to create an
 
 You can also set up Zoom from your host settings. Go to **Booking Calendars** of FluentBooking and click the **Host Settings** button on the host/calendar’s profile.
 
-![Host Settings](/images/integrations/zoom-integration-with-fluentbooking/Calendars-FluentBooking-1-3.webp)
+![Host Settings](/images/integrations/zoom-integration-with-fluentbooking/calendars-fluentbooking-1-3.webp)
 
 Now go to the **Zoom Integration** and press the **Connect with Zoom Account** button.
 
-![Connect with Zoom Account](/images/integrations/zoom-integration-with-fluentbooking/Host-setting.webp)
+![Connect with Zoom Account](/images/integrations/zoom-integration-with-fluentbooking/host-setting.webp)
 
 Now a popup will appear in the same way for your Zoom App **credentials** here paste your **copied** credentials here and click on **Save & Validate Credentials.**
 
-![Save & Validate Credentials](/images/integrations/zoom-integration-with-fluentbooking/Host-settings-2.webp)
+![Save & Validate Credentials](/images/integrations/zoom-integration-with-fluentbooking/host-settings-2.webp)
 
 ## Add Zoom to the Event
 
 Now at the **Event Location**, you will find the Zoom video for your meeting.
 
-![Add Zoom to the Event](/images/integrations/zoom-integration-with-fluentbooking/Slot-Settings-FluentBooking-15-1.webp)
+![Add Zoom to the Event](/images/integrations/zoom-integration-with-fluentbooking/slot-settings-fluentbooking-15-1.webp)
 
 The host of the Fluentbooking and the attendees will receive the **Zoom video link** with the notification **mail**. Also, you will see your meetings in your Zoom account just like the screenshot below:
 
 ![Zoom video link](/images/integrations/zoom-integration-with-fluentbooking/4d470267-0140-4a15-b0c1-c2686af946b7.webp)
 
 
-If you have any further queries about this integration feel free to reach our [support team](https://wpmanageninja.com/account/dashboard/).
+

@@ -17,7 +17,7 @@ Go to the **Bookings** section from the top navigation bar in your FluentBooking
 
 The **Add New Booking** form will open. You need to fill in the following information to create the appointment:
 
- * **A. Select Event:** Choose the event from the dropdown option.
+ * **A. Select Event:** Choose the event from the dropdown option. Recurring events are supported — selecting a recurring event lets you pick any occurrence.
  * **B. Attendee’s Timezone:** Select the timezone of the attendee.
  * **C. Meeting Duration:** Pick the meeting duration. The available durations will match the selected event.
  * **D. Ignore Availability:** Check this box if you want to override normal availability for this booking.
@@ -37,8 +37,6 @@ A success notification will appear to confirm that the booking has been created.
 If you want to change your mind, click **Cancel** instead.
 
 
-![Add New Booking](/images/bookings/create-booking-manually/Add-new-Booking-2.webp)
+![Add New Booking](/images/bookings/create-booking-manually/add-new-booking-2.webp)
 
 Congratulations, you have successfully created a manual booking! You can now manage this appointment just like any other booking on your list.
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

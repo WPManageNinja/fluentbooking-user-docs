@@ -30,28 +30,28 @@ You have to select a WooCommerce product from the dropdown menu and click on the
 ![Select WooCommerce Checkout](/images/integrations/woocommerce-integration-with-fluentbooking/update-3.webp)
 
 
-Your booking event is now ready to be shared. For guidance on sharing it effectively on the front end, you can follow this [Documentation](/getting-started/add-your-booking-form-to-the-wordpress-sites-front-end).
+Your booking event is now ready to be shared. For guidance on sharing it effectively on the front end, you can follow this [Documentation](/add-booking-form-to-site).
 
-![Settings](/images/integrations/woocommerce-integration-with-fluentbooking/Settings-4.webp)
+![Settings](/images/integrations/woocommerce-integration-with-fluentbooking/settings-4.webp)
 
 ## Booking Order and Payment Confirmation with WooCommerce
 
 Your Invitees will see your WooCommerce product integrated booking event like this. The booking amount will be the same as the WooCommerce product.
 
-![Payment Confirmation with WooCommerce](/images/integrations/woocommerce-integration-with-fluentbooking/Booking-Event-5.webp)
+![Payment Confirmation with WooCommerce](/images/integrations/woocommerce-integration-with-fluentbooking/booking-event-5.webp)
 
 The checkout process for the booking event is flawlessly integrated with WooCommerce's checkout page, ensuring a trusted payment experience.
 
-![Order Proccessing](/images/integrations/woocommerce-integration-with-fluentbooking/Checkout-6.webp)
+![Order Proccessing](/images/integrations/woocommerce-integration-with-fluentbooking/checkout-6.webp)
 
 After successfully placing an order, you will see that your booking event's payment has been processed using the WooCommerce payment method.
 
-![Payment Method](/images/integrations/woocommerce-integration-with-fluentbooking/Order-Confirmation-7.webp)
+![Payment Method](/images/integrations/woocommerce-integration-with-fluentbooking/order-confirmation-7.webp)
 
 ## Booking Details
 
 You can also see you your WooCommerce integrated booking related details into the **Bookings** section of your FluentBooking.
 
-![Booking Details](/images/integrations/woocommerce-integration-with-fluentbooking/Booking-Details-8.webp)
+![Booking Details](/images/integrations/woocommerce-integration-with-fluentbooking/booking-details-8.webp)
 
 This is the process of how you can Integrate your WooCommerce with Fluesnt Booking.

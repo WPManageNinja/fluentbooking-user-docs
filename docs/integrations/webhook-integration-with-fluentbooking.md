@@ -29,4 +29,4 @@ On the left sidebar, you will see the **Webhook Feeds** for this particular book
 
 Finally, check "**Enable this webhook feed**" and click on **Save Feed** when the configuration is done.
 
-![Configure the Webhook](/images/integrations/webhook-integration-with-fluentbooking/Webhook-e1697456020798.webp)
+![Configure the Webhook](/images/integrations/webhook-integration-with-fluentbooking/webhook-e1697456020798.webp)

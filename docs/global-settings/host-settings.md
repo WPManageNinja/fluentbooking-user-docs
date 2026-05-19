@@ -1,9 +1,9 @@
 ---
-title: Host Settings
+title: Host Profile Settings
 description: Personalize your host or calendar profile—avatar, info, and features. Configure host settings in FluentBooking.
 ---
 
-# Host Settings
+# Host Profile Settings
 
 In FluentBooking, you have the freedom to enhance your host profile with more information and exciting features. This guide will walk you through the process of personalizing your Host/Calendar profile.
 
@@ -28,7 +28,7 @@ Within the host settings, you can make the following adjustments for your host:
 - **About:** Include a description or introduction for your host/calendar profile.
 - **Enable Landing Page Feature for this Calendar:** This feature enables you to share your public **profile URL** with anyone. You can customize the link behavior; you can show **All Booking Forms** or you can show **Selected Booking Forms**.
 
-![Customize Your Calendar / Host Profile](/images/global-settings/host-settings/Calendar-Settings-FluentBooking-5-1.webp)
+![Customize Your Calendar / Host Profile](/images/global-settings/host-settings/calendar-settings-fluentbooking-5-1.webp)
 
 ## Deleting Your Host Profile
 
@@ -38,7 +38,7 @@ If you ever need to delete your Host/Calendar profile, follow these steps:
 2. Locate the host profile you want to delete, and you'll see three **Vertical Dots** on the host profile. Click on them.
 3. You will find a **Delete** button to remove the host profile.
 
-![Deleting Your Host Profile](/images/global-settings/host-settings/Delete-host-02-scaled.webp)
+![Deleting Your Host Profile](/images/global-settings/host-settings/delete-host-02-scaled.webp)
 
 ## Share Your Host Profile
 
@@ -51,8 +51,8 @@ Sharing a host profile, just follow these simple steps:
 
 That’s it! You can now share the copied link with anyone you’d like.
 
-![Share Your Host Profile](/images/global-settings/host-settings/Share-Host-03-scaled.webp)
+![Share Your Host Profile](/images/global-settings/host-settings/share-host-03-scaled.webp)
 
 Don't forget to click **Save Changes** to confirm your updates to the host profile.
 
-That covers the essentials of managing your FluentBooking Host/Calendar profile. If you have any more questions, please don't hesitate to reach out to us.
+That covers the essentials of managing your FluentBooking Host/Calendar profile. 

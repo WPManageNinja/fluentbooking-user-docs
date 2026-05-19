@@ -1,9 +1,9 @@
 ---
-title: How to Embed Booking Calendar Using HTML
+title: Embed Calendar with HTML
 description: Display your FluentBooking calendar anywhere with an HTML embed code. Share availability and accept bookings off-site.
 ---
 
-# How to Embed Booking Calendar using HTML
+# Embed Calendar with HTML
 
 With the new **Embed Booking Calendar** feature, you can now display your booking calendar anywhere on your website using a simple HTML code. This allows your clients to view your availability and book appointments without ever leaving your site, creating a seamless and professional user experience.
 
@@ -52,5 +52,3 @@ Go to the specific page or post where you want the calendar to appear.
 Once everything looks good in the preview, click **Save** or **Publish**. Your booking calendar is now live! Clients can book appointments directly from this embedded view.
 
 **Congratulations!** You have successfully embedded your booking calendar. Embedding your schedule is a quick and easy way to keep clients engaged on your own website.
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our  [**support team**](https://wpmanageninja.com/account/dashboard/). Thank you.

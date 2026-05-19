@@ -13,7 +13,7 @@ This integration allows you to accept payments globally, ensuring secure transac
 
 ## Enable PayPal Payment
 
-> Before proceeding, make sure the main global [Payment Module](/payments/how-to-take-payment-in-bookings#enable-the-global-payment-module) is enabled from the **Payment Setting**.
+> Before proceeding, make sure the main global [Payment Module](/how-to-take-payment-in-bookings#enable-the-global-payment-module) is enabled from the **Payment Setting**.
 
 Go to the WordPress admin dashboard, navigate to **FluentBooking > Settings**, and select **PayPal**. Now, check on the **Enable PayPal Payment for Booking Payment** to enable the PayPal Payment option.
 
@@ -27,7 +27,7 @@ Go to the WordPress admin dashboard, navigate to **FluentBooking > Settings**, a
 
 **Disable PayPal IPN Verification:** If you are unable to use Payment Data Transfer and your payments are not being marked as complete, then toggle to **Disable PayPal IPN Verification**. Enabling this option forces the site to use an alternative verification method, which is slightly less secure but ensures that purchases are processed and marked as complete.
 
-![Disable PayPal IPN Verification](/images/payments/paypal-integration-with-fluentbooking/Payment-Methods-FluentBooking-scaled.webp)
+![Disable PayPal IPN Verification](/images/payments/paypal-integration-with-fluentbooking/payment-methods-fluentbooking-scaled.webp)
 
 ## **Configure PayPal Payment for Booking Forms**
 
@@ -45,6 +45,4 @@ In the **Booking Payment Item** section, you can set the payment item's name and
 
 Finally, click the **Save Settings** button to save your changes.
 
-![Payment Settings](/images/payments/paypal-integration-with-fluentbooking/Payment-Settings-FluentBooking-scaled.webp)
-
-If you have any questions, suggestions, or need further assistance regarding this documentation, please don’t hesitate to [contact us](https://wpmanageninja.com/support-tickets/). We’re here to help!
+![Payment Settings](/images/payments/paypal-integration-with-fluentbooking/payment-settings-fluentbooking-scaled.webp)

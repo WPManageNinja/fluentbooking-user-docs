@@ -4,12 +4,9 @@ hero:
   name: FluentBooking
   text: Documentation
   tagline: Everything you need to set up and manage appointments with FluentBooking
-  image:
-    src: /FluentBooking-brand/header_banner-1.webp
-    alt: FluentBooking
   actions:
     - text: Get Started
-      link: /getting-started/install-activate-and-update-fluentbooking
+      link: /install-activate-and-update-fluentbooking
       theme: brand
     - text: Dev Docs
       link: https://fluentbooking.com
@@ -17,47 +14,47 @@ hero:
 features:
   - icon: 🚀
     title: Getting Started
-    details: Install, activate, and add the booking form to your site.
-    link: /getting-started/install-activate-and-update-fluentbooking
+    details: Install, activate, and explore the dashboard in minutes.
+    link: /introduction-to-fluentbooking
     linkText: Get Started
+  - icon: 👥
+    title: Hosts & Team
+    details: Set up hosts, manage team permissions, and customize profiles.
+    link: /how-to-create-a-new-host
+    linkText: Learn More
   - icon: 📅
-    title: Hosts & Events
-    details: Create hosts, event types, and configure notifications.
-    link: /host-events/how-to-create-a-new-host
+    title: Event Types
+    details: One-to-one, group, recurring, round robin, and more.
+    link: /how-to-create-new-events
     linkText: Learn More
   - icon: 🕐
     title: Availability
-    details: Set when bookable slots are available.
-    link: /availability/availability-management
+    details: Control when your booking slots are open for guests.
+    link: /availability-management
     linkText: Configure
   - icon: 📋
-    title: Bookings
-    details: View, create, and manage bookings.
-    link: /bookings/booking-details
+    title: Manage Bookings
+    details: View, create, and cancel reservations from one place.
+    link: /booking-details
     linkText: Explore
   - icon: 💳
     title: Payments & Coupons
-    details: Stripe, PayPal, offline payment, and discount coupons.
-    link: /payments/how-to-take-payment-in-bookings
+    details: Stripe, PayPal, offline payments, and discount coupons.
+    link: /how-to-take-payment-in-bookings
     linkText: Learn More
   - icon: 🔌
     title: Integrations
-    details: Calendars, CRM, forms, WooCommerce, and more.
-    link: /integrations/integrations-overview
+    details: Calendars, video, CRM, commerce, and communication tools.
+    link: /google-calendar-meet-integration-with-fluent-booking
     linkText: Learn More
-  - icon: ⚙️
-    title: Settings
-    details: Email, host settings, and frontend panel.
-    link: /global-settings/global-email-settings
-    linkText: Explore
-  - icon: 📄
-    title: Shortcodes & Embedding
-    details: Shortcodes, Gutenberg blocks, and embed the calendar.
-    link: /miscellaneous/fluentbooking-shortcodes
+  - icon: 🌐
+    title: Add to Your Site
+    details: Shortcodes, Gutenberg blocks, and HTML embedding.
+    link: /fluentbooking-shortcodes
     linkText: Explore
   - icon: 🔧
-    title: Troubleshooting & Support
-    details: Common issues, best practices, and where to get help.
-    link: /troubleshooting/
+    title: Help & Support
+    details: Common issues, FAQs, and best practices to get unstuck.
+    link: /common-issues-and-faqs
     linkText: Get Help
 ---

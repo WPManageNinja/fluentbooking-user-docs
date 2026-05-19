@@ -102,6 +102,3 @@ If desired, you can select the default **Host Number** or you can give a **Custo
 
 
 ![Send Option](/images/integrations/twilio-integration-with-fluentbooking/new-3-1.webp)
-
-
-With these simple steps, you've successfully integrated Twilio into FluentBooking and configured SMS/WhatsApp notifications for your events. If you have any further questions or need assistance with Twilio Integration, please don't hesitate to [contact us](https://wpmanageninja.com/account/dashboard/).

@@ -1,179 +1,105 @@
-# FluentBooking User Docs — Claude Guidelines
+# FluentBooking Documentation — Claude Guide
 
-## Project Overview
+VitePress user-doc site for **FluentBooking**, a WordPress appointment-booking plugin. Single dev dep: `vitepress ^1.0.0`. ES module project (`"type": "module"`). 60 doc pages across 9 section folders.
 
-VitePress documentation site for **FluentBooking**, a native WordPress scheduling plugin by WPManageNinja. Content lives in `docs/`, config in `.vitepress/config.js`.
+## Commands
 
-**Dev commands**
+```bash
+npm run docs:dev      # local server at http://localhost:5173 — always use to verify edits
+npm run docs:build    # static build → docs/.vitepress/dist/ (gitignored)
+npm run docs:preview  # serve the built output
 ```
-npm run docs:dev      # local dev server
-npm run docs:build    # production build
-npm run docs:preview  # preview build output
-```
 
----
-
-## Project Structure
+## Repo layout
 
 ```
-.vitepress/
-  config.js           ← sidebar, nav, site metadata (edit here to add pages)
-  theme/
-    index.js
-    style.css
 docs/
-  index.md            ← homepage (hero + feature cards)
-  changelog.md
-  getting-started/
-  host-events/
-  availability/
-  bookings/
-  payments/
-  integrations/
-  global-settings/
-  miscellaneous/
-  troubleshooting/
+  index.md                  # home page (layout: home, hero + 9 feature cards)
+  changelog.md              # linked from nav bar
+  README.md
+  .vitepress/
+    config.js               # site config + sidebar (single source of truth)
+    theme/
+      index.js              # forces all .vp-doc links to target="_blank"
+      style.css             # brand color #2563eb + video container
+    dist/                   # build output (gitignored)
+    cache/                  # gitignored
+  <section>/                # 9 section folders, flat — NO per-section index.md
+    *.md                    # 60 doc pages total
+  public/
+    FluentBooking-brand/    # Icon/ and Logo/ — referenced absolutely; do NOT rename
+    images/                 # screenshots organized: <section>/<page-slug>/<name>.webp
 ```
 
-**Sidebar is defined in `.vitepress/config.js`** — every new page needs a matching entry added there.
+## Section folders → sidebar groups
 
----
+The sidebar in `docs/.vitepress/config.js` has 10 groups. Group labels do NOT always match folder names — when adding a page, look up the right group:
 
-## File & Folder Naming
+| Sidebar group              | Folder(s) it links into |
+| -------------------------- | ----------------------- |
+| Getting Started            | `getting-started/` |
+| Hosts & Events             | `host-events/` |
+| **Availability**           | `availability/` + 1 page from `host-events/` (`how-to-create-a-booking-schedule`) |
+| Bookings                   | `bookings/` |
+| Payments & Coupons         | `payments/` |
+| Integrations               | `integrations/` |
+| **Settings**               | `global-settings/` |
+| **Shortcodes & Embedding** | subset of `miscellaneous/` |
+| **Advanced**               | another subset of `miscellaneous/` |
+| Troubleshooting & Support  | `troubleshooting/` |
 
-- All lowercase, words separated by hyphens: `how-to-create-a-new-host.md`
-- Folder names match the sidebar section they belong to (see above)
-- Image path pattern: `/images/{folder}/{slug}/{filename}.webp`
-  - Example: `/images/integrations/zoom-integration-with-fluentbooking/connect-zoom-01.webp`
+## Writing conventions
 
----
+- **Frontmatter:** exactly two fields — `title` (matches in-body H1) and `description` (60–100 chars)
+- **Heading depth:** max 3. H1 repeats title in-body. H2 = task section. H3 = sub-step.
+- **Voice:** 2nd person ("you"), imperative-first ("To create…, go to **Calendars**…"). No contractions inside step instructions. Conversational closings allowed.
+- **UI labels:** always **bold**, exact Title Case as the UI shows them (e.g. `**New Event Type**`, `**Save Changes**`)
+- **Callouts:** lead pages with `::: tip Important` for prerequisites, link back to the prior doc. No `::: warning` / `::: danger` in use.
+- **Images:** `![descriptive alt](/images/<section>/<page-slug>/<name>.webp)` — absolute path, webp preferred
+- **Internal links:** `[Title](/<section>/<filename-without-.md>)` — no extension (`cleanUrls: true`)
+- **Lists:** numbered for ordered task sequences; bullets for features, options, field descriptions
 
-## Markdown Conventions
+## Asset conventions
 
-### Frontmatter (required on every page)
-```yaml
----
-title: Short, keyword-rich title (used in <title> and sidebar)
-description: One sentence summarising what the page covers (used in meta description).
----
-```
+- Screenshots go in `docs/public/images/<section>/<page-slug>/<descriptive-kebab>.webp`
+- **WebP preferred** (~80% of existing assets). PNG and GIF acceptable when webp isn't feasible.
+- Don't move or rename anything under `docs/public/FluentBooking-brand/` — paths are hard-coded in `config.js`
+- Many existing filenames end in `-scaled.webp` (WordPress upload remnant) — fine to keep, don't normalize en masse
 
-### Page structure
-```
-# Page Title          ← matches `title` in frontmatter, sentence case
+## Skills
 
-One intro paragraph — what this page covers and why it matters.
+Project-specific skills live in `.claude/skills/` and auto-load on matching prompts:
 
-[optional video embed]
-[optional Pro callout]
+- **writing-new-fluentbooking-doc** — write a brand-new doc page (any archetype)
+- **updating-fluentbooking-doc** — edit an existing page on-tone
+- **new-fluentbooking-integration** — strict template for `<service>-integration-with-fluentbooking.md`
+- **editing-fluentbooking-sidebar** — edit `docs/.vitepress/config.js` correctly
 
-## Section Heading    ← H2 for major steps/topics
-...
+Open the matching skill before drafting content.
 
-## Section Heading
-...
-```
+## Things to avoid
 
-### YouTube video embed
-```html
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/{VIDEO_ID}" title="{title}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-```
-Place immediately after the intro paragraph when a tutorial video exists.
+- Don't commit `.DS_Store`, `node_modules/`, or `docs/.vitepress/dist/` (gitignored — never force-add)
+- Don't add new top-level dependencies — VitePress only
+- Don't register Vue components or add HTML containers (none in use today)
+- Don't run a global formatter (no `.prettierrc` / `.editorconfig` — match the surrounding file)
+- Don't trust the build to catch broken links — `ignoreDeadLinks: true` in config. Click-test in `docs:dev`.
+- Don't normalize image filenames in bulk — paths are baked into `.md` files
+- Don't create `next-cloud-...` style hyphenated integration filenames — use `<service>-integration-with-fluentbooking.md` (one orphan already exists; don't add a second)
 
-### Pro feature callout
-```markdown
-> The {Feature Name} feature is only available in FluentBooking Pro. You'll need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
-```
-Use when an entire page or a major section requires the Pro plugin.
+## Commit style
 
-### Images
-```markdown
-![alt text describing the screenshot](/images/{folder}/{slug}/{filename}.webp)
-```
-- Use descriptive alt text (what the screenshot shows, not just "screenshot")
-- All images are `.webp`
+Short imperative. Examples from recent history:
+- `update introduction`
+- `update Create a Booking Availability`
+- `Zoom Integration with FluentBooking`
 
-### UI element references
-- Bold every UI element name: **Settings**, **Save Changes**, **Connect with Stripe**
-- Navigation paths use `→`: go to **Fluent Booking → Settings → Payment**
+No conventional-commits prefixes (`feat:`, `fix:`). No issue numbers. 3–6 words.
 
-### Internal links
-Use root-relative paths without `.md` extension:
-```markdown
-[Create a New Host](/host-events/how-to-create-a-new-host)
-[Payment Module](/payments/how-to-take-payment-in-bookings#enable-the-global-payment-module)
-```
+## Quick references
 
-### Blockquotes for notes/tips
-```markdown
-> **Note:** Short clarification the reader needs before proceeding.
-```
-
----
-
-## Writing Style (Technical Writer Standards)
-
-### Voice & tone
-- **Second person, active voice.** Address the reader as "you". "Click **Save**" not "The Save button should be clicked."
-- **Imperative mood for instructions.** Lead steps with a verb: "Go to...", "Click...", "Enter...", "Select..."
-- **Plain language.** Avoid jargon when a simpler word works. Avoid filler phrases like "simply", "just", "easily", "straightforward".
-- **Present tense.** "FluentBooking syncs your calendar" not "FluentBooking will sync your calendar."
-
-### Structure
-- One idea per paragraph. Short paragraphs (2–4 sentences max in prose sections).
-- Use numbered lists for sequential steps. Use bullet lists for non-ordered items or feature lists.
-- H2 for major topics. H3 only when a subsection genuinely needs a heading. Never use H4+.
-- Every page must make sense standalone — include context, don't assume the reader came from another page.
-
-### Step-by-step instructions
-- Number each distinct action.
-- Group tightly related micro-actions into one step (e.g., "Enter your API key and click **Save**").
-- End with what the user should see/expect after completing the steps.
-
-### What NOT to do
-- Do not write "In this article, we will..." or "In this tutorial, we will cover..." — get straight to the content.
-- Do not repeat the page title verbatim as the first sentence.
-- Do not add a summary section at the end ("That's it! You've successfully...") unless the page is long enough that a recap adds value.
-- Do not pad content. Every sentence must earn its place.
-- Do not use marketing language ("powerful", "amazing", "best-in-class") in instructional content.
-
----
-
-## Adding a New Page — Checklist
-
-1. Create `docs/{section}/{slug}.md` with correct frontmatter.
-2. Add a sidebar entry in `.vitepress/config.js` under the correct section:
-   ```js
-   { text: 'Display Name', link: '/{section}/{slug}' }
-   ```
-3. Write the page following the structure and style above.
-4. Reference it from related pages where relevant (cross-links).
-
----
-
-## Sidebar Sections (in order)
-
-| Section key | `collapsed` default |
-|---|---|
-| Getting Started | `false` (expanded) |
-| Hosts & Events | `true` |
-| Availability | `true` |
-| Bookings | `true` |
-| Payments & Coupons | `true` |
-| Integrations | `true` |
-| Settings | `true` |
-| Shortcodes & Embedding | `true` |
-| Advanced | `true` |
-| Troubleshooting & Support | `true` |
-
----
-
-## Brand Notes
-
-- Product name: **FluentBooking** (one word, capital F, capital B)
-- Pro version: **FluentBooking Pro**
-- Company: **WPManageNinja**
-- Related products: Fluent Forms, FluentCRM, FluentBoards, FluentCart, Fluent Support
-- Plugin menu path in WordPress: **Fluent Booking** (with space, that's the WP admin menu label)
+- Sidebar / config / nav / search → `docs/.vitepress/config.js`
+- Brand color / link target → `docs/.vitepress/theme/`
+- Find a page slug → check `docs/.vitepress/config.js` sidebar
+- Home page → `docs/index.md` (`layout: home` — don't change)
+- Changelog → `docs/changelog.md`

@@ -1,9 +1,9 @@
 ---
-title: Set Booking Questions
+title: Booking Form Questions
 description: Add custom form fields (questions) to your booking flow. Collect guest info with FluentBooking booking questions.
 ---
 
-# Set Booking Questions
+# Booking Form Questions
 
 
 With FluentBooking, you can create customized questions for the guests attending your booking events. In this guide, we'll provide you with clear instructions on how to set up these questions for your bookings.

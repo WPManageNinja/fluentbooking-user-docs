@@ -15,11 +15,11 @@ Follow these step-by-step processes to create a booking link with UTM parameters
 
 From your WordPress dashboard, navigate to **FluentBooking → Calendars**. Next, find the specific booking event you want to share and click the **Share** button.
 
-![Generating Your Trackable Link](/images/miscellaneous/utm-tracking-for-bookings/Access-share-button-scaled.webp)
+![Generating Your Trackable Link](/images/miscellaneous/utm-tracking-for-bookings/access-share-button-scaled.webp)
 
 A pop-up will appear. Click on the **Generate Link** tab. Now, find the **Add Parameter** section. Then, fill in the **Fields** and **Values** to track your campaign details from the dropdown options.
 
-To know more about the Generate Link, read this [article](/getting-started/add-your-booking-form-to-the-wordpress-sites-front-end).
+To know more about the Generate Link, read this [article](/add-booking-form-to-site).
 
 - **UTM Source:** Identify the source of your traffic (e.g., Facebook, Newsletter).
 - **UTM Medium:** Specify the marketing medium (e.g., cpc, email).
@@ -40,5 +40,3 @@ First, navigate to **FluentBooking → Bookings** from your dashboard. Next, cli
 ![Viewing UTM Data in Bookings](/images/miscellaneous/utm-tracking-for-bookings/image-2.webp)
 
 Congratulations! You can now track your marketing efforts and understand exactly which channels bring you the most clients.
-
-If you need assistance, don’t hesitate to contact our [support](https://wpmanageninja.com/account/dashboard/) team.

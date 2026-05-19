@@ -15,7 +15,7 @@ Go to the specific booking event where you want to integrate with FluentBoards. 
 
 Here appears a new page. Now select the **Integrations** section from the left side bar. After that, click the **Add New Integration** button and choose the **FluentBoards Integrations** option.
 
-![Add New Integration](/images/integrations/fluentboards-integration-with-fluentbooking/Add-new-integration-02-scaled.webp)
+![Add New Integration](/images/integrations/fluentboards-integration-with-fluentbooking/add-new-integration-02-scaled.webp)
 
 ## Configure FluentBoards Integration Feed
 
@@ -29,6 +29,7 @@ Now, here you need to map your FluentBoards Integration Feed to add a Task from 
  * **F. Submitter Email:** Enter submitter email here.
  * **G. Due Type:** Select the due type, Booking date or Meeting date.
  * **H. Due Date:** Set a due date for the task using the **Plus (+) or Minus (-) icons** to adjust the date as needed.
+ * **Do not set a start date on the task:** Enable this checkbox to leave the task start date empty. By default, when a due date is present, the task start date is automatically set to the booking creation time. Check this option if you want to set the due date without also setting a start date.
  * **I. Task Position:** You can select the Task Position in the stage from here.
  * **J. Event Trigger:** Select in which booking stage you want to trigger this feed by checking the checkbox.
  * **K. Status:** Enable this feed to create a task for this booking event.
@@ -48,5 +49,3 @@ You can easily disable, enable, edit, and delete the task by clicking the icon.
 To see your boards in FluentBoards, simply go to the **FluentBoards Dashboard**. From there, click on the task for the board you want to view. You’ll find all the boards assigned from **FluentBooking** right in one place.
 
 ![Viewing the Boards in FluentBoards](/images/integrations/fluentboards-integration-with-fluentbooking/boards-scaled.webp)
-
-If you have any further questions, concerns, or suggestions, please do not hesitate to contact our [support team](https://wpmanageninja.com/support-tickets/?utm_source=wpmn&utm_medium=home&utm_campaign=site#/). Thank you.

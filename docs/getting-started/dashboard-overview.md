@@ -29,7 +29,7 @@ In the Next Meeting Activities section, you can see all your **Upcoming Bookings
 
 The latest booked meetings 'short description' will be shown here.
 
-![Latest Booked Meetings](/images/getting-started/dashboard-overview/Calendars-ConvertLeap-1-1-1.webp)
+![Latest Booked Meetings](/images/getting-started/dashboard-overview/calendars-convertleap-1-1-1.webp)
 
 ## Dark Mode
 

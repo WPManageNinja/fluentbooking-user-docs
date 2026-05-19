@@ -79,4 +79,4 @@ In your Nextcloud Calendar, you’ll be shown your booking events like this.
 
 ![Nextcloud Calendar](/images/integrations/nextcloud-calendar-integration-with-fluentbooking/host-10.webp)
 
-If you have any queries about integrating FluentBooking with Nextcloud Calendar feel free to contact us.
+
