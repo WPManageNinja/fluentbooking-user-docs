@@ -5,7 +5,7 @@ description: Create FluentBoards tasks from or before bookings. Integrate task m
 
 # FluentBoards Integration with FluentBooking
 
-[FluentBoards](/https://wordpress.org/plugins/fluent-boards/) integrates with FluentBooking, allowing you to create a task before booking any event. Install and activate the FluentBoards plugin. Follow the simple step-by-step process to integrate FluentBoards with FluentBooking.
+[FluentBoards](https://wordpress.org/plugins/fluent-boards/) integrates with FluentBooking, allowing you to create a task before booking any event. Install and activate the FluentBoards plugin. Follow the simple step-by-step process to integrate FluentBoards with FluentBooking.
 
 ## Integrate with FluentBooking
 
