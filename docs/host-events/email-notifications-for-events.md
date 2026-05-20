@@ -36,7 +36,7 @@ Each notification template can be turned on or off using its row controls.
 
 ## Customizing a Notification Template
 
-When you click **Edit** on a core template for example, **Booking Confirmation Email to Attendee**—a dedicated editing modal opens.
+When you click **Edit** on a core template for example, **Booking Confirmation Email to Attendee** a dedicated editing modal opens.
 
 ![Customize a notification template](/images/host-events/email-notifications-for-events/email-notification-configuration-03.webp)
 
