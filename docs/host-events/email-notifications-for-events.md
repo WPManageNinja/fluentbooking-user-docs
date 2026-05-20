@@ -1,77 +1,60 @@
 ---
-title: Email Notifications
-description: Configure confirmation, reminder, reschedule, and cancellation emails per event in FluentBooking.
+title: Set Email Notifications for a Booking
+description: Configure FluentBooking event email templates, toggles, shortcodes, and CC routing for notifications.
 ---
 
-# Email Notifications
+# Email Notifications 
 
-FluentBooking allows you to send automatic email notifications for various actions like bookingconfirmation, reminders, rescheduling, and cancellations. This notification will be received via email.
+FluentBooking allows you to send automatic email notifications for various actions like booking confirmation, reminders, rescheduling, and cancellations. These notifications keep both you and your attendees updated throughout the booking lifecycle.
 
-In this guide, you'll learn how to easily set up these email notification settings for each of your booking events.
+In this guide, you learn how to configure and customize these email notification settings for your specific booking events.
 
-> If you want to manage notifications for all bookings, check out the **Global Email Settings** in our full [Documentation](/global-email-settings).
+::: tip Important
+You need at least one booking calendar and event before you edit notification templates—see [Create New Events](/how-to-create-new-events) if you have not set one up yet.
+:::
 
+## Accessing Email Notification Settings
 
-<div class="video-container">
-  <iframe src="https://www.youtube.com/embed/tC4qR0z3fWg" title="Set Email Notifications for a Booking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+1. Open your FluentBooking **dashboard**.
+2. From the top navigation bar, click **Calendars** to view your booking events.
+3. Find the event you want to manage (for example, **Growth Strategy Discovery Call**) and open its settings.
+4. In the left sidebar, click **Email Notification**.
 
-## Set up Email Notification
+Here you see a list of pre-configured notification templates grouped into two main categories: **Notification Settings** and **Other Notifications**.
 
-Go to your FluentBooking dashboard. From the top navigation bar, click on **Calendars** . This section shows all your hosts and booking events. Next, find the booking event you want to update.
+![Email notification settings](/images/host-events/email-notifications-for-events/email-notification-02-scaled.webp)
 
-Once you've found it, click the **Edit** button next to it to open the settings and customize your email notifications.
+## Managing and Toggling Notifications
 
-![ Set up Email Notification](/images/host-events/email-notifications-for-events/edit-icon-01-scaled.webp)
+Each notification template can be turned on or off using its row controls.
 
-A new page will appear. Next, click on the **Email Notification** section from the left side bar.
+- **To turn a notification on or off:** Use the blue toggle on the far right of any notification row.
+- **Disabled notifications:** When a notification is disabled, its toggle turns gray, the row text fades, and a red **Disabled** badge appears next to the action button (as on the **Configure Meeting Reminder to Organizer** row).
+- **To edit:** Click **Edit** next to any trigger to change its content and settings.
 
-Here, you will find some default notification templates already set up for you. Some notifications are meant for the 'Organizer' and some for the 'Attendee'. You can easily turn **on** or **off** the notifications you'd like to receive or send.
+![Enable or disable notifications](/images/host-events/email-notifications-for-events/enable-notificstion-scaled.webp)
 
-![Email Notification](/images/host-events/email-notifications-for-events/email-notification-02-scaled.webp)
+## Customizing a Notification Template
 
-## Customization Notification Settings
+When you click **Edit** on a core template for example, **Booking Confirmation Email to Attendee**—a dedicated editing modal opens.
 
-Want to add a personal touch to your notifications? Click the**Edit**icon, and a pop-up will appear, allowing you to customize the email’s subject and content.
+![Customize a notification template](/images/host-events/email-notifications-for-events/email-notification-configuration-03.webp)
 
-![Customization Notification Settings](/images/host-events/email-notifications-for-events/enable-notificstion-scaled.webp)
+- **Subject:** Enter the subject line for the email. Click the three-dot (**...**) icon inside the field to open the shortcode selector and inject data such as <span v-pre>`{{host.name}}`</span> or <span v-pre>`{{guest.full_name}}`</span>.
+- **Email body layout:** The body field includes an editor with **Visual** and **Code** tabs, plus **Add media**. You can place dynamic tags (for example, <span v-pre>`{{booking.event_name}}`</span>) directly in the message.
+- **Add Shortcodes:** Use the **Add Shortcodes** drop-down above the formatting bar to browse and insert available data tags.
+- **Status:** Ensure **Enable this notification email** at the bottom is checked.
+- **Save:** Click the blue **Save Email** button to apply your updates.
 
-**A. Subject:** Type the subject of your email. Our notification editor comes with a bunch of shortcodes that will allow you to get all the information related to the booking. Just click on the **three-dot icon** to insert shortcodes as needed.
+![Customize a notification template](/images/host-events/email-notifications-for-events/booking-confirmation-email-notification-04.webp)
 
-These shortcodes will come in four categories:
+## Customizing Other Notification Settings (with routing options)
 
-1. **Attendee Data:** It will contain the Attendee’s data, such as name, email, timezone, notes, etc.
-2. **Booking Data:** It will contain all the booking-related data such as event name, description, event time and timezone, location, etc.
-3. **Host Data:** It will contain host information such as name, email, and timezone.
-4. **Others:** It will contain all the other relevant data of the events.
-5. **Payment Data:** It will contain all the payment related data of the events.
+The **Other Notifications** section covers transactional workflows such as manual scheduling approvals or rejections. When you customize admin-focused workflows—for example, **Booking Approval Request to Host**—the editing modal includes extra controls.
 
-**B. Email Body:** Write your message in the email body. You can also use shortcodes here to personalize the content.
+- **Subject and body:** Customize the approval subject and body. You can structure the message with headings, dividers, and time-specific tags such as <span v-pre>`{{booking.start_date_time_for_host}}`</span>.
+- **Additional recipients:** Use the input box to enter email addresses separated by commas. Each address is copied (**CC**) on the notification so administrative teams or assistant hosts stay informed.
+- **Status:** Confirm **Enable this notification email** is checked.
+- **Save:** Click the blue **Save Email** button to update the workflow.
 
-**C. Timing:** Choose when the email should be sent. You can schedule reminders before the event. To add more than one reminder, click the **Add Another Reminder** button. If you want to delete any reminder, just click on the **Cross** icon.
-
-**D. Status:** Make sure to **turn on** the notification so the email will be sent.
-
-Once everything is set up, click the **Save Email** button to save your email notification.
-
-![Notification Configuration](/images/host-events/email-notifications-for-events/email-notification-configuration-03.webp)
-
-## Customize Other Notification Settings
-
-You can set and customize the questions for booking cancellations and reschedules here.
-
-These questions let you ask your users why they are canceling or rescheduling their booking, helping you better understand their reasons.
-
-**A. Subject:** Write the subject line for your email.
-
-**B. Email Body:** Add your message in the email body. You can personalize it as needed.
-
-**C. Additional Recipients:** If you want to send this email to more people, just add multiple email addresses here.
-
-**D. Status:** Make sure to turn on the notification so the email gets sent.
-
-Once everything looks good, click the **Save Email** button to save your changes.
-
-![Customize Other Notification](/images/host-events/email-notifications-for-events/other-email-noptification-scaled.webp)
-
-You’re now all set to enjoy FluentBooking’s notification features.  Furthermore, you can edit the templates as per your needs, and the changes will reflect only on your particular events.
+![Other notifications and routing](/images/host-events/email-notifications-for-events/other-email-noptification-scaled.webp)
