@@ -64,8 +64,3 @@ Lastly, copy the generated link and use it.
 
 That's how you can embed your booking form on your webpage.
 
-## Next steps
-
-- [Create a Team Booking Page](/create-team-booking-page) — let visitors pick a host from a team list.
-- [Host Landing Page](/how-to-enable-landing-page-for-your-host) — give each host a shareable booking URL.
-- [Shortcodes](/fluentbooking-shortcodes) — explore every shortcode you can place on a page.

@@ -51,9 +51,3 @@ The dashboard ships with a built-in **Dark Mode** for comfortable use in low-lig
 To toggle it, click the **sun/moon icon** in the top-right corner of the FluentBooking admin bar. The preference is saved per user—your hosts can each pick the theme they prefer.
 
 ![Dark-Mode](/images/getting-started/dashboard-overview/dark-mode-scaled.webp)
-
-## Next steps
-
-- [Create a Host](/how-to-create-a-new-host) — add your first calendar host.
-- [Create a Booking Event](/how-to-create-new-events) — define what people can book.
-- [Add Booking Form to Your Site](/add-booking-form-to-site) — embed the calendar on your site.

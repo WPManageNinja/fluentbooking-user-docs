@@ -51,8 +51,4 @@ Now, check if any update is available. If yes, just click on the **Update** butt
 
 Congratulations! Now, you can explore all the amazing features of FluentBooking!
 
-## Next steps
 
-- [Dashboard Overview](/dashboard-overview) — get familiar with the FluentBooking admin panel.
-- [Create a Host](/how-to-create-a-new-host) — set up the person or calendar that will accept bookings.
-- [Install FluentBooking Pro](/how-to-install-activate-fluent-booking) — unlock calendar sync, payments, and integrations.
