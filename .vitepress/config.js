@@ -149,6 +149,7 @@ const sidebar = [
 ]
 
 export default defineConfig({
+  srcDir: 'docs',
   base: '/',
   cleanUrls: true,
   rewrites: {
