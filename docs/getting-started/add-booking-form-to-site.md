@@ -13,7 +13,7 @@ First, go to the **Booking Calendars** from your FluentBooking dashboard. Find t
 
 Click the **Share** button, and a pop-up will appear with three sharing options for your bookings.
 
-### Copy Shortcode
+## Copy Shortcode
 
 Simply copy the shortcode from here
 
@@ -30,14 +30,14 @@ Your booking will then appear on that page's front end page like this.
 
 ![Front End Page](/images/getting-started/add-booking-form-to-site/1.6.webp)
 
-### Landing Page
+## Landing Page
 
 You'll receive a hyperlink for your booking, which you can place on your site's landing page or you can share this link anywhere to reach out to your booking event.
 
 ![Landing Page](/images/getting-started/add-booking-form-to-site/booking-in-frontend-3-scaled.webp)
 
 
-### Add to Block
+## Add to Block
 
 On your WordPress site page, you'll discover a block for sharing your bookings. Use this block to add any booking event from your FluentBooking to your website's front end.
 

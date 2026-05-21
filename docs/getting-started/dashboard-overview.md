@@ -5,39 +5,50 @@ description: Tour the FluentBooking dashboard—booking stats, completed and can
 
 # Dashboard Overview
 
-When you log in as an Administrator or a regular user in the **FluentBooking plugin**, the first thing you'll see is the Dashboard. The Dashboard gives you a quick summary of booking statistics, completed bookings over time, and your meeting activities. It's divided into four main sections, and we'll guide you through each of them.
+The FluentBooking Dashboard is the first screen you land on after activating the plugin. It gives you a quick summary of booking activity, recent meetings, and how your calendar is performing over time.
+
+To open it, log in to WordPress as an administrator and go to **Fluent Booking → Dashboard** from the left admin menu.
+
+The page is divided into four main sections—**Overview**, **Booking Trends**, **Next Meeting**, and **Latest Booked Meetings**—plus a built-in **Dark Mode** toggle. Each section is covered below.
 
 ## Overview
 
-Here, you'll find the total number of different types of bookings. You can even choose a specific date range to view reports for a particular time period. At the bottom of every report section, you'll see a percentage compared to the last month.
+The Overview section is the row of four stat tiles at the top of the dashboard. Each tile shows a running total and a change percentage compared to the previous period.
 
-* **Date Range:** On the top right, you can select a date range for your booking reports.
-* **Total Bookings:** This shows the overall number of bookings. If you've set a date range, it will display bookings made within those dates.
-* **Completed Bookings:** This reveals the number of bookings you've successfully completed, and you can filter this by date range.
-* **Canceled Bookings:** This provides a summary of canceled bookings, and you can also specify a date range.
-* **Total Guests:** This section offers a complete guest report for all times.
+- **Date Range** (top right): Pick the period you want every tile and chart to reflect. The default is the last 30 days.
+- **Total Bookings**: Every booking created in the selected period, regardless of status.
+- **Completed Bookings**: Bookings whose meeting time has already passed without being canceled.
+- **Canceled Bookings**: Bookings that were canceled by the guest or the host.
+- **Total Guests**: Unique guests who have booked with you across all time (not filtered by the date range).
 
 ## Booking Trends
 
-This section displays a line chart showing the trend of **Booked, Completed**, and **Canceled** bookings. From the top right corner, you can select a specific date range to customize your dashboard's reporting.
+Booking Trends is a line chart that plots three series side by side: **Booked**, **Completed**, and **Canceled**. Use it to spot patterns—busy weekdays, drop-off after a campaign, or a spike following a price change.
+
+The date range selector in the top right of the dashboard controls this chart along with the Overview tiles.
 
 ## Next Meeting
 
-In the Next Meeting Activities section, you can see all your **Upcoming Bookings** short descriptions.
+Next Meeting shows the soonest upcoming booking from the current host's calendar. The card displays:
+
+- Guest name and email
+- Event type and duration
+- Meeting time in your timezone
+- The join link, if a video conferencing integration is connected
+
+Use this card as a quick "what's next?" check without leaving the dashboard.
 
 ## Latest Booked Meetings
 
-The latest booked meetings 'short description' will be shown here.
+Latest Booked Meetings is a chronological list of the most recent bookings. Each row shows the guest, the event type, the host, and the scheduled time. Click any row to open the full booking details.
 
 ![Latest Booked Meetings](/images/getting-started/dashboard-overview/calendars-convertleap-1-1-1.webp)
 
 ## Dark Mode
 
-FluentBooking also offers a built-in **Dark Mode** in the backend dashboard for a more comfortable and focused working experience. It helps reduce eye strain, especially during long work hours or in low-light conditions.
+The dashboard ships with a built-in **Dark Mode** for comfortable use in low-light conditions.
 
-To enable dark mode, go to your **FluentBooking Dashboard** and look at the top bar. Find the **Dark Mode (sun/moon) icon** in the top-right corner and click it to switch between light and dark themes.
-
-No additional setup is required. You can turn **Dark Mode on** or **off** anytime based on your preference.
+To toggle it, click the **sun/moon icon** in the top-right corner of the FluentBooking admin bar. The preference is saved per user—your hosts can each pick the theme they prefer.
 
 ![Dark-Mode](/images/getting-started/dashboard-overview/dark-mode-scaled.webp)
 
