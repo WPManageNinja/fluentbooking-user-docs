@@ -20,7 +20,7 @@ docs/
   .vitepress/
     config.js               # site config + sidebar (single source of truth)
     theme/
-      index.js              # forces all .vp-doc links to target="_blank"
+      index.js              # custom theme (Layout + styles; default VitePress link behavior)
       style.css             # brand color #2563eb + video container
     dist/                   # build output (gitignored)
     cache/                  # gitignored
