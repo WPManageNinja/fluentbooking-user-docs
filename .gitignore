@@ -2,9 +2,9 @@
 __pycache__/
 *.pyc
 .DS_Store
-/.vitepress/cache
-/.vitepress/dist
-/node_modules
-/new-booking
 /docs/.vitepress/cache
 /docs/.vitepress/dist
+/node_modules
+/new-booking
+/.vitepress/cache
+/.vitepress/dist
