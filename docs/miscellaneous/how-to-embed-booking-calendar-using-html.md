@@ -7,6 +7,10 @@ description: Display your FluentBooking calendar anywhere with an HTML embed cod
 
 With the new **Embed Booking Calendar** feature, you can now display your booking calendar anywhere on your website using a simple HTML code. This allows your clients to view your availability and book appointments without ever leaving your site, creating a seamless and professional user experience.
 
+::: tip Important
+Before generating the embed code, make sure you have created at least one [host](/how-to-create-a-new-host) and [booking event](/how-to-create-new-events) in FluentBooking.
+:::
+
 ## Select Your Calendar
 
 To get started, you need to generate the embed code for the specific calendar or host profile you wish to display.

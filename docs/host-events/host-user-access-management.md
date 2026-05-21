@@ -40,3 +40,8 @@ You can edit this host permission anytime by clicking the button on the right si
 >You cannot delete a host if they have active meetings booked.
 
 ![Edit Permission](/images/host-events/host-user-access-management/3-5.webp)
+
+## Next steps
+
+- [Host Profile Settings](/host-settings) — fill in the host's avatar and public details.
+- [Create a Booking Event](/how-to-create-new-events) — create the first event for this host.

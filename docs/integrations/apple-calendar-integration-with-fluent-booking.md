@@ -7,6 +7,12 @@ description: Sync bookings with Apple Calendar. Monitor and manage events from y
 
 You can easily integrate your Apple Calendar with FluentBooking without any hassle. After integrating your Apple Calendar with FluentBooking you can monitor and keep track of your events from your Apple devices. Please follow the following steps to configure Apple Calendar with FluentBooking.
 
+> The Apple Calendar integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+
+::: tip Important
+Before connecting Apple Calendar, make sure you have created at least one [host](/how-to-create-a-new-host) in FluentBooking. You will also need an app-specific password generated in your Apple ID account.
+:::
+
 ## Enable Apple Calendar Integration
 
 Go to your **Settings** first then select the **Apple Calendar** from the left sidebar. Enable the **Apple Calendar**, and set the caching time to 5-10 minutes for optimal performance. Click the **Save Settings** button. Also, you can set the **caching time** from the dropdown option

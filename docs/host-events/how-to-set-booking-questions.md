@@ -8,6 +8,10 @@ description: Add custom form fields (questions) to your booking flow. Collect gu
 
 With FluentBooking, you can create customized questions for the guests attending your booking events. In this guide, we'll provide you with clear instructions on how to set up these questions for your bookings.
 
+::: tip Important
+This page assumes you have already [created a booking event](/how-to-create-new-events).
+:::
+
 ## Manage Booking Questions
 
 To start setting up questions for your booking, go to FluentBooking and click on the **Calendars** on your dashboard. Next, choose the specific booking event you’re interested in and click on **Edit** button.

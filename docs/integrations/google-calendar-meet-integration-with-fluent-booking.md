@@ -7,6 +7,12 @@ description: Sync bookings with Google Calendar and auto-create Google Meet link
 
 FluentBooking offers seamless integration with your Google Calendar and Google Meet, making your scheduling experience even more efficient and effective. There are two ways to integrate Google Calendar with FluentBooking. We'll show you both.
 
+> Two-way Google Calendar sync and automatic Google Meet links are FluentBooking Pro features. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access them.
+
+::: tip Important
+Before connecting Google Calendar, make sure you have created at least one [host](/how-to-create-a-new-host) in FluentBooking.
+:::
+
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/MVTqroAwtP4" title="Google Calendar/Meet integration with FluentBooking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

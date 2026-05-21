@@ -9,6 +9,12 @@ description: Connect FluentBooking with FluentCRM for email automation, tags, an
 
 This integration between FluentCRM and FluentBooking simplifies the process of adding event attendees to your FluentCRM customer list for business growth and marketing lead collection.
 
+> The FluentCRM integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+
+::: tip Important
+You need to have the FluentCRM plugin installed and activated, and at least one [host](/how-to-create-a-new-host) created in FluentBooking, before configuring this integration.
+:::
+
 ## Integration Steps
 
 Follow these straightforward steps to integrate FluentCRM with FluentBooking:
@@ -59,7 +65,7 @@ To create a new automation in FluentCRM, go to the **FluentCRM Dashboard** and c
 
 A popup window will appear. From the sidebar, select **Booking**, then choose a trigger to define when the automation should start.
 
-#### Available triggers include:
+### Available triggers include:
 
  * **New Booking:** Runs the automation when a new booking is confirmed.
  * **Booking Cancelled:** Runs the automation when a booking is canceled.

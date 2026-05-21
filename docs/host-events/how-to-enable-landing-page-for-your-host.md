@@ -34,3 +34,8 @@ Select the option that fits your use case. If you choose **Selected Booking Form
 
 
 After saving your settings, copy the host’s landing page URL from the calendar or share settings and use it in emails, social posts, or your website. To learn how to add the booking form to a WordPress page or block instead, see [Add Booking Form to Your Site](/add-booking-form-to-site).
+
+## Next steps
+
+- [Clean Up Booking URLs](/how-to-prettify-landing-page-url) — make the landing page URL more readable.
+- [Create a Booking Event](/how-to-create-new-events) — add more event types to this host's landing page.

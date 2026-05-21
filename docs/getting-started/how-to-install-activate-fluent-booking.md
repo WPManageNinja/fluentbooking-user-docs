@@ -42,3 +42,9 @@ And finally, click the **Verify License** button. Your **FluentBooking Pro versi
 ![Activating the License Key](/images/getting-started/how-to-install-activate-fluent-booking/booking-licence-2-scaled.webp)
 
 Congratulations now you can explore all the amazing features of FluentBooking!
+
+## Next steps
+
+- [Dashboard Overview](/dashboard-overview) — learn the FluentBooking Pro admin panel.
+- [Create a Host](/how-to-create-a-new-host) — set up your first calendar host.
+- [Connect a calendar](/integrations-overview) — sync Google, Outlook, Apple, or Nextcloud.

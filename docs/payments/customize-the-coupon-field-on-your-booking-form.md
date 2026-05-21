@@ -7,6 +7,10 @@ description: Add and configure a coupon field on the booking form. Let guests ap
 
 Make it easy for your clients to redeem discounts by adding a dedicated coupon field directly to your booking form. This feature is integrated into the Question Settings, allowing you to configure a coupon input just like any other field. When clients apply a valid code, their discount is instantly calculated.
 
+::: tip Important
+You need at least one active coupon to test this field. See [Create and Manage Payment Coupons](/how-to-create-and-manage-payment-coupons) if you have not enabled the Coupon Module yet.
+:::
+
 ## Customizing the Coupon Field
 
 First, go to **FluentBooking→Calendars** and select the event you wish to modify. Click the **Edit** button.

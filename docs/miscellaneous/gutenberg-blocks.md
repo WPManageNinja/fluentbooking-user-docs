@@ -9,7 +9,11 @@ FluentBooking offers an amazing feature for Gutenberg users. It lets you easily 
 
 In this guide, you’ll learn how to add and customize FluentBooking blocks using the Gutenberg editor.
 
-### FluentBooking Blocks
+::: tip Important
+Before inserting a FluentBooking block, make sure you have created at least one [host](/how-to-create-a-new-host) and [booking event](/how-to-create-new-events) in FluentBooking.
+:::
+
+## FluentBooking Blocks
 
 There are four FluentBooking blocks available in the Gutenberg editor. Here is the list of blocks:
 

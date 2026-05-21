@@ -10,6 +10,12 @@ description: Send booking notifications via SMS and WhatsApp with Twilio. Connec
 
 This guide explains how to integrate **Twilio with FluentBooking** to send event notifications via SMS and WhatsApp.
 
+> The Twilio SMS/WhatsApp integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+
+::: tip Important
+You need a Twilio account with a verified phone number and at least one [host](/how-to-create-a-new-host) configured in FluentBooking before sending SMS or WhatsApp notifications.
+:::
+
 
 ## Configure FluentBooking Integration with Twilio/SMS
 

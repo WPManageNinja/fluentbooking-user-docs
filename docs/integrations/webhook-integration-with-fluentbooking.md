@@ -7,6 +7,12 @@ description: Send booking data to any API via webhooks. Integrate FluentBooking 
 
 FluentBooking's robust webhook features allow you to easily share your booking events with any web API endpoint. As a result, your FluentBooking experience will be more flexible and versatile since you can easily exchange and integrate your booking data with various platforms.
 
+> The Webhook integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+
+::: tip Important
+You need at least one [booking event](/how-to-create-new-events) created in FluentBooking before configuring a webhook, plus a destination URL that can receive POST requests.
+:::
+
 ## Steps to Configure Webhook
 
 Select the **Booking Calendars** from the FluentBooking dashboard. Go to the particular booking event, then click the **Edit** button.

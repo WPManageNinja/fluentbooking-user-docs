@@ -53,3 +53,9 @@ Your **Team** section will appear on the front page as shown
 
 
 ![Select Booking Event](/images/getting-started/create-team-booking-page/team.gif)
+
+## Next steps
+
+- [Host Landing Page](/how-to-enable-landing-page-for-your-host) — share a single-host booking URL.
+- [Team Permissions & Access](/host-user-access-management) — control who can view or edit team bookings.
+- [Add Booking Form to Your Site](/add-booking-form-to-site) — embed a single event instead of the team page.

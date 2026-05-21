@@ -9,6 +9,12 @@ Integrating your **Outlook Calendar** with FluentBooking allows you to automatic
 
 Follow the step-by-step guide below to connect your Outlook Calendar and start syncing your booking events seamlessly.
 
+> The Outlook Calendar integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+
+::: tip Important
+Before connecting Outlook Calendar, make sure you have created at least one [host](/how-to-create-a-new-host) in FluentBooking.
+:::
+
 ## Select Your Calendar
 
 Start by selecting the **Calendar** you want to integrate and access its **Host settings**.

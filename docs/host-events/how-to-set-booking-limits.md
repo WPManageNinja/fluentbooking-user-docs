@@ -7,7 +7,11 @@ description: Control how far ahead guests can book and how many bookings per per
 
 FluentBooking provides a helpful feature to incorporate breaks between your booked events. You can set various limits according to your preferences. This guide explains the limit feature in FluentBooking in more detail.
 
-### Before the Event
+::: tip Important
+This page assumes you have already [created a booking event](/how-to-create-new-events).
+:::
+
+## Before the Event
 
 You can allocate a break time before the start of your meeting using FluentBooking. Simply input the desired break duration into the meeting settings.
 

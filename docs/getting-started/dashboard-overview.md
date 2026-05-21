@@ -40,3 +40,9 @@ To enable dark mode, go to your **FluentBooking Dashboard** and look at the top 
 No additional setup is required. You can turn **Dark Mode on** or **off** anytime based on your preference.
 
 ![Dark-Mode](/images/getting-started/dashboard-overview/dark-mode-scaled.webp)
+
+## Next steps
+
+- [Create a Host](/how-to-create-a-new-host) — add your first calendar host.
+- [Create a Booking Event](/how-to-create-new-events) — define what people can book.
+- [Add Booking Form to Your Site](/add-booking-form-to-site) — embed the calendar on your site.

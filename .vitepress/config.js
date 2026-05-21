@@ -92,6 +92,7 @@ const sidebar = [
     collapsible: true,
     collapsed: true,
     items: [
+      { text: 'Integrations Overview', link: '/integrations-overview' },
       { text: 'Google Calendar & Meet', link: '/google-calendar-meet-integration-with-fluent-booking' },
       { text: 'Outlook Calendar', link: '/outlook-calendar-integration-with-fluent-booking' },
       { text: 'Apple Calendar', link: '/apple-calendar-integration-with-fluent-booking' },
@@ -144,6 +145,7 @@ const sidebar = [
     items: [
       { text: 'Common Issues & FAQs', link: '/common-issues-and-faqs' },
       { text: 'How to Get Support', link: '/best-practices-and-get-help' },
+      { text: 'Changelog', link: '/changelog' },
     ],
   },
 ]

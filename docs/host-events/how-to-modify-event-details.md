@@ -9,6 +9,10 @@ Managing your scheduling system is simple with FluentBooking. You can update mee
 
 This helps keep your booking page accurate and up to date. With just a few clicks, you can adjust your settings based on your availability and services.
 
+::: tip Important
+This page assumes you have already [created a booking event](/how-to-create-new-events).
+:::
+
 ## Edit a Bookings
 
 Go to the **Calendars** menu from the top navigation bar and choose the booking event you want to update. Then, click the **Edit** button next to that event.

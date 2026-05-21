@@ -7,6 +7,10 @@ description: Offer discounts on paid events. Enable coupons, create codes, and r
 
 The Coupons feature in **FluentBooking Pro** allows you to offer discounts for your paid events. Creating and managing coupons is an excellent way to run promotional campaigns, reward loyal clients, or boost bookings during slow periods. This guide will walk you through enabling the feature and creating your first coupon.
 
+::: tip Important
+The Coupon Module is part of FluentBooking Pro. Before creating coupons, make sure the global [Payment Module](/how-to-take-payment-in-bookings#enable-the-global-payment-module) is enabled and at least one paid booking event exists.
+:::
+
 ## Enabling the Coupon Module
 
 Before you can create coupons, you must first activate the coupon module, which is part of FluentBooking Pro.
@@ -29,13 +33,13 @@ From there, select the **Coupons** sub-tab, where you will see a list of all exi
 
 Fill in the following fields to define how your coupon will work.
 
-#### Basic Information
+### Basic Information
 
 - **Title**: Give your coupon a recognizable name for internal use (e.g., "Summer Sale 2025").
 - **Coupon Code**: Enter the code your clients will use at checkout (e.g., SUMMER25). You can also click **Generate Random Code** for a unique, secure code.
 - **Discount**: Enter the discount value. You can choose between a **Percentage (%)** or a **Fixed** amount from the dropdown menu.
 
-#### Discount Conditions
+### Discount Conditions
 
 - **Minimum Purchase Amount**: Set a minimum booking value required to apply the coupon. Leave at 0 for no minimum.
 - **Maximum Discount Amount**: For percentage-based discounts, you can set a maximum monetary value for the discount.
@@ -43,19 +47,19 @@ Fill in the following fields to define how your coupon will work.
 - **Per User Limit**: Set how many times a single user can use this coupon.
 - **Applicable Events**: Choose the booking events this coupon applies to from the dropdown. Leave blank to apply it to all paid events.
 
-#### Expiration
+### Expiration
 
 - **Start Date & Time**: Set the exact date and time when the coupon becomes active.
 - **End Date & Time**: Set the exact date and time when the coupon will expire and can no longer be used.
 
-#### Additional Information
+### Additional Information
 
 - **Status**: Set the coupon to **Active** or **Inactive**.
 - **Internal Notes**: Add any private notes about this coupon for your team.
 
 ![Expiration](/images/payments/how-to-create-and-manage-payment-coupons/configuring-your-coupon-scaled.webp)
 
-#### Failed Message
+### Failed Message
 
 The Failed Message feature provides a better experience for your clients by showing them specific, helpful error messages when a coupon code fails. Instead of a generic "Invalid Code" notice, you can explain exactly why it didn't work. Enter the corresponding custom message you want your clients to see.
 
@@ -67,7 +71,7 @@ Here are the different failure reasons you can customize a message for:
  - **Minimum Purchase:** Shown if the booking total is less than the minimum purchase amount required for the coupon.
  - **Limit Reached:** This message appears when the coupon has reached its maximum number of uses, either in total or for that specific user.
 
-#### Stackability
+### Stackability
 
 The **Stackable** option allows you to determine if a specific coupon can be used in conjunction with other coupons on a single booking. Here you will find two options:
 

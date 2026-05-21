@@ -5,6 +5,10 @@ description: Make FluentBooking landing page URLs clean and readable (e.g. /book
 
 # Clean Up Booking URLs
 
+::: tip Important
+This change requires editing your `wp-config.php` file. Back up your site and make sure you have FTP or hosting-panel access before continuing.
+:::
+
 By default, the FluentBooking landing page URL follows a query-based structure, such as:
 
 ```

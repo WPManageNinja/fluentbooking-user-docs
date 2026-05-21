@@ -44,3 +44,9 @@ After that, click on the **Continue** button to save it.
 
 
 And that's it! You can repeat these steps to create as many calendars or hosts as you need on FluentBooking. Enjoy the ease and convenience of scheduling meetings with your team and attendees.
+
+## Next steps
+
+- [Create a Booking Event](/how-to-create-new-events) — set up what people can book with this host.
+- [Host Profile Settings](/host-settings) — personalize the host's public profile.
+- [Host Landing Page](/how-to-enable-landing-page-for-your-host) — enable a shareable URL for this host.

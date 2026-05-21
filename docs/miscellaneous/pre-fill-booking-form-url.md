@@ -9,7 +9,7 @@ Using URL parameters allows you to generate a unique URL for your users that pre
 
 In this article, we’ll guide you through the step-by-step process of creating these custom URLs using the Generate Link feature.
 
-#### Supported Variables
+## Supported Variables
 
 You can use these variables to pass event and invitee information directly into the URL. These parameters allow you to pre-fill the form data:
 
@@ -45,7 +45,7 @@ The easiest way to create these URLs is by using the built-in **Generate Link** 
 ![How Works for user](/images/miscellaneous/pre-fill-booking-form-url/url-2-scaled.webp)
 
 
-#### Understanding the URL Structure
+## Understanding the URL Structure
 
 If you prefer to manually construct the URL or understand how the **Generate Link** feature structures it, here is how the parameters are formatted.
 

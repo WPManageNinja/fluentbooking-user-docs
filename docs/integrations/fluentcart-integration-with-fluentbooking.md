@@ -9,6 +9,12 @@ description: Sell consultations and services via FluentCart. Use FluentCart chec
 
 This keeps your sales and appointments within a single, seamless ecosystem without needing extra plugins.Follow these steps to connect FluentCart with your booking events:
 
+> The FluentCart integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+
+::: tip Important
+You need the FluentCart plugin installed and at least one [booking event](/how-to-create-new-events) created in FluentBooking before activating this integration.
+:::
+
 ## Activate the FluentCart Module
 
 First, ensure FluentCart is installed and active on your WordPress site.

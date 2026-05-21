@@ -9,6 +9,10 @@ FluentBooking allows you to charge multiple pricing options for a booking based 
 
 This article will guide you through the process of setting up the **Multi-Payments** feature in the **Booking Event**.
 
+::: tip Important
+Before configuring multiple pricing options, make sure the global [Payment Module](/how-to-take-payment-in-bookings#enable-the-global-payment-module) is enabled and at least one payment platform (Stripe, PayPal, or Offline) is configured.
+:::
+
 ## Enable Payment Modules
 
 Before starting the process of adding the multi-payment feature in booking services, make sure that your payment modules are enabled.

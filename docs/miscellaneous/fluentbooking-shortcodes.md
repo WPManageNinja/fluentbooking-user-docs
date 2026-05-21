@@ -9,6 +9,10 @@ A shortcode is a simple snippet of code that you can place anywhere on your webs
 
 This guide walks you through the available shortcodes and shows you how to use them effectively to enhance your website's functionality.
 
+::: tip Important
+Before embedding a shortcode, make sure you have created at least one [host](/how-to-create-a-new-host) and [booking event](/how-to-create-new-events) in FluentBooking.
+:::
+
 ## Add Shortcodes to Your Website
 
 To integrate shortcodes into your website’s front end:

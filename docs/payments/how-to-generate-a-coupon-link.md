@@ -7,7 +7,11 @@ description: Share a booking link with a coupon pre-applied. No manual code entr
 
 Make booking easier for your clients by sharing a link that already has the coupon applied. With the Generate Coupon Link feature, your clients don’t need to type codes manually. The discount is included in the link, streamlining the process and boosting conversions.
 
-### Creating Your Coupon Link
+::: tip Important
+You need at least one active [coupon](/how-to-create-and-manage-payment-coupons) before generating a link.
+:::
+
+## Creating Your Coupon Link
 
 Create a [coupon](/how-to-create-and-manage-payment-coupons) link easily, simply, and with only a few steps. Follow these steps to generate a booking link with an embedded coupon.
 

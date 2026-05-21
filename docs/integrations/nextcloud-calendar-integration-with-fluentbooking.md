@@ -9,6 +9,12 @@ FluentBooking connects easily with **Nextcloud Calendar**, allowing you to sync 
 
 Follow the steps below to set up the integration and start syncing your booking events with Nextcloud Calendar.
 
+> The Nextcloud Calendar integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+
+::: tip Important
+Before connecting Nextcloud Calendar, make sure you have created at least one [host](/how-to-create-a-new-host) in FluentBooking. You will also need your Nextcloud server URL and an app password from your Nextcloud account.
+:::
+
 ## Enabling Nextcloud Calendar
 
 To enable Nextcloud Calendar go to your FluentBooking **Settings** and here you will find your **Nextcloud Calendar** settings in the left sidebar. Now click on the Checkbox to enable the **Nextcloud Calendar.** Also, you have to give here the **Nextcloud CalDav Primary URL** and set the **caching time** from the dropdown option.

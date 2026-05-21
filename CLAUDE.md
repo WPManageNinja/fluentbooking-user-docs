@@ -1,6 +1,6 @@
 # FluentBooking Documentation — Claude Guide
 
-VitePress user-doc site for **FluentBooking**, a WordPress appointment-booking plugin. Single dev dep: `vitepress ^1.0.0`. ES module project (`"type": "module"`). 60 doc pages across 9 section folders.
+VitePress user-doc site for **FluentBooking**, a WordPress appointment-booking plugin. Single dev dep: `vitepress ^1.0.0`. ES module project (`"type": "module"`). 60 doc pages across 9 section folders, exposed via a **12-group sidebar** in `.vitepress/config.js`. URL slugs are flat (no `/section/` prefix) thanks to `rewrites` in the config.
 
 ## Commands
 
@@ -33,20 +33,24 @@ docs/
 
 ## Section folders → sidebar groups
 
-The sidebar in `docs/.vitepress/config.js` has 10 groups. Group labels do NOT always match folder names — when adding a page, look up the right group:
+The sidebar in `docs/.vitepress/config.js` has **12 groups** (the user journey was re-split since the original 10-group layout). Group labels do NOT always match folder names, and several groups pull pages from more than one folder — when adding a page, look up the right group below:
 
-| Sidebar group              | Folder(s) it links into |
-| -------------------------- | ----------------------- |
-| Getting Started            | `getting-started/` |
-| Hosts & Events             | `host-events/` |
-| **Availability**           | `availability/` + 1 page from `host-events/` (`how-to-create-a-booking-schedule`) |
-| Bookings                   | `bookings/` |
-| Payments & Coupons         | `payments/` |
-| Integrations               | `integrations/` |
-| **Settings**               | `global-settings/` |
-| **Shortcodes & Embedding** | subset of `miscellaneous/` |
-| **Advanced**               | another subset of `miscellaneous/` |
-| Troubleshooting & Support  | `troubleshooting/` |
+| Sidebar group         | Folder(s) it pulls from |
+| --------------------- | ----------------------- |
+| Getting Started       | `getting-started/` |
+| **Hosts & Team**      | `host-events/` (create host, team permissions, landing page) + `global-settings/host-settings.md` (Host Profile Settings) |
+| **Event Types**       | `host-events/` (create event, recurring, round robin, single/group, collective) |
+| **Event Settings**    | `host-events/` (edit details, advanced settings, questions, limits, email notifications) |
+| Availability          | `availability/` + 1 page from `host-events/` (`how-to-create-a-booking-schedule`) |
+| **Manage Bookings**   | `bookings/` |
+| Payments & Coupons    | `payments/` |
+| Integrations          | `integrations/` |
+| **Add to Your Site**  | subset of `miscellaneous/` (shortcodes, Gutenberg, HTML embed, prettify URL) |
+| **Site Settings**     | `global-settings/` (email & notifications, frontend panel) + `host-events/how-to-set-booking-summary-email.md` |
+| **Advanced Features** | subset of `miscellaneous/` (import/export, pre-fill, UTM) |
+| **Help & Support**    | `troubleshooting/` |
+
+**URL slug quirk:** `config.js` `rewrites` strip the folder prefix from URLs, so every sidebar link is flat (`/how-to-create-a-new-host`), and the actual file can sit in any of the section folders — slugs must be globally unique across `docs/`.
 
 ## Writing conventions
 
@@ -56,7 +60,7 @@ The sidebar in `docs/.vitepress/config.js` has 10 groups. Group labels do NOT al
 - **UI labels:** always **bold**, exact Title Case as the UI shows them (e.g. `**New Event Type**`, `**Save Changes**`)
 - **Callouts:** lead pages with `::: tip Important` for prerequisites, link back to the prior doc. No `::: warning` / `::: danger` in use.
 - **Images:** `![descriptive alt](/images/<section>/<page-slug>/<name>.webp)` — absolute path, webp preferred
-- **Internal links:** `[Title](/<section>/<filename-without-.md>)` — no extension (`cleanUrls: true`)
+- **Internal links:** `[Title](/<slug>)` — flat path, no folder prefix, no extension (rewrites + `cleanUrls: true`). Anchors: `[Title](/<slug>#section-id)`.
 - **Lists:** numbered for ordered task sequences; bullets for features, options, field descriptions
 
 ## Asset conventions

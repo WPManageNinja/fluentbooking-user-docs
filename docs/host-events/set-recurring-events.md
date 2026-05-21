@@ -10,7 +10,7 @@ description: Offer multi-session packages (coaching, courses, therapy). Let clie
 This guide will explain every setting in detail so you can configure it perfectly for your needs.
 
 
-### Step 1: Open Your Event Settings
+## Step 1: Open Your Event Settings
 
 First, you need to select which event you want to turn into a recurring series.
 
@@ -20,7 +20,7 @@ Go to the **Calendars** section in your FluentBooking dashboard. Locate your spe
 ![Event Settings](/images/host-events/set-recurring-events/booking-recurring-1-scaled.webp)
 
 
-### Step 2: Enable Recurring Mode
+## Step 2: Enable Recurring Mode
 
 
 By default, all events are set to "single booking." 
@@ -31,13 +31,13 @@ In the left-hand menu of the event editor, click on **Recurring Settings**. Find
 ![Enable Recurring Event](/images/host-events/set-recurring-events/booking-recurring-2-scaled.webp)
 
 
-### Step 3: Configure Your Schedule (Important)
+## Step 3: Configure Your Schedule (Important)
 
 
 This is where you define the rules for your series. Let's break down what each option means for your business.
 
 
-#### 1. Frequency (Repeats every...)
+### 1. Frequency (Repeats every...)
 
 
 This determines the gap between sessions.
@@ -47,7 +47,7 @@ This determines the gap between sessions.
 - *Use case:* Perfect for "Every Tuesday at 10 AM" meetings.
 
 
-#### 2. Count (For a maximum of...)
+### 2. Count (For a maximum of...)
 
 
 This is the total number of sessions in the series.
@@ -56,7 +56,7 @@ This is the total number of sessions in the series.
 - **Example:** If you enter **6 Events**, the customer will be booking 6 appointments total.
 
 
-#### 3. Strict vs. Flexible (Require All Maximum Occurrences)
+### 3. Strict vs. Flexible (Require All Maximum Occurrences)
 
 
 This checkbox changes how the booking works significantly:
@@ -81,13 +81,13 @@ This checkbox changes how the booking works significantly:
 ![Recurring Booking](/images/host-events/set-recurring-events/booking-recurring-3-scaled.webp)
 
 
-### Step 4: What Your Customer Sees
+## Step 4: What Your Customer Sees
 
 
 It is helpful to understand the experience from your client's perspective.
 
 
-#### On the Booking Page
+### On the Booking Page
 
 When they select a start date, they will see a summary of the commitment (e.g., "Every week for 6 occurrences").
 

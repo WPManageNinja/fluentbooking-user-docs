@@ -9,6 +9,10 @@ FluentBooking is the ultimate tool for managing your website's bookings. It offe
 
 In this article, we will explore the booking advanced features available in the Advanced Settings section.
 
+::: tip Important
+This page assumes you have already [created a booking event](/how-to-create-new-events).
+:::
+
 ## Accessing Advanced Settings
 
 Go to the **Calendars** in the FluentBooking navbar and click the **Edit** button for the booking you want to access Advanced Settings.

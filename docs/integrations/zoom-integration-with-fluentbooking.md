@@ -9,6 +9,12 @@ Zoom integration simplifies the process of scheduling and handling online meetin
 
 To integrate Zoom with FluentBoooking you need to follow some straightforward steps described in this guideline.
 
+> The Zoom integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+
+::: tip Important
+Before connecting Zoom, make sure you have created at least one [host](/how-to-create-a-new-host) in FluentBooking.
+:::
+
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/Yg8JXqnaQbg" title="Zoom Integration with FluentBooking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

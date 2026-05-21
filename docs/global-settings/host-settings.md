@@ -55,4 +55,10 @@ That’s it! You can now share the copied link with anyone you’d like.
 
 Don't forget to click **Save Changes** to confirm your updates to the host profile.
 
-That covers the essentials of managing your FluentBooking Host/Calendar profile. 
+That covers the essentials of managing your FluentBooking Host/Calendar profile.
+
+## Next steps
+
+- [Host Landing Page](/how-to-enable-landing-page-for-your-host) — turn on the public booking URL for this host.
+- [Create a Booking Event](/how-to-create-new-events) — define an event type for this host.
+- [Team Permissions & Access](/host-user-access-management) — invite a colleague to manage this host. 
