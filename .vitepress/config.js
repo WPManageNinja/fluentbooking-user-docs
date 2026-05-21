@@ -14,6 +14,7 @@ const sidebar = [
       { text: 'Dashboard Overview', link: '/dashboard-overview' },
       { text: 'Add Booking Form to Your Site', link: '/add-booking-form-to-site' },
       { text: 'Create a Team Booking Page', link: '/create-team-booking-page' },
+      { text: 'Glossary', link: '/fluentbooking-glossary' },
     ],
   },
   {
