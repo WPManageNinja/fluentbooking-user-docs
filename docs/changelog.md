@@ -7,6 +7,50 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.1.2
+
+*Released on June 5, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added: Placeholder Option for Multi-Select Field
+```
+
+```markdown [🚀 Improvements]
+• Improved: WordPress 7.0 Compatibility
+```
+
+```markdown [🔒 Security]
+• Security: Gated Group Attendee Export by Booking Access
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Bookings Block Not Showing Any Bookings
+• Fixed: Phone Location Field Allowed Empty Submission
+• Fixed: Duplicate Argument in Custom Field Data Filter
+```
+
+:::
+
+## FluentBooking v2.1.1
+
+*Released on May 20, 2026*
+
+::: code-group
+
+```markdown [🔒 Security]
+• Security: Tightened Permission Checks Across Booking APIs
+• Security: Hardened Block Editor Against CSS Injection
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Multiple Calendar Creation Issue
+• Fixed: WordPress Plugin Directory Compliance
+```
+
+:::
+
 ## FluentBooking v2.1.0
 
 *Released on May 12, 2026*
