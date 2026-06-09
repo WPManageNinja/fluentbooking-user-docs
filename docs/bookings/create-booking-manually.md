@@ -27,6 +27,7 @@ The **Add New Booking** form will open. You need to fill in the following inform
  * **H. Attendee’s Email:** Provide the attendee’s email address.
  * **I. What is this meeting about:** Write a short description of the purpose of the meeting.
  * **J. Location:** Enter the attendee’s address or meeting location.
+ * **K. File Upload:** If the selected event has a File question field configured, you can attach a file directly from the admin booking form. Requires FluentBooking Pro.
 
 ### Confirming the Booking
 

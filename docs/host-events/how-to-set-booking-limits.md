@@ -48,3 +48,14 @@ Enabling the **Lock Timezone on Booking Page** option on the booking page will s
 
 
 ![Lock Timezone on Booking Page](/images/host-events/how-to-set-booking-limits/limit-settings-fluentbooking-1.webp)
+
+### Rate Limiting
+
+FluentBooking includes automatic per-IP rate limiting on public booking endpoints to protect your site from spam and abuse. The limits are applied automatically — no configuration is required:
+
+ * **Scheduling a meeting** — maximum 15 requests per 60 seconds per IP address.
+ * **Cancelling a meeting** — maximum 15 requests per 60 seconds per IP address.
+ * **Loading available dates** — maximum 30 requests per 60 seconds per IP address.
+ * **File uploads** — maximum 30 requests per 60 seconds per IP address (Pro).
+
+If a visitor exceeds the limit, the request is blocked until the window resets. This protection runs silently in the background and does not affect normal attendee usage.

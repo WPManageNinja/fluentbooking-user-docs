@@ -31,7 +31,21 @@ You can set and customize the questions for booking cancellations and reschedule
 
 ![Manage Other Questions](/images/host-events/how-to-set-booking-questions/question-settings-scaled.webp)
 
-A pop-up will appear. You can choose the field type, label, and placeholder, and indicate if it's required or not. You can choose this types of field types: **Email, Text, Textarea, Number, Phone, or Dropdown**. Click the **Save** button to save your question.
+A pop-up will appear. You can choose the field type, label, and placeholder, and indicate if it's required or not. The following field types are available:
+
+ * **Email** — collects an email address
+ * **Text** — a single-line text input
+ * **Textarea** — a multi-line text input
+ * **Number** — accepts numeric values only
+ * **Phone** — collects a phone number with country code
+ * **Dropdown** — a single-selection dropdown list
+ * **Multi-Select** — a dropdown that lets attendees choose more than one option. You can set a **Placeholder** text that appears inside the field before the attendee makes a selection.
+ * **Custom Date** — a date picker field for collecting a specific date from the attendee.
+ * **File** — lets the attendee upload a file (image, document, etc.) as part of their booking. Available in FluentBooking Pro.
+ * **Hidden** — a hidden field that passes a fixed or pre-filled value silently without displaying anything to the attendee. Useful for tracking source parameters.
+ * **Terms & Conditions** — displays a checkbox the attendee must tick to agree to your terms before completing the booking.
+
+Click the **Save** button to save your question.
 
 ![Save Button](/images/host-events/how-to-set-booking-questions/update-questions.webp)
 

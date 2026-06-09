@@ -116,6 +116,8 @@ A quick-reference guide to every key term, feature, and concept you will encount
 
 * **Multi-Payment / Multiple Pricing**: A feature that lets you offer several price and duration combinations on a single booking event — for example, "30 min / $50" and "60 min / $90." See [Multiple Pricing Options](/take-multi-payments).
 
+* **Multi-Select Field**: A booking form question type that lets attendees choose more than one option from a list. You can set a placeholder text that appears inside the field before the attendee makes a selection. See [Booking Form Questions](/how-to-set-booking-questions).
+
 
 ## N
 
@@ -140,9 +142,11 @@ A quick-reference guide to every key term, feature, and concept you will encount
 
 ## Q
 
-* **Question**: A custom field added to a booking form to collect specific information from the attendee for example, "What topics would you like to discuss?" Questions support text, textarea, number, phone, dropdown, radio button, and checkbox field types. See [Booking Form Questions](/how-to-set-booking-questions).
+* **Question**: A custom field added to a booking form to collect specific information from the attendee — for example, "What topics would you like to discuss?" The available field types are: Text, Textarea, Email, Number, Phone, Dropdown, Multi-Select, Custom Date, File (Pro), Hidden, and Terms & Conditions. See [Booking Form Questions](/how-to-set-booking-questions).
 
 ## R
+
+* **Rate Limiting**: Automatic per-IP protection built into FluentBooking that caps how many times a visitor can hit public booking endpoints within a 60-second window (for example, 15 scheduling requests per minute). This prevents spam submissions and brute-force abuse without any configuration required. See [Booking Limits & Rules](/how-to-set-booking-limits).
 
 * **Recurring Event**: A booking event that repeats on a set schedule. Attendees book the series at once and attend multiple sessions. FluentBooking supports strict (all sessions required) and flexible (attend any sessions) recurring modes. See [Recurring Events](/set-recurring-events).
 
