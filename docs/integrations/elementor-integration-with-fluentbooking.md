@@ -47,7 +47,7 @@ The **Bookings** widget displays a dynamic front-end dashboard with an overview 
 ![Bookings widget settings](/images/integrations/elementor-integration-with-fluentbooking/bookings-3.webp)
 
 2. **Select Calendars:** Leave empty to show bookings across all calendars, or select specific calendars.
-3. **Title and No Booking Title:** Customize section headers directly, or use the built-in **Write with AI** tool to generate text variations.
+3. **Title and No Booking Title:** Customize the section heading and the message shown when no bookings are found.
 4. **Default Period and status filters:** Use the **Default Period** dropdown to set time constraints. Toggle **Show Filter** and **Show Pagination** so users can browse **Upcoming**, **Completed**, **Pending**, or **Cancelled** appointments.
 5. **Per Page:** Adjust the range slider to define how many records appear per page.
 
