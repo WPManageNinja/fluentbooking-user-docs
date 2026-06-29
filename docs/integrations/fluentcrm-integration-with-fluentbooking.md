@@ -9,7 +9,8 @@ description: Connect FluentBooking with FluentCRM for email automation, tags, an
 
 This integration between FluentCRM and FluentBooking simplifies the process of adding event attendees to your FluentCRM customer list for business growth and marketing lead collection.
 
-> The FluentCRM integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
+> [!Note]
+> The FluentCRM integration is only available in **FluentBooking Pro**. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
 
 ::: tip Important
 You need to have the FluentCRM plugin installed and activated, and at least one [host](/how-to-create-a-new-host) created in FluentBooking, before configuring this integration.
@@ -89,7 +90,21 @@ In the next popup, configure the funnel settings:
 
 ![Setup Automation](/images/integrations/fluentcrm-integration-with-fluentbooking/funnel-8.webp)
 
-### Viewing Synced Data
+### Book Appointment from a FluentCRM Contact
+
+If FluentCRM is installed and active, you can start a booking directly from a contact’s profile — no need to copy details between tabs.
+
+Open any contact in FluentCRM and scroll to the **FluentBooking** section on their profile. It lists the contact’s existing meetings and shows a **Book Appointment** button. Click it to open the admin booking form with that contact’s name and email already filled in. From there, select the event, date, and time as usual.
+
+![Booking Appointment](/images/integrations/fluentcrm-integration-with-fluentbooking/book-appointment-9.webp)
+
+## Manage CRM Tags and Lists from Booking Details
+
+When viewing any individual booking in FluentBooking, a **CRM Profile Card** appears in the sidebar with the attendee’s FluentCRM data. You can add or remove tags and lists directly from this card without switching to FluentCRM.
+
+This is useful for tagging a new lead, adding an attendee to a nurture list, or cleaning up CRM data while you are already reviewing their booking.
+
+## Viewing Synced Data
 
 Once the integration is active: 
 

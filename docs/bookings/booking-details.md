@@ -76,6 +76,10 @@ Along with the **Invitee** and **Meeting** information, you will have 360-degree
 
 You will also find the source of the booking if it came from any of your **Fluent Form** entries. Also, if you have this contact in the **FluentCRM** contact list, it will show the contact information on the sidebar.
 
+### CRM Tags and Lists
+
+The FluentCRM sidebar card also allows you to manage the attendee's tags and lists without leaving FluentBooking. Click the tag or list picker to add or remove items. Changes sync to FluentCRM instantly. This requires FluentCRM to be installed and the [FluentCRM integration](/fluentcrm-integration-with-fluentbooking) to be active for the event.
+
 ![Bookings In Details](/images/bookings/booking-details/booking-in-details-.webp)
 
 ## Manual Confirmation Email Sending

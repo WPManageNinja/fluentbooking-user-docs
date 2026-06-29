@@ -7,6 +7,39 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.2.0
+
+*Released on June 25, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added: CRM Contact Search and Prefill in Admin Booking
+• Added: Book Appointment for a FluentCRM Contact
+• Added: Manage CRM Tags and Lists From Booking Details
+• Added: Question Delete Confirmation
+```
+
+```markdown [🚀 Improvements]
+• Improved: CRM Picker Empty State and Search
+• Improved: Mobile Toolbar Button and Scheduler Backgrounds
+```
+
+```markdown [🔒 Security]
+• Security: Hardened Booking Reschedule Against Mismatched Event Requests
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: ICS Description Formatting Issue
+• Fixed: Add-to-Calendar Reliability for Google Calendar
+• Fixed: Shared Calendar Events Not Showing for Limited Users
+• Fixed: Team-Member Hosts Blocked From Their Own Bookings
+• Fixed: CRM Profile Card Overflow in Booking Details
+• Fixed: Admin Dark Mode Footer Background Color
+```
+
+:::
+
 ## FluentBooking v2.1.2
 
 *Released on June 5, 2026*
