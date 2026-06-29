@@ -36,6 +36,8 @@ A quick-reference guide to every key term, feature, and concept you will encount
 
 * **CalDAV**: An internet standard protocol used to sync calendar events between servers and clients. FluentBooking uses CalDAV to connect with [Nextcloud Calendar](/nextcloud-calendar-integration-with-fluentbooking).
 
+* **CRM Profile Card**: A sidebar panel that appears inside a booking's detail view when FluentCRM is active. It shows the attendee's FluentCRM tags and lists and lets you add or remove them without leaving FluentBooking. See [FluentCRM Integration](/fluentcrm-integration-with-fluentbooking).
+
 * **Calendar**: The top-level container for a host's booking events in FluentBooking. A calendar is associated with one host and can hold multiple booking events. The calendar has its own public landing page URL and can be embedded on your WordPress site. See [Create a Host](/how-to-create-a-new-host).
 
 * **Cancellation**: The action of cancelling a scheduled booking. FluentBooking can send cancellation notification emails to both the host and the attendee. Either party can cancel a booking, subject to any cancellation rules you have set. See [Cancel a Booking](/how-to-cancel-a-booking).
@@ -69,7 +71,7 @@ A quick-reference guide to every key term, feature, and concept you will encount
 
 * **FluentCart**: WPManageNinja's e-commerce plugin. You can use [FluentCart as a payment method](/fluentcart-integration-with-fluentbooking) for paid booking events.
 
-* **FluentCRM**: WPManageNinja's CRM and marketing automation plugin. The [FluentCRM integration](/fluentcrm-integration-with-fluentbooking) lets you add booking attendees to lists, apply tags, and trigger automations based on booking events.
+* **FluentCRM**: WPManageNinja's CRM and marketing automation plugin. The [FluentCRM integration](/fluentcrm-integration-with-fluentbooking) lets you add booking attendees to lists, apply tags, and trigger automations based on booking events. You can also book appointments directly from a FluentCRM contact's profile and manage that contact's tags and lists from inside booking details.
 
 * **Frontend Panel**: A self-service dashboard accessible from the front end of your WordPress site (outside the admin area) that lets hosts view and manage their own bookings without needing WordPress admin access. See [Frontend Booking Panel](/fluentbooking-frontend-panel).
 

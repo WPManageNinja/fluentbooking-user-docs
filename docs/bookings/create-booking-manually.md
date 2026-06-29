@@ -29,6 +29,12 @@ The **Add New Booking** form will open. You need to fill in the following inform
  * **J. Location:** Enter the attendee’s address or meeting location.
  * **K. File Upload:** If the selected event has a File question field configured, you can attach a file directly from the admin booking form. Requires FluentBooking Pro.
 
+### Search and Prefill a FluentCRM Contact
+
+If FluentCRM is installed and active, the booking form includes a contact search field at the top. Type the attendee's name or email to search your existing CRM contacts. When you select a match, their name and email are automatically filled into the form fields.
+
+This is faster than entering contact details by hand when the person already exists in FluentCRM.
+
 ### Confirming the Booking
 
 After you have entered all the necessary details, click the **Create Booking** button.
