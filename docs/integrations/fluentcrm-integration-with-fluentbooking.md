@@ -90,13 +90,6 @@ In the next popup, configure the funnel settings:
 
 ![Setup Automation](/images/integrations/fluentcrm-integration-with-fluentbooking/funnel-8.webp)
 
-### Book Appointment from a FluentCRM Contact
-
-If FluentCRM is installed and active, you can start a booking directly from a contact’s profile — no need to copy details between tabs.
-
-Open any contact in FluentCRM and scroll to the **FluentBooking** section on their profile. It lists the contact’s existing meetings and shows a **Book Appointment** button. Click it to open the admin booking form with that contact’s name and email already filled in. From there, select the event, date, and time as usual.
-
-![Booking Appointment](/images/integrations/fluentcrm-integration-with-fluentbooking/book-appointment-9.webp)
 
 ## Manage CRM Tags and Lists from Booking Details
 
@@ -115,3 +108,11 @@ You can view attendees’ FluentCRM data inside the **Booking Details** page.
 Booking information will also appear in the attendee’s **FluentCRM Contact Profile**.
 
 ![FluentCRM Profile](/images/integrations/fluentcrm-integration-with-fluentbooking/crm-contact-6.webp)
+
+## Book Appointment from a FluentCRM Contact
+
+If FluentCRM is installed and active, you can start a booking directly from a contact’s profile — no need to copy details between tabs.
+
+Open any contact in FluentCRM and scroll to the **FluentBooking** section on their profile. It lists the contact’s existing meetings and shows a **Book Appointment** button. Click it to open the admin booking form with that contact’s name and email already filled in. From there, select the event, date, and time as usual.
+
+![Booking Appointment](/images/integrations/fluentcrm-integration-with-fluentbooking/book-appointment-9.webp)
