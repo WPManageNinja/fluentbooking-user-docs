@@ -21,7 +21,7 @@ To start setting up questions for your booking, go to FluentBooking and click on
 Once you're in the booking event settings, look for the **Booking Questions** section. Here, you'll find some default questions already there for you. You can turn questions on or off as per your needs, but note that the **Name** and **Email fields** can't be disabled as they are required by the system.
 
  * **Edit existing questions:** If you need to make changes to the questions that are already there, just click the **Edit** button. A popup will appear, and you will be able to edit the question.
- * **Delete unwanted questions:** If there's a question you no longer want, click the **Delete** button on the right side of that question. A confirmation dialog will appear — click **Confirm** to permanently remove the question.
+ * **Delete unwanted questions:** If there's a question you no longer want, click the **Delete** button on the right side of that question. A confirmation dialog will appear and click **Confirm** to permanently remove the question.
 
 To add a new question, simply click the **Add more questions for the invitees** button.
 
@@ -33,7 +33,7 @@ You can set and customize the questions for booking cancellations and reschedule
 
 A pop-up will appear. You can choose the field type, label, and placeholder, and indicate if it's required or not. The following field types are available:
 
- * **Email** — collects an email address
+ * **Email** - collects an email address
  * **Text** — a single-line text input
  * **Textarea** — a multi-line text input
  * **Number** — accepts numeric values only
