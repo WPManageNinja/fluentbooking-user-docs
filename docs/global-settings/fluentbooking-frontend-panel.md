@@ -49,6 +49,8 @@ Enter the edit mode of the selected page and paste the shortcode you copied earl
 
 Only Admins and WordPress users assigned as Hosts in FluentBooking can log in to the Frontend Panel and manage their bookings.
 
+If you are running FluentBooking Pro, the license notice appears in the Frontend Panel as well as in the WordPress admin, so hosts who work only from the frontend can see when a license needs attention. To review your license, see [Install & Activate FluentBooking Pro](/how-to-install-activate-fluent-booking#check-your-license-status).
+
 ## Preview of Frontend Panel
 
 Here’s what the login page will look like on your site’s frontend for accessing the FluentBooking Frontend.
