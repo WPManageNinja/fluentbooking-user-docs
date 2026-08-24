@@ -86,9 +86,7 @@ The FluentCRM sidebar card also allows you to manage the attendee's tags and lis
 
 If FluentCart is active on your site, a **Cart Profile** widget appears in the sidebar with the attendee's purchase history — lifetime value, order count, average order value, and last purchase. This tells you whether you are speaking to a first-time enquiry or a returning customer before the meeting starts.
 
-<!-- TODO (FluentBooking 2.2.5): capture screenshot — The FluentCart Cart Profile widget in the booking details sidebar.
-     Save it to the path below, then uncomment this line.
-![Cart Profile Widget](/images/bookings/booking-details/cart-profile-widget.webp) -->
+![Cart Profile Widget](/images/bookings/booking-details/cart-profile-widget.webp)
 
 To set the connection up, see the [FluentCart integration](/fluentcart-integration-with-fluentbooking).
 
