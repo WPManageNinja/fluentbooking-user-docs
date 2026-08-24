@@ -73,6 +73,8 @@ All bookings made through this integration are automatically synced between the 
 
 ![Managing Bookings](/images/integrations/fluentcart-integration-with-fluentbooking/booking-details-6-7-scaled.webp)
 
+The booking details sidebar also shows a **Cart Profile** widget for the attendee, with their lifetime value, order count, average order value, and last purchase, so you can see their buying history while you review the booking. For the full sidebar breakdown, see [View All Bookings](/booking-details#fluentcart-cart-profile).
+
 **In FluentCart:** Each booking is recorded as an official **Order**, ensuring your sales data and customer records remain centralized in one ecosystem.
 
 ![Order details](/images/integrations/fluentcart-integration-with-fluentbooking/order-details-7-scaled.webp)
