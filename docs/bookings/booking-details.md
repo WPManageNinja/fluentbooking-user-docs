@@ -17,7 +17,7 @@ You can see your bookings in two different ways: **List View** and **Calendar Vi
 
 ### List View
 
-By default, the system will show your bookings in **List View** first.
+By default, the system will show your bookings in **List View** first. Every booking carries a status badge, and each status uses its own color, so you can tell **Pending**, **Confirmed**, and **Cancelled** bookings apart at a glance without reading each label.
 
 **Upcoming Bookings:** This is where you can find information about your upcoming meetings. To see more details about a particular booking, just click on the **View Details** button.
 
@@ -81,6 +81,20 @@ You will also find the source of the booking if it came from any of your **Fluen
 The FluentCRM sidebar card also allows you to manage the attendee's tags and lists without leaving FluentBooking. Click the tag or list picker to add or remove items. Changes sync to FluentCRM instantly. This requires FluentCRM to be installed and the [FluentCRM integration](/fluentcrm-integration-with-fluentbooking) to be active for the event.
 
 ![Bookings In Details](/images/bookings/booking-details/booking-in-details-.webp)
+
+### FluentCart Cart Profile
+
+If FluentCart is active on your site, a **Cart Profile** widget appears in the sidebar with the attendee's purchase history — lifetime value, order count, average order value, and last purchase. This tells you whether you are speaking to a first-time enquiry or a returning customer before the meeting starts.
+
+<!-- TODO (FluentBooking 2.2.5): capture screenshot — The FluentCart Cart Profile widget in the booking details sidebar.
+     Save it to the path below, then uncomment this line.
+![Cart Profile Widget](/images/bookings/booking-details/cart-profile-widget.webp) -->
+
+To set the connection up, see the [FluentCart integration](/fluentcart-integration-with-fluentbooking).
+
+### Collapsing the Activity Log and Widgets
+
+A long booking record can get busy. Click the header of the booking activity log or any sidebar widget to collapse it, and click it again to expand. Collapse the parts you do not need so the details you care about stay in view.
 
 ## Manual Confirmation Email Sending
 
