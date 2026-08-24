@@ -30,6 +30,18 @@ Within the host settings, you can make the following adjustments for your host:
 
 ![Customize Your Calendar / Host Profile](/images/global-settings/host-settings/calendar-settings-fluentbooking-5-1.webp)
 
+## Event Types
+
+The **Event Types** tab sits right after **Calendar Settings** in the host settings and lists every event on this calendar as a card. Use it to open the event you need instead of going back to the **Calendars** page to look for it.
+
+Each card carries the same actions you already know — **Edit**, **Share**, enable or disable, **Clone**, and **Delete** — so you can manage an event without leaving the host settings.
+
+<!-- TODO (FluentBooking 2.2.5): capture screenshot — The Event Types tab in host settings, listing the calendar events as cards.
+     Save it to the path below, then uncomment this line.
+![Event Types Tab](/images/global-settings/host-settings/event-types-tab.webp) -->
+
+Team members see only the events that are shared with them, so an event a host does not have access to will not appear on this tab. To review who can see what, go to [Team Permissions & Access](/host-user-access-management).
+
 ## Deleting Your Host Profile
 
 If you ever need to delete your Host/Calendar profile, follow these steps:
