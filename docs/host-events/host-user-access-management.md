@@ -34,6 +34,8 @@ These are the permissions that the Admin can set for the Host.
 
 ![Add a Team Member](/images/host-events/host-user-access-management/access-permissions-for-user-scaled.webp)
 
+Team settings also include an **Event Types** tab, right after **Calendar Settings**, listing every event the team member can reach as a card. Events that have not been shared with that member are hidden from the tab.
+
 You can edit this host permission anytime by clicking the button on the right side. You will find a delete button also.
 
 >[!Note]
@@ -43,5 +45,5 @@ You can edit this host permission anytime by clicking the button on the right si
 
 ## Next steps
 
-- [Host Profile Settings](/host-settings) — fill in the host's avatar and public details.
+- [Host Profile Settings](/host-settings) — fill in the host's avatar and public details, and browse the calendar's **Event Types** tab.
 - [Create a Booking Event](/how-to-create-new-events) — create the first event for this host.
