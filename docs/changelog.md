@@ -7,6 +7,76 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.2.5
+
+*Released on August 21, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Added: Days Unit for Booking Cutoff Limits
+• Added: Cart Profile Widget in Booking Details Sidebar
+• Added: Inline Tag and List Creation in CRM Feed Editor
+• Added: Collapsible Booking Activity and Sidebar Widgets
+• Added: Event Types Tab in Host and Team Settings
+• Added: Help Tooltips for Event Limit Settings
+```
+
+```markdown [🚀 Improvements]
+• Improved: License Management Screen and Keyboard Access
+• Improved: Dark and Light Mode Color Palette and Contrast
+• Improved: Distinct Status Badge Colors in Bookings
+• Improved: Booking and Host Queries Batched to Remove N+1 Lookups
+• Improved: Bounded Auto-Expire and Reservation Cleanup Batches
+```
+
+```markdown [🔒 Security]
+• Security: Hardened Access Control, Payment Webhooks and Verification
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Availability Endpoint Returning a Fatal Error
+• Fixed: Negative Minimum Notice Opening Past Slots
+• Fixed: Meeting Time Shown in UTC on CRM Card
+• Fixed: Booking Form Auto-Focus Scroll Jump on Load
+• Fixed: Keyboard Access and Screen Reader Names on Booking Form
+• Fixed: FluentBooking Blocks Missing Styles in the Editor
+• Fixed: Duplicate Event API Call in Editor Block
+• Fixed: Dark Mode Contrast Across Modals, Badges and Notices
+• Fixed: Bookings Toolbar Overflow on Tablet Widths
+• Fixed: Export Button Stretching to Page Height on iOS
+• Fixed: Escaped Literals in Date Format Conversion
+• Fixed: Phone Number Validation and New Area Codes
+• Fixed: Deactivation Error Cleared by the Refresh Behind It
+• Fixed: User Not Found Warning in Availability Service
+• Fixed: Stale Editor State and Provider Mismatch on History Navigation
+• Fixed: Empty Slug Accepted When Creating CRM Tag or List
+• Fixed: Duplicate Payment Settings Route When Pro Is Active
+• Fixed: Booking Eligibility Re-Applied on Scheduler Mutations
+• Fixed: Location and Extra Info Accessors on Non-Array Input
+• Fixed: Microsoft Teams Join Link Missing in Booking Notifications
+• Fixed: Meeting URL Stripped From Twilio SMS
+• Fixed: Twilio Reschedule SMS Recipient Mapping
+• Fixed: Reversed Outlook Activity Log Types
+• Fixed: Integration Feed Routes Fatal Error on Load and Disconnect
+• Fixed: Recurring Config Lost When Disabling Multiple-Booking
+• Fixed: Webhook Feed Save Warning and Transport Error Logging
+```
+
+:::
+
+## FluentBooking v2.2.1
+
+*Released on June 26, 2026*
+
+::: code-group
+
+```markdown [🔒 Security]
+• Security: Gate CRM Profile Endpoints On FluentCRM Capabilities
+```
+
+:::
+
 ## FluentBooking v2.2.0
 
 *Released on June 25, 2026*
