@@ -32,6 +32,16 @@ For example, it has a 30-minute interval that's why it shows 2:00 -> 2:30 if it 
 
 ![Time-slot Intervals](/images/host-events/how-to-set-booking-limits/limit-settings-fluentbooking-scaled.webp)
 
+### Field Help Tooltips
+
+Each field above — **Before Event**, **After Event**, **Minimum Notice**, and **Time-slot Intervals** — has a help tooltip next to its label. Open the tooltip to read a plain-language explanation of what that field controls before you change it.
+
+The tooltip buttons can be reached with the keyboard and are labeled for screen readers, so everyone on your team can get to the help.
+
+<!-- TODO (FluentBooking 2.2.5): capture screenshot — Help tooltips beside the Before Event, After Event, Minimum Notice and Time-slot Intervals fields.
+     Save it to the path below, then uncomment this line.
+![Field Help Tooltips](/images/host-events/how-to-set-booking-limits/limit-settings-help-tooltips.webp) -->
+
 ### Limit Booking Frequency
 
 Decide how often an event can be booked with this feature. You can set limits for daily, weekly, or monthly bookings.
