@@ -44,8 +44,8 @@ You can customize your integration feed using the following settings:
 ![Customize your Integration](/images/integrations/fluentcrm-integration-with-fluentbooking/mapping-field-4.webp)
 
  * **Other Fields:** Use the Field Label and Field Value selectors to map additional custom data using dynamic shortcodes.
- * **FluentCRM Lists:** Select one or more existing customer lists to which your attendees will be added.
- * **Contact Tags:** Assign specific tags to attendees to segment them within your CRM.
+ * **FluentCRM Lists:** Select one or more existing customer lists to which your attendees will be added. To create a new list without leaving the feed, type the name into the picker and click **Create**.
+ * **Contact Tags:** Assign specific tags to attendees to segment them within your CRM. New tags can be created inline the same way.
  * **Automation Options:** Fine-tune contact behavior with dedicated checkboxes:
     * **Skip if contact already exists in FluentCRM:** Prevents duplicate entries.
     * **Skip name update if existing contact have old data:** Protects existing contact information from being overwritten.
@@ -54,6 +54,12 @@ You can customize your integration feed using the following settings:
 * **Event Trigger:** Select which booking actions will fire this integration feed. You can choose from **Booking Confirmed, Completed, Canceled, Rescheduled, Rejected, or No Show**.
 * **Remove Contact Tags:** Choose specific tags to be automatically removed from a contact when the selected trigger occurs.
 * **Status:** Toggle the Enable This feed checkbox to activate or deactivate the integration.
+
+Tags and lists created from the feed editor are saved to FluentCRM straight away and selected in the feed for you, so there is no need to switch over to FluentCRM and come back. A blank name is rejected, so an unnamed tag or list cannot be created by accident.
+
+<!-- TODO (FluentBooking 2.2.5): capture screenshot — Creating a tag or list inline from the FluentCRM feed editor.
+     Save it to the path below, then uncomment this line.
+![Create a Tag or List Inline](/images/integrations/fluentcrm-integration-with-fluentbooking/inline-tag-list-create.webp) -->
 
 After configuring these settings, click the **Save Feed** button to finalize your integration.
 
