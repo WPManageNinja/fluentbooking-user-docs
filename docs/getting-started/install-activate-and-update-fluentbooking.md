@@ -28,7 +28,7 @@ Now, click the **Install** button and the **FluentBooking** plugin will be succe
 Finally, to activate, click on the **Activate** button.
 
 
-But, you need the **License key** to activate all the **FluentBooking** features successfully. To learn how to activate the license key, read this [Documentation](/how-to-install-activate-fluent-booking#activating-the-license-key)
+But, you need the **License key** to activate all the **FluentBooking** features successfully. To learn how to activate the license key, read this [Documentation](/how-to-install-activate-fluent-booking#activate-the-license-key)
 
 
 ![Active button](/images/getting-started/install-activate-and-update-fluentbooking/active-button-scaled-2.webp)
@@ -47,6 +47,9 @@ Now, check if any update is available. If yes, just click on the **Update** butt
 
 
 ![Update option of fluentbooking](/images/getting-started/install-activate-and-update-fluentbooking/update-plugin-3.webp)
+
+
+If you are running **FluentBooking Pro**, every Pro update is checked against its signature before it installs. An update that fails verification is refused and your current version is left untouched. See [Install & Activate FluentBooking Pro](/how-to-install-activate-fluent-booking#keeping-fluentbooking-pro-updated) for more on Pro updates.
 
 
 Congratulations! Now, you can explore all the amazing features of FluentBooking!
