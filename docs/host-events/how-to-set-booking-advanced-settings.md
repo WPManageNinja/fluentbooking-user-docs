@@ -54,6 +54,8 @@ To enable manual confirmation for your booking, toggle the **Requires Confirmati
 
 With the **“When booking notice is less than”** option, you can specify the notice time required for confirming the meeting. For example, if you set a meeting at 10:00 AM with a 30-minute notice time, the host will need to confirm any bookings made within 30 minutes of the meeting start time.
 
+Select **Minutes**, **Hours**, or **Days** from the unit dropdown next to the value. Choosing **Days** lets you set a policy such as confirming every booking made within 2 days of the appointment.
+
 >[!Note]
 > The **Requires Confirmation** option is only available for **one-to-one events**. In the **Advanced Settings** of other event types, this setting will not appear.
 
@@ -74,7 +76,7 @@ Here you can also set the **Maximum Booking Limit** as you want.
 
 ## Attendee Cannot Cancel
 
-Once you confirm the meeting, the attendee will no longer be able to cancel it. Enable the **Attendee Cannot Cancel** option to activate this feature. You can also set a specific time frame during which the attendee cannot cancel the meeting, such as 30 minutes before the start.
+Once you confirm the meeting, the attendee will no longer be able to cancel it. Enable the **Attendee Cannot Cancel** option to activate this feature. You can also set a specific time frame during which the attendee cannot cancel the meeting, such as 30 minutes before the start. Use the unit dropdown to set that time frame in **Minutes**, **Hours**, or **Days**.
 
 Additionally, you can set a message to display to attendees if they attempt to cancel the meeting.
 
@@ -84,10 +86,17 @@ Additionally, you can set a message to display to attendees if they attempt to c
 
 ## Attendee Cannot Reschedule
 
-By enabling the **Always** option, attendees will not be able to reschedule a meeting once it has been confirmed. You can also specify a time frame and set a message to notify attendees if they attempt to reschedule.
+By enabling the **Always** option, attendees will not be able to reschedule a meeting once it has been confirmed. You can also specify a time frame and set a message to notify attendees if they attempt to reschedule. As with the cancellation cutoff, the time frame can be set in **Minutes**, **Hours**, or **Days**.
 
 
 ![Attendee Cannot Reschedule](/images/host-events/how-to-set-booking-advanced-settings/advanced-settings-fluentbooking-7.webp)
+
+>[!Note]
+> The cutoffs for **Requires Confirmation**, **Attendee Cannot Cancel**, and **Attendee Cannot Reschedule** all accept **Minutes**, **Hours**, or **Days**, up to a maximum of 30 days in every unit. If you enter a value outside that range, an inline warning appears and the settings are not saved until you correct it.
+
+<!-- TODO (FluentBooking 2.2.5): capture screenshot — Advanced Settings showing a cancellation cutoff set with the Days unit.
+     Save it to the path below, then uncomment this line.
+![Booking Cutoff in Days](/images/host-events/how-to-set-booking-advanced-settings/booking-cutoff-days-unit.webp) -->
 
 
 ## Landing Page Settings
