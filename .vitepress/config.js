@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { zoomablePlugin } from './theme/markdown-plugin-zoomable'
 
 const brand = '/FluentBooking-brand'
 
@@ -170,6 +171,11 @@ export default defineConfig({
   title: 'FluentBooking',
   description: 'The Ultimate WordPress Solution for Appointment Booking',
   ignoreDeadLinks: true,
+  markdown: {
+    config: (md) => {
+      md.use(zoomablePlugin)
+    },
+  },
   head: [
     ['link', { rel: 'icon', href: `${brand}/Icon/PNGs/fluentbooking_primary_icon.png`, type: 'image/png' }],
     ['link', { rel: 'apple-touch-icon', href: `${brand}/Icon/PNGs/fluentbooking_primary_icon.png` }],
