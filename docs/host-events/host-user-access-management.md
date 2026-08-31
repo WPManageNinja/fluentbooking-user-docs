@@ -17,9 +17,12 @@ Admin can make WordPress **Contributor, Author**, and **Editor** users as a **Ho
 
 Admin can also set permission for their Host to manage the bookings; the permission can be Read, Write, or both. Go to the FluentBooking dashboard, select **Settings**, and you will find the option **Team** in the left sidebar click on it.
 
+>[!Note]
+> Only WordPress Administrators can add, edit, or delete team permissions. These controls are not shown to other roles.
+
 ![Team](/images/host-events/host-user-access-management/team-management-fluentbooking-1.webp)
 
-Here you will see the Team Member button. Click on it to **Add Team Member**. It will save the host's permissions.
+Each team member's card shows their granted permissions as tags, so you can see access levels at a glance. Click the **+ Team Member** button to open **Add Team Member**, search for and select a host, then choose their permissions. It will save the host's permissions.
 
 These are the permissions that the Admin can set for the Host.
 
@@ -28,7 +31,7 @@ These are the permissions that the Admin can set for the Host.
 - Read & Write Access to All Bookings
 - Read Access of Other Users Calendars
 - Manage Other Users Calendars
-- Read & Use Access to All Availabilities
+- Read & Use Access of All Availabilities
 - Manage All Availabilities
 - Manage All Data and Settings
 
@@ -39,11 +42,6 @@ Team settings also include an **Event Types** tab, right after **Calendar Settin
 You can edit this host permission anytime by clicking the button on the right side. You will find a delete button also.
 
 >[!Note]
->You cannot delete a host if they have active meetings booked.
+> You cannot delete a host if they have active meetings booked.
 
 ![Edit Permission](/images/host-events/host-user-access-management/3-5.webp)
-
-## Next steps
-
-- [Host Profile Settings](/host-settings) — fill in the host's avatar and public details, and browse the calendar's **Event Types** tab.
-- [Create a Booking Event](/how-to-create-new-events) — create the first event for this host.
