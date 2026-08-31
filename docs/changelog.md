@@ -7,6 +7,36 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.3.0
+
+*Released on August 28, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Introduced: Fully Redesigned Admin Interface
+• Added: Next Meetings Grouped by Today, Tomorrow and Later
+```
+
+```markdown [🚀 Improvements]
+• Improved: Stacked Layout for Integration and Payment Settings
+```
+
+```markdown [🔒 Security]
+• Security: Hardened Ownership Checks and Merge Tag Evaluation
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Availability Save Blocked for Team Members
+• Fixed: Phone Field Sometimes Rendering Blank on Booking Form
+• Fixed: Prefilled Phone Number Cleared on Booking Form
+• Fixed: Stripe Card Field Failing to Load on Onsite Payment
+• Fixed: Fatal Error When Calendar Event Missing in Payment Update
+• Fixed: Light-Only Colors Leaking Into Dark Mode
+```
+
+:::
+
 ## FluentBooking v2.2.5
 
 *Released on August 21, 2026*
