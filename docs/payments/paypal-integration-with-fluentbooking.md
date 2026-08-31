@@ -16,9 +16,10 @@ This integration allows you to accept payments globally, ensuring secure transac
 
 > Before proceeding, make sure the main global [Payment Module](/how-to-take-payment-in-bookings#enable-the-global-payment-module) is enabled from the **Payment Setting**.
 
-Go to the WordPress admin dashboard, navigate to **FluentBooking > Settings**, and select **PayPal**. Now, check on the **Enable PayPal Payment for Booking Payment** to enable the PayPal Payment option.
+Go to the WordPress admin dashboard, navigate to **Settings > Payment > Payment Methods**, and select the **PayPal** tab. Now, check on the **Enable PayPal Payment for Booking Payment** to enable the PayPal Payment option.
 
 **Payment Label**: You can customize the text your clients will see on the booking form. The default is (Pay with PayPal).
+
 **Payment Mode:** Here, you will see two Payment Modes.
 
  - Sandbox Mode: Only for testing purposes.
@@ -26,7 +27,9 @@ Go to the WordPress admin dashboard, navigate to **FluentBooking > Settings**, a
 
 **PayPal Email:** Here, you just need to give your PayPal business email address only.
 
-**Disable PayPal IPN Verification:** If you are unable to use Payment Data Transfer and your payments are not being marked as complete, then toggle to **Disable PayPal IPN Verification**. Enabling this option forces the site to use an alternative verification method, which is slightly less secure but ensures that purchases are processed and marked as complete.
+**Disable PayPal IPN Verification:** If you are unable to use Payment Data Transfer and your payments are not being marked as complete, then toggle to **Disable PayPal IPN Verification**. 
+
+Enabling this option forces the site to use an alternative verification method, which is slightly less secure but ensures that purchases are processed and marked as complete.
 
 ![Disable PayPal IPN Verification](/images/payments/paypal-integration-with-fluentbooking/payment-methods-fluentbooking-scaled.webp)
 
@@ -34,16 +37,16 @@ Go to the WordPress admin dashboard, navigate to **FluentBooking > Settings**, a
 
 Once PayPal is enabled, the next step is to configure it in your booking forms.
 
-Go to **FluentBooking > Calendars** select the booking event form you want to PayPal, and click on the **Edit** button.
+Go to **FluentBooking > Calendars**, select the booking event you want to enable PayPal for, and click the **Edit** button.
 
 Now, select **Payment Settings** from the left sidebar and check the **Enable this event as Paid and collect payment on booking** checkbox.
 
-For the **Checkout Method**, choose the **Use Native Payment Method by FluentBooking** option.
+For the **Checkout Method**, choose the **Use Native Payment Methods by FluentBooking** option.
 
 Next, check the box for **Enable PayPal Payment Method** to activate PayPal as your payment option.
 
-In the **Booking Payment Item** section, you can set the payment item's name and price. Simply enter the **Name** and **Price** in the dedicated fields. Click on the **Add More Items** button if you want to add more items.
+In the **Booking Payment Items** section, you can set the payment item's name and price. Simply enter the **Name** and **Price** in the dedicated fields. Click on the **Add More Item** button if you want to add more items.
 
-Finally, click the **Save Settings** button to save your changes.
+Finally, click the **Save Changes** button to save your changes.
 
 ![Payment Settings](/images/payments/paypal-integration-with-fluentbooking/payment-settings-fluentbooking-scaled.webp)
