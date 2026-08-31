@@ -14,7 +14,7 @@ FluentBooking provides a complete solution to accept payments for your services.
 
 Before you can charge for any event, you must first activate the main payment module.
 
-Start by going to the **Settings** menu at the top of your dashboard. Under **General>Payment** sections, select **Settings,** and you will see **Payment Settings**. Now, switch on the **Enable Payment Module** option.
+Start by going to the **Settings** menu at the top of your dashboard. In the left sidebar, click on **Payment**, then select **Payment Settings**. Now, switch on the **Enable Payment Module** option.
 
 After that, configure the global currency settings:
 
@@ -30,7 +30,7 @@ Once that’s done, click the **Save Settings** button.
 
 After enabling the module, you must connect at least one payment method to process transactions.
 
-While in the **Payment** settings, click on the **Payment Methods** sub-menu. Select the tab for the payment gateway you want to configure: **Stripe**,**PayPal**, or **Offline Payment**.
+While in the **Payment** settings, click on the **Payment Methods** sub-menu. Select the tab for the payment gateway you want to configure: **Stripe**, **PayPal**, or **Offline Payment**.
 
 Fill in the required details for your chosen gateway. For example, to use PayPal, you will need to enable it, set the payment mode, and enter your PayPal email address. Click the **Save Settings** button.
 
@@ -49,15 +49,15 @@ To set up payments for a specific booking, click the **Calendars** section in yo
 
 ![Configure Payments for an Event](/images/payments/how-to-take-payment-in-bookings/edit-events-02-scaled.webp)
 
-Now, select the **Payment Settings** option and choose the checkbox that says **Enable this event as Paid and collect payment on booking**.
+Now, select the **Payment Settings** option and choose the checkbox that says **Enable this event as Paid and collect payment on booking**. If you price the event by duration, you can also turn on **Enable Multiple Payment Options Based on Duration**—see [Multiple Pricing Options](/take-multi-payments) for details.
 
-After that, you will see two payment **Checkout Methods**. Choose one option for your event Booking.
+After that, you will see three payment **Checkout Methods**. Choose one option for your event Booking.
 
 ### Use Native Payment Methods by FluentBooking
 
-FluentBooking lets you accept payments using built-in options like **Stripe**,**PayPal**, or even **Offline** payments.
+FluentBooking lets you accept payments using built-in options like **Stripe**, **PayPal**, or even **Offline** payments. Turn on the **Enable Stripe Payment Method**, **Enable PayPal Payment Method**, and **Enable Offline Payment Method** checkboxes for whichever gateways you want to offer guests.
 
-Once you’ve selected your preferred payment method, head to the **Booking Payment Items** section. Here, you can enter the name of your service or items and set the price.
+Once you’ve selected your preferred payment method(s), head to the **Booking Payment Items** section. Here, you can enter the name of your service or items and set the price.
 
 If you need to add more services or items, click the **Add More Item** button and fill in the details. After setting everything up, click the **Save Changes** button to save your settings.
 
@@ -67,11 +67,13 @@ If you need to add more services or items, click the **Add More Item** button an
 
 If you want a modern, high-converting checkout experience, use the **FluentCart** integration. You must have the **FluentCart plugin installed and activated** to use this feature.
 
+If it is not installed yet, go to **Settings → Advanced Features & Addons**, and click **Install FluentCart** under **Recommended Plugins and Addons**.
+
 ![FluentCart Plugin Install](/images/payments/how-to-take-payment-in-bookings/fluentcart-payment.webp)
 
 Now, select Use **FluentCart Checkout** from the **Checkout Method** options. Choose from your existing **FluentCart Products**. The booking price will automatically sync with the product price set in FluentCart.
 
-This method allows you to leverage FluentCart’s advanced features like Order Bumps and Coupons. You can also create new product by clciking the **+New** button.
+This method allows you to leverage FluentCart’s advanced features like Order Bumps and Coupons. You can also create a new product by clicking the **+New** button.
 
 After that, click **Save Changes** button to finalize.
 
@@ -81,10 +83,9 @@ After that, click **Save Changes** button to finalize.
 
 If you’d like to use **WooCommerce Checkout** to accept payments for your bookings, you’ll first need to enable the **WooCommerce Addon**.
 
+To do this, go to **Settings** from the top menu, then click on **Advanced Features & Addons** in the left sidebar. Under **Recommended Plugins and Addons**, find **WooCommerce** and turn on its toggle switch.
 
-To do this, go to **Settings** from the top menu, then scroll down and click on **Advanced Features & Addons** on the left side. Find the **WooCommerce** option and turn it on by clicking the **Radio** button.
-
-![Use WooCommerce Checkout](/images/payments/how-to-take-payment-in-bookings/woocommerce-04-scaled.webp)
+![Enable the WooCommerce Addon](/images/payments/how-to-take-payment-in-bookings/woocommerce-04-scaled.webp)
 
 Now, go back to your booking event and select **Use WooCommerce Checkout**. You can only choose from existing products in your WooCommerce store. The booking price will match the product price in your store.
 

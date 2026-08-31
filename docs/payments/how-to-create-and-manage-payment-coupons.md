@@ -57,7 +57,7 @@ Fill in the following fields to define how your coupon will work.
 - **Status**: Set the coupon to **Active** or **Inactive**.
 - **Internal Notes**: Add any private notes about this coupon for your team.
 
-![Expiration](/images/payments/how-to-create-and-manage-payment-coupons/configuring-your-coupon-scaled.webp)
+![Coupon](/images/payments/how-to-create-and-manage-payment-coupons/coupon.webp)
 
 ### Failed Message
 
@@ -84,7 +84,7 @@ After choosing your desired option, click the **Save Coupon** button to apply th
 
 You can **copy** the coupon code and **share** it anywhere. You can **edit** it with the **pencil** icon or delete it with the **delete** icon.
 
-![Edit & Delete](https://fluentbooking.com/wp-content/uploads/2025/08/copy-coupon-1024x408.webp)
+![Edit & Delete](/images/payments/how-to-create-and-manage-payment-coupons/copy-coupon-1024x408.webp)
 
 ## Applying the Coupon During Booking
 

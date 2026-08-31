@@ -1,6 +1,6 @@
 ---
 title: Dashboard Overview
-description: Tour the FluentBooking dashboard—booking stats, completed and canceled bookings, guest reports, and meeting activity. Learn where to find key metrics.
+description: Tour the FluentBooking dashboard—booking stats, payments, next meetings, and guest reports. Learn where to find key metrics.
 ---
 
 # Dashboard Overview
@@ -9,7 +9,7 @@ The FluentBooking Dashboard is the first screen you land on after activating the
 
 To open it, log in to WordPress as an administrator and go to **Fluent Booking → Dashboard** from the left admin menu.
 
-The page is divided into four main sections—**Overview**, **Booking Trends**, **Next Meeting**, and **Latest Booked Meetings**—plus a built-in **Dark Mode** toggle. Each section is covered below.
+The page opens with a personalized greeting, followed by four main sections, **Overview**, **Booking Trends**, **Next Meetings**, and **Latest Booked Meetings** plus a built-in **Dark Mode** toggle. Each section is covered below.
 
 ## Overview
 
@@ -18,29 +18,35 @@ The Overview section is the row of four stat tiles at the top of the dashboard. 
 - **Date Range** (top right): Pick the period you want every tile and chart to reflect. The default is the last 30 days.
 - **Total Bookings**: Every booking created in the selected period, regardless of status.
 - **Completed Bookings**: Bookings whose meeting time has already passed without being canceled.
-- **Canceled Bookings**: Bookings that were canceled by the guest or the host.
+- **Total Payment**: Revenue collected from paid bookings in the selected period.
 - **Total Guests**: Unique guests who have booked with you across all time (not filtered by the date range).
 
 ## Booking Trends
 
-Booking Trends is a line chart that plots three series side by side: **Booked**, **Completed**, and **Canceled**. Use it to spot patterns—busy weekdays, drop-off after a campaign, or a spike following a price change.
+The Booking Trends chart shows how your bookings have changed over time. It includes three categories:
 
-The date range selector in the top right of the dashboard controls this chart along with the Overview tiles.
+* **Booked:** Bookings that were made
+* **Completed:** Bookings that were completed
+* **Canceled:** Bookings that were canceled
 
-## Next Meeting
+Use this chart to get a quick view of your booking activity and see when bookings increase or decrease.
 
-Next Meeting shows the soonest upcoming booking from the current host's calendar. The card displays:
+The **date range selector** in the top-right corner of the dashboard controls the Booking Trends chart as well as the Overview tiles.
 
-- Guest name and email
-- Event type and duration
-- Meeting time in your timezone
-- The join link, if a video conferencing integration is connected
+## Next Meetings
 
-Use this card as a quick "what's next?" check without leaving the dashboard.
+Next Meetings lists your upcoming bookings grouped into **Today**, **Tomorrow**, and **Later**, so you can see what's coming up without opening the full Bookings list. Each entry shows:
+
+- The meeting date and time, in your timezone
+- The event type
+- The guest and host names
+- A **view** link to open the full booking details
+
+Use this panel as a quick "what's next?" check without leaving the dashboard.
 
 ## Latest Booked Meetings
 
-Latest Booked Meetings is a chronological list of the most recent bookings. Each row shows the guest, the event type, the host, and the scheduled time. Click any row to open the full booking details.
+Latest Booked Meetings is a chronological list of the most recent bookings, newest first. Each row shows the guest name and when the booking was made, along with a **view** link to open the full booking details.
 
 ![Latest Booked Meetings](/images/getting-started/dashboard-overview/calendars-convertleap-1-1-1.webp)
 

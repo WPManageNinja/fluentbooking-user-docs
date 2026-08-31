@@ -18,35 +18,35 @@ In the **General Settings** section, you’ll find key options to help you manag
 - **Admin Email**: Set the email address where admin notifications will be sent for new bookings, cancellations, or updates.
 - **Calendar Start From**: Choose which day of the week your calendar view should start with (e.g., Sunday or Monday).
 - **Default Time Format**: Select your preferred time format, either **12-hour** (AM/PM) or **24-hour** clock.
-- **Mark Booking as Cancelled Automatically After**: If a booking isn’t confirmed (e.g., unpaid or not manually approved) within a set time, it will be automatically marked as **cancelled**.
-- **Mark Booking as Completed Automatically After**: Automatically mark bookings as **completed** after a certain amount of time has passed since the scheduled appointment.
-- **Default Country for Phone Field**: Set a default country code (like **+880** forBangladesh) in the phone number field to help users fill in their number easily.
-- **Summary Email**: Get automated booking summary emails on a daily or selected weekday, depending on your settings. This keeps you up-to-date with your latest bookings.
+- **Mark Booking as Cancelled Automatically After**: If a customer does not complete payment for a paid event within the selected time, the booking is automatically marked as **cancelled**.
+- **Mark Booking as Completed Automatically After**: Automatically mark bookings as **completed** once the selected amount of time has passed from the event's end time.
+- **Default Country for Phone Field**: Set a default country code (like **+44** for United Kingdom) in the phone number field to help users fill in their number easily.
+- **Summary Email**: Turn on **Enable Booking Summary Notification** to get automated booking summary emails on a daily or selected weekday. This keeps you up-to-date with your latest bookings.
 
 ![General Settings](/images/global-settings/global-email-settings/general-settings--scaled.webp)
 
-### Email Settings
+### Emailing Settings
 
-The **Email Settings** section lets you configure how emails are sent from FluentBooking. Here’s a breakdown of each option:
+The **Emailing Settings** section lets you configure how emails are sent from FluentBooking. Here’s a breakdown of each option:
 
 - **From Name**: The name that appears as the sender in all booking-related emails (e.g., confirmations, reminders, cancellations).
-- **From Email Address**: The email address shown as the sender of your booking emails.
-- **Reply-To Name**: The name users will see when they hit “Reply” to a booking email.
-- **Reply-To Email**: The email address where replies from guests will be sent.
-- **Use Host Name as From Name for Booking Emails to Guest**: When enabled, the host’s name will automatically be used as the sender name in emails sent to guests.
-- **Use Host Email for Reply-To Value for Booking Emails to Guest**: When enabled, the host’s email will be used as the Reply-To email address for guest messages.
-- **Include ICS File Attachment in Booking Confirmation Email**: Enable this to attach an **.ics (calendar)** file to confirmation emails, allowing guests to easily add the booking to their calendars.
-- **Email Footer for Booking-Related Emails**: Customize the footer text that appears at the bottom of all booking-related emails.
+- **From Email Address**: The email address shown as the sender of your booking emails, matching your domain or SMTP settings.
+- **Reply to Name (Optional)**: The name users will see when they hit “Reply” to a booking email.
+- **Reply to Email (Optional)**: The email address where replies from guests will be sent.
+- **Use Host Name as From Name for Booking Emails to Guests**: When enabled, the host’s name will automatically be used as the sender name in emails sent to guests.
+- **Use Host Email for Reply-To Value for Booking Emails to Guests**: When enabled, the host’s email will be used as the Reply-To email address for guest messages.
+- **Include ICS File Attachment in Booking Confirmation Emails**: Enable this to attach an **.ics (calendar)** file to confirmation emails, allowing guests to easily add the booking to their calendars.
+- **Email Footer for Booking-Related Emails (Optional)**: Customize the footer text that appears at the bottom of all booking-related emails, using the built-in rich text editor to add formatting, links, or media.
 
 ![Email Settings](/images/global-settings/global-email-settings/general-settings-email-setting-2.webp)
 
 ### Theme
 
-In the **Theme** settings, you can choose how your booking page appears to users. You have three options:
+The **Theme** setting only applies to your public landing pages, it does not change the WordPress admin area. Pick a preview card to choose how your booking page appears to guests:
 
-- **Light Mode**: Displays the booking page with a light theme.
-- **Dark Mode**: Shows the booking page in a dark theme.
 - **System Default**: Automatically adapts to the user’s device theme preference.
+- **Light**: Displays the booking page with a light theme.
+- **Dark**: Shows the booking page in a dark theme.
 
 This allows you to create a more personalized and accessible experience for your users.
 
