@@ -7,6 +7,7 @@ description: Connect Stripe to accept credit and debit card payments for booking
 
 FluentBooking seamlessly integrates with Stripe to provide a secure and reliable way to accept credit card payments for your bookings. This guide will walk you through the simple process of connecting your Stripe account.
 
+> [!Note]
 > The Stripe Payment feature is only available in FluentBooking Pro. You’ll need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
 
 
