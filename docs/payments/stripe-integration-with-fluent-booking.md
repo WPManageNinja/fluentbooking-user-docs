@@ -27,7 +27,7 @@ First, you need to locate the Stripe configuration area within your dashboard. F
 
 Follow these steps to enable and authorize the connection to your **Stripe** account.
 
- * **Enable Stripe**: Check the box labeled**Enable Stripe payment for booking payment**.
+ * **Enable Stripe**: Check the box labeled **Enable Stripe payment for booking payment**.
  * **Payment Label**: You can customize the text your clients will see on the booking form. The default is "Pay with Card (Stripe)".
  * **Payment Mode**: Choose your desired payment mode.
   - **Test Mode**: Select this to perform test transactions and ensure the integration is working correctly without processing real payments.
@@ -39,7 +39,7 @@ Follow these steps to enable and authorize the connection to your **Stripe** acc
 
 ## Connecting with Stripe
 
-You will be directed to the Stripe connection page. If you have a Stripe account, then log in to your existing account. If you don't have one, you can easily create a new account. Since we already have a Stripe account logged in, we'll simply click the **Continue** button.
+You will be directed to the Stripe connection page. If you have a Stripe account, then log in to your existing account. If you don't have one, you can easily create a new account. Since we already have a Stripe account logged in, we'll simply select it and click the **Connect** button.
 
 ![Connecting with Stripe](/images/payments/stripe-integration-with-fluent-booking/image-3.webp)
 

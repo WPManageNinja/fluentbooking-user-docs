@@ -9,7 +9,7 @@ description: Add PayPal as a payment option for your bookings. Secure checkout a
 
 This integration allows you to accept payments globally, ensuring secure transactions with PayPal’s trusted infrastructure.
 
-[!Note]
+>[!Note]
 > The PayPal Payment feature is only available in FluentBooking Pro. You’ll need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
 
 ## Enable PayPal Payment
