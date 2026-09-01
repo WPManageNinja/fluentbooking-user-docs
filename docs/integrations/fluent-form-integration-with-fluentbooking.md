@@ -7,6 +7,7 @@ description: Add FluentBooking events to your Fluent Forms. Embed booking select
 
 FluentBooking integrates smoothly with Fluent Forms, allowing you to add booking events directly to your forms. This allows users to schedule appointments while submitting a form, making the process simple and convenient.
 
+> [!Note]
 > The Fluent Forms integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
 
 ::: tip Important

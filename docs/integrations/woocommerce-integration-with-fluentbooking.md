@@ -7,6 +7,7 @@ description: Link bookings to WooCommerce products and use WooCommerce checkout.
 
 FluentBooking Integrate with WooCommerce to create a booking with your WooCommerce product and you can use the Payment method of WooCommerce in FluentBooking. If you want to create any booking event with your WooCommerce Product just follow the simple steps of this guide.
 
+> [!Note]
 > The WooCommerce integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
 
 ::: tip Important

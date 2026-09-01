@@ -9,6 +9,7 @@ description: Sell consultations and services via FluentCart. Use FluentCart chec
 
 This keeps your sales and appointments within a single, seamless ecosystem without needing extra plugins.Follow these steps to connect FluentCart with your booking events:
 
+> [!Note]
 > The FluentCart integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
 
 ::: tip Important
