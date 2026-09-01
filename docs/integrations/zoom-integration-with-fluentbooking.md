@@ -9,6 +9,7 @@ Zoom integration simplifies the process of scheduling and handling online meetin
 
 To integrate Zoom with FluentBoooking you need to follow some straightforward steps described in this guideline.
 
+> [!Note]
 > The Zoom integration is only available in FluentBooking Pro. You will need the [FluentBooking Pro](https://fluentbooking.com/pricing/) plugin to access this feature.
 
 ::: tip Important
@@ -83,19 +84,19 @@ Once you have completed the above steps the Activation step will come. Simply cl
 
 ## Configuring Zoom With FluentBooking
 
-After creating the Zoom app properly now you can connect your Zoom with FluentBooking. Go to FluentBooking Dashboard and navigate to **Settings > Zoom** and you will see the button **Connect Your Zoom Account** click on the button.
+After creating the Zoom app properly now you can connect your Zoom with FluentBooking. From your WordPress dashboard, go to **Settings**, then click on the **Zoom** tab from the left-hand menu. You will see the **Connect Your Zoom Account** button — click on it.
 
 ![Configuring Zoom With FluentBooking](/images/integrations/zoom-integration-with-fluentbooking/configure-zoom-7.webp)
 
-Now a popup will appear paste your **copied** Zoom App **credentials** here and click on **Save & Validate Credentials.**
+A popup titled **Add New Zoom User Account** will appear. Paste your copied **Zoom Account ID**, **Zoom App Client ID**, and **Zoom App Secret Key** into the corresponding fields, then click **Save & Validate Credentials**.
 
 ![Save & Validate Credentials](/images/integrations/zoom-integration-with-fluentbooking/validate-8.webp)
 
-FluentBooking and Zoom are successfully connected, you can see the connected host here. If you want to connect another user account of FluentBooking with Zoom click the **Add New User Account** button.
+FluentBooking and Zoom are successfully connected, and you can see the connected host here. If you want to connect another user account of FluentBooking with Zoom, click the **Add New Zoom User Account** button.
 
 To connect another user account of FluentBooking with Zoom you need to create another app from another Zoom account and then repeat the same process to connect with Zoom.
 
-![Connect with Zoom](/images/integrations/zoom-integration-with-fluentbooking/9.webp)
+![Connect with Zoom](/images/integrations/zoom-integration-with-fluentbooking/connect-9.webp)
 
 ## Zoom Integration From Host Setting
 

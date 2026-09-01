@@ -13,7 +13,9 @@ FluentBooking enables you to create a frontend panel where you and your users ca
 
 ## Enable Frontend Panel
 
-To enable the Frontend Panel, navigate to FluentBooking and click on **Settings** in the navbar. From the left sidebar, select **Advanced Features & Addons**. You'll find the **Frontend Portal** option here. Click the **Settings** button next to Frontend Portal to access its configuration settings.
+To enable the Frontend Panel, navigate to FluentBooking and click on **Settings** in the navbar. From the left sidebar, select **Advanced Features & Addons**. 
+
+You'll find the **Frontend Portal** option here. Click the **Settings** button next to Frontend Portal to access its configuration settings.
 
 ![Enable Frontend Panel](/images/global-settings/fluentbooking-frontend-panel/fluentbooking-frontend-portal-1-scaled.webp)
 
@@ -27,9 +29,11 @@ A pop-up will appear. Check the **Enable Frontend Portal** box to activate it. Y
 
 ### Show in a Standalone Frontend URL
 
-If you enable the **Show in a Standalone Frontend URL** option, a URL will be provided in the Frontend Portal settings. This URL gives you direct access to FluentBooking's Frontend Panel.
+If you enable the **Show in a Standalone Frontend URL** option, you can also set a custom **URL Slug for the frontend panel** (e.g., "my-bookings"). 
 
-Additionally, you can access the Frontend Panel by clicking the **Frontend** button in the navbar.
+After saving, this direct link to your Frontend Panel appears next to the **Frontend Portal** module on the **Advanced Features & Addons** page.
+
+Additionally, you can access the Frontend Panel by clicking the **Frontend Portal** button in the navbar.
 
 ![Show in a Standalone Frontend URL](/images/global-settings/fluentbooking-frontend-panel/fluentbooking-frontend-portal-3-scaled.webp)
 
