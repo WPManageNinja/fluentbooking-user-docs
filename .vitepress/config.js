@@ -189,6 +189,7 @@ export default defineConfig({
     siteTitle: 'FluentBooking',
     nav: [
       { text: 'User Docs', link: '/' },
+      { text: 'Try It Free', link: 'https://try.wpmanageninja.com/?products=fluent-booking', target: '_blank' },
       { text: 'Dev Docs', link: 'https://developers.fluentbooking.com/', target: '_blank' },
       { text: 'Changelog', link: '/changelog' },
       { text: 'Website', link: 'https://fluentbooking.com', target: '_blank' },
