@@ -129,6 +129,7 @@ const sidebar = [
       { text: 'Email & Notifications', link: '/global-email-settings' },
       { text: 'Booking Summary Report', link: '/how-to-set-booking-summary-email' },
       { text: 'Frontend Booking Panel', link: '/fluentbooking-frontend-panel' },
+      { text: 'MCP for AI Agents', link: '/mcp-for-ai-agents' },
     ],
   },
   {
