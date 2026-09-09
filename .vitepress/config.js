@@ -1,7 +1,44 @@
 import { defineConfig } from 'vitepress'
+import { existsSync } from 'node:fs'
+import { dirname, join } from 'node:path'
+import { fileURLToPath } from 'node:url'
 import { zoomablePlugin } from './theme/markdown-plugin-zoomable'
 
 const brand = '/FluentBooking-brand'
+
+// Production origin. Must match where the site is actually served — a canonical or a
+// social-card URL on any other host points at a 404, which is enough for a scraper to
+// drop the preview entirely.
+const SITE_ORIGIN = 'https://docs.fluentbooking.com'
+
+/**
+ * Per-page link-preview cards.
+ *
+ * `scripts/generate-featured-images.mjs` renders a branded 1200x630 PNG carrying each
+ * page's own title into `docs/public/images/featured/<slug>.png`, which the publicDir
+ * serves at `/images/featured/<slug>.png`.
+ *
+ * NAMING RULE — kept in sync with that script: the `rewrites` below strip the section
+ * folder from every URL, so `pageData.relativePath` arrives here already flattened to
+ * `<slug>.md` and the card is named after that same slug.
+ *
+ * Anything without a generated card falls back to `default.png`, which the generator
+ * also emits — so a shared link is never left with no preview at all.
+ */
+const FEATURED_DIR = join(
+  dirname(fileURLToPath(import.meta.url)),
+  '..',
+  'docs',
+  'public',
+  'images',
+  'featured'
+)
+
+function featuredImageFor(relativePath) {
+  const name = `${relativePath.replace(/\.md$/, '')}.png`
+  const file = existsSync(join(FEATURED_DIR, name)) ? name : 'default.png'
+  return `${SITE_ORIGIN}/images/featured/${file}`
+}
 
 const sidebar = [
   {
@@ -180,7 +217,54 @@ export default defineConfig({
   head: [
     ['link', { rel: 'icon', href: `${brand}/Icon/PNGs/fluentbooking_primary_icon.png`, type: 'image/png' }],
     ['link', { rel: 'apple-touch-icon', href: `${brand}/Icon/PNGs/fluentbooking_primary_icon.png` }],
+
+    // Open Graph / Twitter values that never vary per page. The per-page ones —
+    // og:title, og:description, og:url, og:image and the canonical — are built in
+    // `transformHead` below. Do NOT add og:image or a canonical back here: scrapers
+    // take the first tag they find, so a static og:image would shadow every per-page
+    // card, and a static canonical would point every page at one URL.
+    ['meta', { property: 'og:type', content: 'website' }],
+    ['meta', { property: 'og:site_name', content: 'FluentBooking Documentation' }],
+    ['meta', { property: 'og:locale', content: 'en_US' }],
+    ['meta', { property: 'og:image:width', content: '1200' }],
+    ['meta', { property: 'og:image:height', content: '630' }],
+    ['meta', { name: 'twitter:card', content: 'summary_large_image' }],
   ],
+
+  /**
+   * VitePress emits none of these on its own: a canonical URL, or the Open Graph /
+   * Twitter tags a link preview is built from. Without them a shared doc link renders
+   * as a bare URL, and nothing tells search engines which URL is authoritative.
+   */
+  transformHead({ pageData, siteData }) {
+    // The 404 page is reachable at every bad URL, so it must not claim a canonical of
+    // its own or be shared as a card.
+    if (pageData.relativePath === '404.md') return []
+
+    // `relativePath` is already the REWRITTEN (flattened) path, so it matches the
+    // public URL — see the `rewrites` option above.
+    const slug = pageData.relativePath.replace(/(^|\/)index\.md$/, '$1').replace(/\.md$/, '')
+    const url = `${SITE_ORIGIN}/${slug}`
+
+    const title = pageData.frontmatter.title || pageData.title || siteData.title
+    const description =
+      pageData.frontmatter.description || pageData.description || siteData.description
+    const image = featuredImageFor(pageData.relativePath)
+
+    return [
+      ['link', { rel: 'canonical', href: url }],
+
+      ['meta', { property: 'og:title', content: title }],
+      ['meta', { property: 'og:description', content: description }],
+      ['meta', { property: 'og:url', content: url }],
+      ['meta', { property: 'og:image', content: image }],
+      ['meta', { property: 'og:image:alt', content: title }],
+
+      ['meta', { name: 'twitter:title', content: title }],
+      ['meta', { name: 'twitter:description', content: description }],
+      ['meta', { name: 'twitter:image', content: image }],
+    ]
+  },
   themeConfig: {
     logo: {
       src: `${brand}/Icon/PNGs/fluentbooking_primary_icon.png`,

@@ -6,8 +6,11 @@ VitePress user-doc site for **FluentBooking**, a WordPress appointment-booking p
 
 ```bash
 npm run docs:dev      # local server at http://localhost:5173 — always use to verify edits
-npm run docs:build    # static build → docs/.vitepress/dist/ (gitignored)
+npm run docs:build    # static build → .vitepress/dist/ (gitignored)
 npm run docs:preview  # serve the built output
+
+npm run featured:generate    # render social cards for any page missing one (skips existing)
+npm run featured:regenerate  # re-render EVERY card (--force) — after a title or design change
 ```
 
 ## Repo layout
@@ -51,6 +54,21 @@ The sidebar in `docs/.vitepress/config.js` has **12 groups** (the user journey w
 | **Help & Support**    | `troubleshooting/` |
 
 **URL slug quirk:** `config.js` `rewrites` strip the folder prefix from URLs, so every sidebar link is flat (`/how-to-create-a-new-host`), and the actual file can sit in any of the section folders — slugs must be globally unique across `docs/`.
+
+## Social cards (featured images)
+
+Every page ships its own 1200x630 Open Graph card, so a doc link shared on Slack, X, Facebook or LinkedIn previews with that page's title instead of rendering as a bare URL.
+
+- **Generator:** `scripts/generate-featured-images.mjs` (uses `sharp`; renders an SVG and composites `fluentbooking_monotone_light_logo.png` — the all-white lockup, since the secondary logo's blue calendar mark disappears on a blue card).
+- **Output:** `docs/public/images/featured/<slug>.png` — **committed to the repo**, served at `/images/featured/<slug>.png`.
+- **Name = the flat slug**, the same one the `rewrites` serve the page at. `docs/README.md` is skipped.
+- `config.js` (`featuredImageFor()` in `transformHead`) recomputes that name from `pageData.relativePath`, which VitePress has already flattened. Anything without a card falls back to `default.png`.
+- `og:image` and the canonical are emitted **only** in `transformHead`, never in the static `head` array — scrapers take the first tag they find, so a static one would shadow every per-page value.
+- The generator **fails on a slug collision**, since two pages sharing a filename also fight over the same URL under the flat rewrites — a routing bug, not just a card-naming one.
+
+**When you add a page:** run `npm run featured:generate` and commit the new PNG alongside the `.md` and the sidebar entry.
+**When you change a page's `title`:** run `npm run featured:regenerate` — the card bakes the old title in and the skip-if-exists rule will not notice.
+**When you rename or delete a page:** the generator reports the leftover card so you can delete it.
 
 ## Writing conventions
 
