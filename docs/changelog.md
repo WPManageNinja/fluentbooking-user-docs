@@ -7,6 +7,46 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.4.0
+
+*Released on September 9, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Introduced: MCP Server for AI Agents to Manage Bookings
+• Added: Dependency Rule for Payment Settings Fields
+• Added: Currency Sign for the Salvadoran Colon
+```
+
+```markdown [🚀 Improvements]
+• Improved: Overall Admin Responsiveness on Mobile and Tablet
+• Improved: Consistent Section Headers Across Admin Settings
+• Improved: Live PayPal IPN Skip Removed From UI, Still Available via Filter
+```
+
+```markdown [🔒 Security]
+• Security: Hardened Input Sanitization, Access Control and Merge Tag Handling
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Admin Layout Breaking at Narrow and Mobile Widths
+• Fixed: Cart Bookings Stuck Pending After Payment
+• Fixed: Duplicate Booking Request Notifications
+• Fixed: Report Metrics, Filters and Date Range Validation
+• Fixed: Reschedule Writing Partial Data When a Step Failed
+• Fixed: Database Version Recorded Before the Migration Completed
+• Fixed: Fatal Error When an Integration Feed Is Missing
+• Fixed: Recurring Series Shifting an Hour at DST
+• Fixed: Refund Totals and PayPal Payment Amount Checks
+• Fixed: Twilio SMS Ignoring the Notification Toggle
+• Fixed: Standalone Portal Layout, Login Styles and Asset Loading
+• Fixed: Order Payment List Matching the Wrong Transaction Type
+• Fixed: Undefined Version Notice on Plugin Details
+```
+
+:::
+
 ## FluentBooking v2.3.0
 
 *Released on August 28, 2026*
