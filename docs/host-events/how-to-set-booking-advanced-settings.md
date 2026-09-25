@@ -94,6 +94,9 @@ By enabling the **Always** option, attendees will not be able to reschedule a me
 >[!Note]
 > The cutoffs for **Requires Confirmation**, **Attendee Cannot Cancel**, and **Attendee Cannot Reschedule** all accept **Minutes**, **Hours**, or **Days**, up to a maximum of 30 days in every unit. If you enter a value outside that range, an inline warning appears and the settings are not saved until you correct it.
 
+>[!Note]
+> **Attendee Cannot Reschedule** is available for [Single](/single-one-off-event) and [Group](/group-one-off-event) one-off events, alongside every other event type.
+
 <!-- TODO (FluentBooking 2.2.5): capture screenshot — Advanced Settings showing a cancellation cutoff set with the Days unit.
      Save it to the path below, then uncomment this line.
 ![Booking Cutoff in Days](/images/host-events/how-to-set-booking-advanced-settings/booking-cutoff-days-unit.webp) -->

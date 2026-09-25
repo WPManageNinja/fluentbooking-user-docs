@@ -56,6 +56,18 @@ Advanced settings allow further customization to meet specific use cases. All th
 
 ![Advanced Options](/images/integrations/fluent-form-integration-with-fluentbooking/advanced-options-05-scaled.webp)
 
+## Map Form Fields to Booking Questions
+
+If your event has [custom booking questions](/how-to-set-booking-questions), you are not limited to just the guest's name and email. In the **Input Customization** tab, scroll to the **Booking Questions Mapping** section and map any field on your Fluent Forms form to one of the event's custom booking questions.
+
+::: tip Important
+Create the [booking questions](/how-to-set-booking-questions) on the event first, so they are available to map here.
+:::
+
+![Advanced Options](/images/integrations/fluent-form-integration-with-fluentbooking/booking-question-mp-4.webp)
+
+Once mapped, an answer submitted through that form field is saved as the booking's answer to the matching question, exactly as if the guest had answered it on the FluentBooking form. This gives your team the same context in the booking details page whether the attendee booked through Fluent Forms or your regular booking form.
+
 ## Preview of Added FluentBooking Field
 
 Here is a preview of the form with the **FluentBooking** field.
