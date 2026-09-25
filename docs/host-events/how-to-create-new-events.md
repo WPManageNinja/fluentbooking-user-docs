@@ -42,7 +42,7 @@ Here, you have to give the information about your booking event in the following
  * **A. Event Name:** Enter a suitable title here. This will show on your booking page.
  * **B. Description:** Add a short description of this event.
  * **C. Meeting Duration:** Choose how long your meeting will be.
- * **D. Location:** Choose where the meeting will take place (e.g., Zoom, Google Meet, Phone Call). You can add multiple location options by clicking on the **+ Add another location option** button.
+ * **D. Location:** Choose where the meeting will take place (e.g., Zoom, Google Meet, Phone Call). You can add multiple location options by clicking on the **+ Add another location option** button. If the list of location choices fails to load, click **Retry** to reload it without refreshing the page.
 
 After that, click on the **Continue** button to save it.
 
