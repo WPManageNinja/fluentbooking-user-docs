@@ -359,7 +359,7 @@ Ask for things like:
 
 Everything you would do to a booking that already exists: reschedule it, cancel it, confirm or reject a pending request, mark it complete or a no-show, correct the attendee's details, or resend the confirmation email.
 
-Cancelling and rejecting can include a reason, which is stored on the booking and included in the email the attendee receives.
+Cancelling and rejecting can include a reason, which is stored on the booking and included in the email the attendee receives. With FluentBooking Pro, the same tool can also read and write a booking's [private notes](/booking-details#private-notes) — the context that stays out of the attendee-facing activity log.
 
 Ask for things like:
 
@@ -367,6 +367,7 @@ Ask for things like:
 - *"Cancel Friday's session and tell them I am unwell."*
 - *"Mark yesterday's 3pm as a no-show."*
 - *"Resend the confirmation for booking #390 to the host."*
+- *"Add a private note to booking #482 that the client wants to discuss pricing."*
 
 ::: tip Important
 Cancelling a booking does **not** refund it unless you say so. Money never moves as a side effect of a schedule change — you have to ask for the refund explicitly.

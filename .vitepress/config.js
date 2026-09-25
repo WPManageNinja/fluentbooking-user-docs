@@ -108,6 +108,7 @@ const sidebar = [
     items: [
       { text: 'View All Bookings', link: '/booking-details' },
       { text: 'Create Booking Manually', link: '/create-booking-manually' },
+      { text: 'Reschedule a Booking', link: '/how-to-reschedule-a-booking' },
       { text: 'Cancel a Booking', link: '/how-to-cancel-a-booking' },
     ],
   },

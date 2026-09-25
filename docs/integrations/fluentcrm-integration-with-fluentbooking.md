@@ -103,6 +103,10 @@ When viewing any individual booking in FluentBooking, a **CRM Profile Card** app
 
 This is useful for tagging a new lead, adding an attendee to a nurture list, or cleaning up CRM data while you are already reviewing their booking.
 
+## Copy a Private Note to a Contact
+
+If you keep a [private note](/booking-details#private-notes) on a booking that belongs on the attendee's permanent record, click **Copy to CRM** next to that note. It is added to the matching FluentCRM contact without you having to retype it.
+
 ## Viewing Synced Data
 
 Once the integration is active: 

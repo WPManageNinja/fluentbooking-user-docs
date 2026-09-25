@@ -94,6 +94,27 @@ To set the connection up, see the [FluentCart integration](/fluentcart-integrati
 
 A long booking record can get busy. Click the header of the booking activity log or any sidebar widget to collapse it, and click it again to expand. Collapse the parts you do not need so the details you care about stay in view.
 
+### Private Notes
+
+> [!Note]
+> Private notes are only available in FluentBooking Pro.
+
+Private Notes allow you to save internal information related to a booking without showing it to the attendee. These notes are visible only to your team and are kept separate from the booking activity timeline.
+
+To add a private note, enter a **Title** (optional) and your note in the **Write a note field**. By default, the note is kept private and visible only to your team.
+
+You can also **enable Also add to [Contact Name]'s** **[FluentCRM](/fluentcrm-integration-with-fluentbooking) profile** to save the note to the attendee's FluentCRM contact profile. Click Add note to save the note.
+
+After adding a note, you can use the **Edit** icon to update it or the **Delete** icon to remove it.
+
+Private Notes are useful for keeping internal booking details, such as discussion topics, documents the attendee should bring, or other information your team needs to remember.
+
+Notes can also be read and written by a connected AI client through [FluentBooking's MCP tools](/mcp-for-ai-agents).
+
+
+![Private Note](/images/bookings/booking-details/private-note-3.webp)
+
+
 ## Manual Confirmation Email Sending
 
 If a confirmation email didn’t reach the attendee, the admin can manually resend it without any hassle.
@@ -122,7 +143,7 @@ To do this, go to the **Bookings** section and select the meeting you want to re
 
 If you need to reschedule a booking for an attendee, go to the **Bookings** section and click the **three-dot** icon next to the booking you want to change. Then, select the **Reschedule** option.
 
-You’ll be automatically redirected to the booking schedule page, where you can choose a new date and time for the attendee’s appointment.
+A reschedule window opens right there in the admin, letting you pick a new timezone, date, and time slot without leaving the page. See [Reschedule a Booking](/how-to-reschedule-a-booking) for the full walkthrough, including how to add a reason and override availability for an exception.
 
 ![Reschedule the Booking](/images/bookings/booking-details/reshedule-14.webp)
 
