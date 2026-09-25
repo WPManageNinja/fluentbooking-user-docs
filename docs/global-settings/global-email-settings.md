@@ -52,6 +52,16 @@ This allows you to create a more personalized and accessible experience for your
 
 ![Theme](/images/global-settings/global-email-settings/general-settings-theme-3.webp)
 
+### Usage Data
+
+Under the **General** tab, the **Usage Data** section lets you share non-sensitive usage data with the FluentBooking team so they know which features to improve. Check **Share non-sensitive usage data with FluentBooking** to opt in.
+
+This includes your PHP and WordPress versions, active plugins and theme, site language, site name and URL, counts of calendars, events, and bookings, and the email you subscribed with, if you did. No booking details, guest names, or guest emails are ever sent.
+
+You can turn this off at any time from this same page.
+
+![Usage Data Opt-In](/images/global-settings/global-email-settings/usage-data-5.webp)
+
 You've successfully configured your global settings, creating a more consistent booking experience.
 
 
