@@ -7,6 +7,52 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.5.0
+
+*Released on September 24, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Introduced: Host-Only Notes on Bookings
+• Added: Reschedule Bookings Without Leaving the Admin
+• Added: Map Fluent Forms Fields to Booking Questions
+• Added: Opt In to Product Updates and Usage Sharing
+• Added: Reschedule Restriction for One-Off Events
+• Added: Retry When Location Options Fail to Load
+```
+
+```markdown [🚀 Improvements]
+• Improved: Enable the Landing Page From the Share Modal
+• Improved: Faster Host Lookup on Large Sites
+• Improved: Batched Conferencing Connection Checks
+```
+
+```markdown [🔒 Security]
+• Security: Hardened Host Data Exposure, Access Gates and File Uploads
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Recurring Occurrences Missing From Emails, ICS and Google Calendar
+• Fixed: Dark Mode Contrast Across Modals, Forms and Notices
+• Fixed: DST Double Booking and Wrong Repeated-Hour Handling
+• Fixed: Coupon Usage Limits Exceeded Under Concurrent Bookings
+• Fixed: Refunds Lost or Reversed by Concurrent Payment Events
+• Fixed: FluentCart Checkout Order Bumps, Titles and Images
+• Fixed: Fluent Forms Bookings Confirmed Before Payment
+• Fixed: Calendar Delete Wiping Team Bookings
+• Fixed: Lost and Duplicated Booking Reminders
+• Fixed: Date Overrides Lost on the Default Schedule
+• Fixed: Conferencing Status and Zoom Payload Errors on New Events
+• Fixed: Apple and Nextcloud Fatal Error on Bad Credentials
+• Fixed: Google Calendar Cache Expiring Within Seconds
+• Fixed: Upload Size Limit Ignored on Public Uploads
+• Fixed: General Settings Save Resetting the Theme
+• Fixed: Clone Event List Empty With an Eventless Host
+```
+
+:::
+
 ## FluentBooking v2.3.0
 
 *Released on August 28, 2026*
