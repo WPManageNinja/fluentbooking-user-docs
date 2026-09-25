@@ -34,6 +34,8 @@ Your booking will then appear on that page's front end page like this.
 
 You'll receive a hyperlink for your booking, which you can place on your site's landing page or you can share this link anywhere to reach out to your booking event.
 
+If the host's landing page is not turned on yet, this tab shows **Landing Page is turned off** with a toggle beside it — no need to go to **Host Settings** first. Turn it on and the shareable URL appears in the same tab. See [Host Landing Page](/how-to-enable-landing-page-for-your-host) for more on what appears on that page.
+
 ![Landing Page](/images/getting-started/add-booking-form-to-site/booking-in-frontend-3-scaled.webp)
 
 

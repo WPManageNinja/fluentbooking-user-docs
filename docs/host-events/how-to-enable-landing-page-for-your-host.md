@@ -11,31 +11,37 @@ This guide walks you through enabling the landing page for a host and choosing w
 
 ## Step 1: Open Your Host Settings
 
-Go to your FluentBooking **dashboard** and click **Booking Calendars** in the top navigation. Find the host you want to enable a landing page for, then click the **Host Setting** (or settings) button next to that host to open their profile settings.
+Go to your FluentBooking **dashboard** and click **Calendars** in the top navigation. Find the host you want to enable a landing page for, then click the **Host Settings** button next to that host to open their profile settings.
 
 ![Host Profile Settings](/images/host-events/how-to-enable-landing-page-for-your-host/calendars-fluentbooking-3-1.webp)
 
 ## Step 2: Enable the Landing Page
 
-On the **General Calendar Settings** page, scroll down until you see **Enable Landing Page Feature for this Calendar** and turn this option **on** (enable it).
+On the **Calendar Settings** tab, scroll down to the bottom of **General Host Settings** and check **Enable Landing Page Features for this calendar**.
 
 When enabled, FluentBooking generates a **public profile URL** for this host. You can share this URL with anyone so they can view the host and book events without visiting a specific page on your site.
 
 ## Step 3: Choose What Appears on the Landing Page
 
-You can control what visitors see when they open the landing page link:
+Under **Which Booking Forms to Show?**, pick one:
 
-- **All Booking Forms** — Every event type for this host is shown. Visitors can choose any event and book.
-- **Selected Booking Forms** — Only the event types you choose are shown. Use this when you want to limit which services or events are available from this link.
+- **All Active Booking Forms** — Every active event type for this host is shown. Visitors can choose any event and book.
+- **Only Selected Active Booking Types** — Only the event types you choose are shown. Use this when you want to limit which services or events are available from this link.
 
-Select the option that fits your use case. If you choose **Selected Booking Forms**, pick which events to display from the list.
+If you choose **Only Selected Active Booking Types**, check off which events to display under **Please select which Booking Forms to show in the page?**.
 
-![Landing page options - All or Selected Booking Forms](/images/host-events/how-to-enable-landing-page-for-your-host/calendar-settings-fluentbooking-6-1.webp)
+![Enable Landing Page Features and Booking Forms to Show](/images/host-events/how-to-enable-landing-page-for-your-host/calendar-settings-fluentbooking-6-1.webp)
+
+Click the **Save Settings** button to apply your changes. After saving, copy the host's landing page URL from the **Share** button on this page and use it in emails, social posts, or your website. To learn how to add the booking form to a WordPress page or block instead, see [Add Booking Form to Your Site](/add-booking-form-to-site).
+
+## Turn It On From an Event's Share Modal Instead
+
+If the landing page is not enabled yet, you do not have to open Host Settings to turn it on. Click the **Share** button on any of this host's events from the **Calendars** page, then open the **Landing Page** tab.
+
+If the landing page is off, the tab shows **Landing Page is turned off**. Use the toggle to turn it on, and FluentBooking shows the shareable landing page URL for this calendar right there.
+
+![Landing Page Tab in the Share Modal](/images/host-events/how-to-enable-landing-page-for-your-host/landing-page-turn-on-6.webp)
+
+For the options covered in Step 3 — such as choosing which booking forms appear — click **calendar settings** in that same tab to jump back to the host's **General Host Settings**.
 
 
-After saving your settings, copy the host’s landing page URL from the calendar or share settings and use it in emails, social posts, or your website. To learn how to add the booking form to a WordPress page or block instead, see [Add Booking Form to Your Site](/add-booking-form-to-site).
-
-## Next steps
-
-- [Clean Up Booking URLs](/how-to-prettify-landing-page-url) — make the landing page URL more readable.
-- [Create a Booking Event](/how-to-create-new-events) — add more event types to this host's landing page.
