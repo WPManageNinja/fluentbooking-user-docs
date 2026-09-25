@@ -39,6 +39,8 @@ These are the permissions that the Admin can set for the Host.
 
 Team settings also include an **Event Types** tab, right after **Calendar Settings**, listing every event the team member can reach as a card. Events that have not been shared with that member are hidden from the tab.
 
+A team member who can create a booking — through **Manage only own Calendar, Events, Bookings & Availability** or **Read & Write Access to All Bookings** — can also [reschedule a booking](/how-to-reschedule-a-booking) from the admin. There is no separate permission for rescheduling.
+
 You can edit this host permission anytime by clicking the button on the right side. You will find a delete button also.
 
 >[!Note]
