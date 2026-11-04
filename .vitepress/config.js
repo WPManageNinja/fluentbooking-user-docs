@@ -145,6 +145,8 @@ const sidebar = [
       { text: 'WooCommerce', link: '/woocommerce-integration-with-fluentbooking' },
       { text: 'FluentCart', link: '/fluentcart-integration-with-fluentbooking' },
       { text: 'Twilio SMS & WhatsApp', link: '/twilio-integration-with-fluentbooking' },
+      { text: 'Google reCAPTCHA', link: '/google-recaptcha-integration-with-fluentbooking' },
+      { text: 'Cloudflare Turnstile', link: '/cloudflare-turnstile-integration-with-fluentbooking' },
       { text: 'Webhooks', link: '/webhook-integration-with-fluentbooking' },
     ],
   },
