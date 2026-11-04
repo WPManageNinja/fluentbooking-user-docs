@@ -7,6 +7,50 @@ description: Latest FluentBooking updates—new features, bug fixes, and improve
 
 Stay updated with the latest improvements, new features, bug fixes, and performance enhancements in FluentBooking.
 
+## FluentBooking v2.6.0
+
+*Released on November 4, 2026*
+
+::: code-group
+
+```markdown [✨ Newly Added]
+• Introduced: Booking Spam Protection With reCAPTCHA and Turnstile
+• Added: List View on the Calendars Page
+• Added: Upcoming Booking Count per Event Type and Calendar Name Search
+• Added: Booking Logo in FluentCRM Automation Categories
+• Added: Developer Hooks for Emails, Public Booking URLs and Permissions
+• Added: System Option in the Dark Mode Switcher
+```
+
+```markdown [🚀 Improvements]
+• Improved: Your Own Calendar Listed First With a "You" Badge
+• Improved: Quicker Share, Settings and On/Off Actions for Event Types
+• Improved: Bookings List Layout, Filters and Status Chips
+• Improved: Booking Detail Header With Status, Payment and Source Chips
+• Improved: Admin Contrast, Focus Rings and Dark Mode Colors
+```
+
+```markdown [🔒 Security]
+• Security: Meeting Link Hidden Until the Booking Is Paid
+• Security: Hardened Access Checks, Integration Feeds, Payments and Input Handling
+```
+
+```markdown [🐞 Bug fixes]
+• Fixed: Smartcodes and Relative URLs Dropped From Custom Redirects
+• Fixed: Booking Smartcodes Missing in the Reschedule Trigger
+• Fixed: Reschedule Checking the Wrong Meeting Length
+• Fixed: Full Group Event Not Reopening After a Cancellation
+• Fixed: Group Booking Delete Leaving Attendee Data
+• Fixed: Guests Accepted When the Guests Field Is Disabled
+• Fixed: Paid Events With an Empty Price Failing to Save or List
+• Fixed: Expired One-Off Events Hidden From the Admin
+• Fixed: Unreadable Booking Links on Sites Without Pretty Permalinks
+• Fixed: Native Input Showing Through Disabled Radio, Checkbox and Switch
+• Fixed: PHP Warnings on Logged-Out Visits to the Frontend Portal
+```
+
+:::
+
 ## FluentBooking v2.5.0
 
 *Released on September 24, 2026*
