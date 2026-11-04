@@ -5,7 +5,7 @@ description: Add Cloudflare Turnstile to your booking forms and block spam booki
 
 # Cloudflare Turnstile Integration with FluentBooking
 
-Cloudflare Turnstile adds a bot check to every FluentBooking booking form, and FluentBooking blocks any booking that does not pass the check. Your calendars stay free of spam bookings, and your visitors never have to solve a puzzle.
+Cloudflare Turnstile adds a bot check to every FluentBooking booking form, and FluentBooking blocks any booking that does not pass the check. Your calendars stay free of spam bookings, and your visitors never have to solve an image or text puzzle.
 
 In this guide, we'll walk you through creating your Turnstile keys and connecting them to FluentBooking. Let's get started!
 
@@ -23,19 +23,19 @@ To create your keys, log in to the [Cloudflare dashboard](https://dash.cloudflar
 
 ![Add widget button in the Cloudflare Turnstile dashboard](/images/integrations/cloudflare-turnstile-integration-with-fluentbooking/add-widget-button.webp)
 
-Next, enter a **Name** that helps you recognize this website later, and click **+ Add Hostnames** to register your domain.
+Next, enter a **Widget name** that helps you recognize this website later, and click **Add Hostnames** to register your domain.
 
 ![Naming the widget and adding hostnames in Cloudflare Turnstile](/images/integrations/cloudflare-turnstile-integration-with-fluentbooking/add-widget-hostname.webp)
 
-Enter the domain where your booking forms appear in the **Add a Custom Hostname** field and click the **Add** button. Your domain appears under **Selected Hostnames**. Then, click the **Add** button below it.
+Enter the domain where your booking forms appear in the **Add a custom hostname** field and click the **Add** button. Your domain appears under **Selected hostnames**. Then, click the **Add** button at the bottom of the panel.
 
 ![Adding a custom hostname to the Turnstile widget](/images/integrations/cloudflare-turnstile-integration-with-fluentbooking/add-hostname.webp)
 
-Now, choose your **Widget Mode** and **Pre-clearance** options, and click the **Create** button.
+Now, choose your **Widget Mode** (**Managed**, **Non-interactive**, or **Invisible**), answer the pre-clearance question, and click the **Create** button.
 
 ![Choosing the widget mode and clicking Create](/images/integrations/cloudflare-turnstile-integration-with-fluentbooking/create-widget.webp)
 
-Cloudflare now shows your keys. Copy the **Site Key** and the **Secret Key**, and keep them ready for the next step.
+Cloudflare now shows your keys. Click the **Site Key** and **Secret Key** fields to copy them, and keep them ready for the next step.
 
 ![Copying the Site Key and Secret Key from Cloudflare Turnstile](/images/integrations/cloudflare-turnstile-integration-with-fluentbooking/copy-site-secret-key.webp)
 
@@ -70,7 +70,7 @@ Paste the keys you copied from Cloudflare into the matching fields:
 
 ### Verify Your Keys
 
-To test your keys, click the **Verify Keys** button. FluentBooking asks Cloudflare for a token and checks both keys with it, so your domain must already be on the widget. Complete the Turnstile widget if it asks you to.
+To test your keys, click the **Verify Keys** button. FluentBooking asks Cloudflare for a token and checks both keys with it, so your domain must already be on the widget. If a Turnstile widget appears and asks you to confirm, complete it.
 
 When the keys work, the message **Cloudflare accepted both keys.** appears next to the button.
 
@@ -88,7 +88,7 @@ Finally, click the **Save Settings** button.
 
 Once you save your settings, the check runs on every booking form on your site. You do not have to change anything on your individual events.
 
-Visitors see the Turnstile widget on the booking form, right before they confirm.
+The Turnstile widget appears on the booking form, right above the **Schedule Meeting** button. What your visitors see depends on the **Widget Mode** you chose. In **Invisible** mode, they see no widget at all.
 
 ![The Cloudflare Turnstile widget on a booking form](/images/integrations/cloudflare-turnstile-integration-with-fluentbooking/turnstile-booking-form.webp)
 

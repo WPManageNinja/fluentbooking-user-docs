@@ -29,15 +29,15 @@ To create your keys, go to the [Google reCAPTCHA admin console](https://www.goog
 Next, fill in the registration form:
 
 - **Label:** Enter a name that helps you recognize this website later.
-- **reCAPTCHA type:** Select the version you chose above.
+- **reCAPTCHA type:** Select **Score based (v3)** for Version 3 or **Challenge (v2)** for Version 2.
 - **Domains:** Enter the domain of the website where your booking forms appear.
 - **Google Cloud Platform:** Choose a project from the dropdown if you are asked to.
 
-Once you have filled in the form, click the **Submit** button.
+Once you have filled in the form, click the **SUBMIT** button.
 
 ![Registering a new site in the Google reCAPTCHA admin console](/images/integrations/google-recaptcha-integration-with-fluentbooking/register-new-site.webp)
 
-Google now shows your keys. Click **Copy Site Key** and **Copy Secret Key** to copy them, and keep them ready for the next step.
+Google now shows your keys. Click **COPY SITE KEY** and **COPY SECRET KEY** to copy them, and keep them ready for the next step.
 
 ![Copying the Site Key and Secret Key from Google reCAPTCHA](/images/integrations/google-recaptcha-integration-with-fluentbooking/copy-site-secret-key.webp)
 
@@ -79,9 +79,9 @@ For **Version 2**, click **Version 2** and paste your **Site Key** and **Secret 
 
 ### Verify Your Keys
 
-To test your keys, click the **Verify Keys** button. FluentBooking asks Google for a token and checks both keys with it, so your domain must already be on the key. If you use Version 2, complete the tickbox when it appears.
+To test your keys, click the **Verify Keys** button. FluentBooking asks Google for a token and checks both keys with it, so your domain must already be on the key. If you use Version 2, a tickbox appears with the message **Tick the box to finish the test.** Tick the box to continue.
 
-When the keys work, a message such as **Google accepted both keys** appears next to the button.
+When the keys work, the message **Google accepted both keys.** appears next to the button. With Version 3, the message also includes the score Google returned.
 
 ![A successful key check after clicking Verify Keys](/images/integrations/google-recaptcha-integration-with-fluentbooking/recaptcha-verify-keys.webp)
 
@@ -97,7 +97,7 @@ Finally, click the **Save Settings** button.
 
 Once you save your settings, the check runs on every booking form on your site. You do not have to change anything on your individual events.
 
-With **Version 2**, visitors see the tickbox on the booking form, right before they confirm. With **Version 3**, the check runs without asking visitors to do anything.
+With **Version 2**, visitors see the tickbox on the booking form, right above the **Schedule Meeting** button. With **Version 3**, the check runs without asking visitors to do anything.
 
 ![The reCAPTCHA Version 2 tickbox on a booking form](/images/integrations/google-recaptcha-integration-with-fluentbooking/recaptcha-v2-booking-form.webp)
 

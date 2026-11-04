@@ -28,7 +28,10 @@
       "click": ".el-switch"
     },
     {
-      "wait": 800
+      "click": ".fcal_provider_card:has-text(\"Google reCAPTCHA\")"
+    },
+    {
+      "wait": 1500
     },
     {
       "shot": {
@@ -114,7 +117,7 @@
           "x": 540,
           "y": 350,
           "width": 960,
-          "height": 305
+          "height": 280
         },
         "arrows": [
           {

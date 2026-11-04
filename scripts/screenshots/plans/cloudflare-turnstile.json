@@ -1,0 +1,210 @@
+{
+  "outDir": "docs/public/images/integrations/cloudflare-turnstile-integration-with-fluentbooking",
+  "viewport": {
+    "width": 1600,
+    "height": 1300
+  },
+  "steps": [
+    {
+      "admin": "/settings/spam-protection"
+    },
+    {
+      "shot": {
+        "name": "spam-protection-menu",
+        "clip": "app",
+        "crop": {
+          "height": 1280
+        },
+        "arrows": [
+          {
+            "target": ".fcal_settings_submenu_item.spam_protection a",
+            "from": "right",
+            "len": 200
+          }
+        ]
+      }
+    },
+    {
+      "click": ".el-switch"
+    },
+    {
+      "click": ".fcal_provider_card:has-text(\"Google reCAPTCHA\")"
+    },
+    {
+      "wait": 1500
+    },
+    {
+      "shot": {
+        "name": "enable-spam-protection",
+        "clip": {
+          "x": 540,
+          "y": 100,
+          "width": 960,
+          "height": 270
+        },
+        "arrows": [
+          {
+            "target": ".el-switch",
+            "from": "left",
+            "len": 200
+          }
+        ]
+      }
+    },
+    {
+      "click": ".fcal_provider_card:has-text(\"Cloudflare Turnstile\")"
+    },
+    {
+      "wait": 800
+    },
+    {
+      "shot": {
+        "name": "turnstile-provider",
+        "clip": {
+          "x": 540,
+          "y": 100,
+          "width": 1060,
+          "height": 265
+        },
+        "arrows": [
+          {
+            "target": ".fcal_provider_card:has-text(\"Cloudflare Turnstile\")",
+            "from": "right",
+            "len": 160
+          }
+        ]
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Site Key\")) input",
+        "value": "0x4AAAAAAExampleSiteKey"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Secret Key\")) input",
+        "value": "0x4AAAAAAExampleSecretKeyForDocs"
+      }
+    },
+    {
+      "shot": {
+        "name": "turnstile-keys",
+        "clip": {
+          "x": 540,
+          "y": 350,
+          "width": 960,
+          "height": 165
+        }
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Site Key\")) input",
+        "value": "1x00000000000000000000AA"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Secret Key\")) input",
+        "value": "1x0000000000000000000000000000000AA"
+      }
+    },
+    {
+      "click": {
+        "selector": "button",
+        "hasText": "Verify Keys"
+      }
+    },
+    {
+      "wait": 7000
+    },
+    {
+      "shot": {
+        "name": "turnstile-verify-keys",
+        "clip": {
+          "x": 445,
+          "y": 505,
+          "width": 1055,
+          "height": 130
+        },
+        "arrows": [
+          {
+            "target": ".fcal_verify_keys_row button",
+            "from": "left",
+            "len": 160
+          }
+        ]
+      }
+    },
+    {
+      "shot": {
+        "name": "turnstile-save-settings",
+        "clip": {
+          "x": 540,
+          "y": 625,
+          "width": 960,
+          "height": 160
+        },
+        "arrows": [
+          {
+            "target": ".fcal_settings_footer button",
+            "from": "left",
+            "len": 160
+          }
+        ]
+      }
+    },
+    {
+      "front": "/?fluent-booking=calendar&host=rasel&event=30min"
+    },
+    {
+      "click": {
+        "text": "9"
+      }
+    },
+    {
+      "wait": 1500
+    },
+    {
+      "click": {
+        "text": "12:30 PM"
+      }
+    },
+    {
+      "wait": 800
+    },
+    {
+      "click": ".fcal_spot_confirm"
+    },
+    {
+      "waitFor": ".fcal_captcha_widget"
+    },
+    {
+      "wait": 4000
+    },
+    {
+      "fill": {
+        "selector": "#fcalInputIDname",
+        "value": "Jane Cooper"
+      }
+    },
+    {
+      "fill": {
+        "selector": "input[placeholder=\"Your Email\"]",
+        "value": "jane.cooper@example.com"
+      }
+    },
+    {
+      "shot": {
+        "name": "turnstile-booking-form",
+        "clip": {
+          "x": 290,
+          "y": 55,
+          "width": 1020,
+          "height": 670
+        }
+      }
+    }
+  ]
+}
