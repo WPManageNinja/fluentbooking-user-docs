@@ -1,0 +1,244 @@
+{
+  "outDir": "docs/public/images/integrations/google-recaptcha-integration-with-fluentbooking",
+  "viewport": {
+    "width": 1600,
+    "height": 1300
+  },
+  "steps": [
+    {
+      "admin": "/settings/spam-protection"
+    },
+    {
+      "shot": {
+        "name": "spam-protection-menu",
+        "clip": "app",
+        "crop": {
+          "height": 1280
+        },
+        "arrows": [
+          {
+            "target": ".fcal_settings_submenu_item.spam_protection a",
+            "from": "right",
+            "len": 200
+          }
+        ]
+      }
+    },
+    {
+      "click": ".el-switch"
+    },
+    {
+      "wait": 800
+    },
+    {
+      "shot": {
+        "name": "enable-spam-protection",
+        "clip": {
+          "x": 540,
+          "y": 100,
+          "width": 960,
+          "height": 270
+        },
+        "arrows": [
+          {
+            "target": ".el-switch",
+            "from": "left",
+            "len": 200
+          }
+        ]
+      }
+    },
+    {
+      "shot": {
+        "name": "recaptcha-provider",
+        "clip": {
+          "x": 540,
+          "y": 100,
+          "width": 960,
+          "height": 340
+        },
+        "arrows": [
+          {
+            "target": ".fcal_provider_card:has-text(\"Google reCAPTCHA\")",
+            "from": "left",
+            "len": 200
+          }
+        ]
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Site Key\")) input",
+        "value": "6LdXkR0sAAAAAExampleSiteKeyForDocs00"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Secret Key\")) input",
+        "value": "6LdXkR0sAAAAAExampleSecretKeyForDocs"
+      }
+    },
+    {
+      "shot": {
+        "name": "recaptcha-v3-keys",
+        "clip": {
+          "x": 540,
+          "y": 350,
+          "width": 960,
+          "height": 360
+        }
+      }
+    },
+    {
+      "click": {
+        "selector": ".el-radio-button",
+        "hasText": "Version 2"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Site Key\")) input",
+        "value": "6LdXkR0sAAAAAExampleSiteKeyForDocs00"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Secret Key\")) input",
+        "value": "6LdXkR0sAAAAAExampleSecretKeyForDocs"
+      }
+    },
+    {
+      "shot": {
+        "name": "recaptcha-v2-keys",
+        "clip": {
+          "x": 540,
+          "y": 350,
+          "width": 960,
+          "height": 305
+        },
+        "arrows": [
+          {
+            "target": ".el-form-item:has(label:text-is(\"reCAPTCHA Version\")) .el-radio-button:nth-child(2)",
+            "from": "right",
+            "len": 160
+          }
+        ]
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Site Key\")) input",
+        "value": "6LeIxAcTAAAAAJcZVRqyHh71UMIEGNQ_MXjiZKhI"
+      }
+    },
+    {
+      "fill": {
+        "selector": ".el-form-item:has(label:text-is(\"Secret Key\")) input",
+        "value": "6LeIxAcTAAAAAGG-vFI1TnRWxMZNFuojJ4WifJWe"
+      }
+    },
+    {
+      "click": {
+        "selector": "button",
+        "hasText": "Verify Keys"
+      }
+    },
+    {
+      "wait": 4000
+    },
+    {
+      "clickFrame": {
+        "frame": "iframe[title=\"reCAPTCHA\"]",
+        "selector": "#recaptcha-anchor",
+        "wait": 4000
+      }
+    },
+    {
+      "shot": {
+        "name": "recaptcha-verify-keys",
+        "clip": {
+          "x": 445,
+          "y": 595,
+          "width": 1055,
+          "height": 130
+        },
+        "arrows": [
+          {
+            "target": ".fcal_verify_keys_row button",
+            "from": "left",
+            "len": 160
+          }
+        ]
+      }
+    },
+    {
+      "shot": {
+        "name": "recaptcha-save-settings",
+        "clip": {
+          "x": 540,
+          "y": 715,
+          "width": 960,
+          "height": 160
+        },
+        "arrows": [
+          {
+            "target": ".fcal_settings_footer button",
+            "from": "left",
+            "len": 160
+          }
+        ]
+      }
+    },
+    {
+      "front": "/?fluent-booking=calendar&host=rasel&event=30min"
+    },
+    {
+      "click": {
+        "text": "9"
+      }
+    },
+    {
+      "wait": 1500
+    },
+    {
+      "click": {
+        "text": "12:30 PM"
+      }
+    },
+    {
+      "wait": 800
+    },
+    {
+      "click": ".fcal_spot_confirm"
+    },
+    {
+      "waitFor": ".fcal_captcha_item iframe"
+    },
+    {
+      "wait": 2500
+    },
+    {
+      "fill": {
+        "selector": "#fcalInputIDname",
+        "value": "Jane Cooper"
+      }
+    },
+    {
+      "fill": {
+        "selector": "input[placeholder=\"Your Email\"]",
+        "value": "jane.cooper@example.com"
+      }
+    },
+    {
+      "shot": {
+        "name": "recaptcha-v2-booking-form",
+        "clip": {
+          "x": 290,
+          "y": 55,
+          "width": 1020,
+          "height": 670
+        }
+      }
+    }
+  ]
+}

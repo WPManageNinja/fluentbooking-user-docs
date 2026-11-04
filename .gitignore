@@ -8,3 +8,6 @@ __pycache__/
 /new-booking
 /.vitepress/cache
 /.vitepress/dist
+
+# Raw screenshot PNGs (only the exported .webp files are committed)
+/scripts/screenshots/raw
