@@ -42,6 +42,13 @@ Use commerce and communication integrations to manage paid bookings and booking 
 - **[FluentCart](/integrations/fluentcart-integration-with-fluentbooking)**: Handle booking payments using FluentCart workflows.
 - **[Twilio SMS & WhatsApp](/integrations/twilio-integration-with-fluentbooking)**: Send booking notifications through SMS and WhatsApp.
 
+## Spam protection integrations
+
+Use spam protection integrations to stop bots from creating bookings. FluentBooking uses one provider at a time for all of your booking forms.
+
+- **[Google reCAPTCHA](/google-recaptcha-integration-with-fluentbooking)**: Check visitors with reCAPTCHA Version 3 or the Version 2 tickbox.
+- **[Cloudflare Turnstile](/cloudflare-turnstile-integration-with-fluentbooking)**: Check visitors with a Cloudflare widget on the booking form.
+
 ## Recommended setup order
 
 If you are setting up integrations for the first time, follow this order:
