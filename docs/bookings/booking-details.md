@@ -13,29 +13,31 @@ When you click on the **Booking** tab from the top navigation bar, you’ll see 
 
 ## Booking View
 
-You can see your bookings in two different ways: **List View** and **Calendar View**. If you prefer to see your bookings in a simple list format, select the **List View** option. To see your bookings laid out by date, choose the **Calendar View** from the top-right corner.
+You can see your bookings in two different ways: **List** and **Calendar**. If you prefer to see your bookings in a simple list format, select the **List** option. To see your bookings laid out by date, choose **Calendar** from the top-right corner.
 
 ### List View
 
-By default, the system will show your bookings in **List View** first. Every booking carries a status badge, and each status uses its own color, so you can tell **Pending**, **Confirmed**, and **Cancelled** bookings apart at a glance without reading each label.
+By default, the system will show your bookings in **List** view first. Bookings are grouped by date, and every booking carries a status chip. Each status uses its own color, so you can tell **Pending**, **Completed**, and **Cancelled** bookings apart at a glance without reading each label.
 
-**Upcoming Bookings:** This is where you can find information about your upcoming meetings. To see more details about a particular booking, just click on the **View Details** button.
+Use the tabs on the left to switch between **Upcoming**, **Completed**, **Cancelled**, **All**, and **Recently Booked** bookings. The **Cancelled** tab shows a count of cancelled bookings. On the right, you can search by name or email, filter by **Event Types** or **Events**, and pick whose bookings to show.
+
+**Upcoming Bookings:** This is where you can find information about your upcoming meetings. To see more details about a particular booking, just click on its row.
 
 ![List View](/images/bookings/booking-details/upcoming-booking-scaled.webp)
 
-**Completed Bookings:** If you need a quick overview of your past reservations, visit the **Completed** section. It’s like an archive of your finished bookings. For more detailed information about completed bookings, click the **View Details** button for the particular booking you want to see.
+**Completed Bookings:** If you need a quick overview of your past reservations, visit the **Completed** section. It’s like an archive of your finished bookings. For more detailed information about completed bookings, click the row of the booking you want to see.
 
 ![Complete Bookings](/images/bookings/booking-details/completed-bookings-scaled.webp)
 
-After clicking **View Details**, you can easily delete completed bookings. Simply click the three-dots menu and then select the **Delete** button.
+After opening a booking, you can easily delete completed bookings. Simply click the three-dots menu and then select the **Delete** button.
 
 ![Delete Button](/images/bookings/booking-details/complete-bookings-delete-scaled.webp)
 
-**Latest Bookings:** To check out your most recent reservations, go to the **Latest Booking** area. This is where you'll find the newest bookings.
+**Recently Booked:** To check out your most recent reservations, go to the **Recently Booked** tab. This list is sorted by the date and time each booking was made, so the newest bookings appear first.
 
 ![Latest Bookings](/images/bookings/booking-details/latest-bookings-scaled.webp)
 
-**Cancelled Bookings:** If a meeting is revoked by either the host or the guest, it will be moved to the **Cancelled** section. You can view the meeting time, participant names, and even payment statuses for these events. To review the reason for cancellation or additional participant notes, simply click the **View Details** button.
+**Cancelled Bookings:** If a meeting is revoked by either the host or the guest, it will be moved to the **Cancelled** section. You can view the meeting time, participant names, and even payment statuses for these events. To review the reason for cancellation or additional participant notes, simply click the booking row.
 
 ![Cancelled](/images/bookings/booking-details/cancelled.webp)
 
@@ -45,7 +47,7 @@ After clicking **View Details**, you can easily delete completed bookings. Simpl
 
 ### Calendar View
 
-Want to see all your bookings in one place? Just choose the **Calendar View** option. You can look at your schedule by day, week, or month. Click on any booking to see the details or make quick changes.
+Want to see all your bookings in one place? Just choose the **Calendar** option. You can look at your schedule by day, week, or month. Click on any booking to see the details or make quick changes.
 
 **Day View:** Click on **Day** to see all your bookings for one day, hour by hour. It’s great if you have a busy schedule and want to stay on top of things.
 
@@ -66,11 +68,15 @@ If you need more details for specific events, just click on any day or event and
 
 ## View Specific Host's Bookings
 
-If you'd like to focus on a particular host's bookings, simply select their name from the list in the top-right corner. This provides a quick way to access all the bookings associated with that host.
+If you'd like to focus on a particular host's bookings, open the host dropdown in the top-right corner and select their name. The dropdown starts on **My bookings**. Choose **All hosts** to see every host's bookings, or pick a single host. This provides a quick way to access all the bookings associated with that host.
 
 ![View Specific Host's Bookings](/images/bookings/booking-details/view-specific-host-scaled.webp)
 
 ## Booking Details: 360 view
+
+At the top of every booking, a row of chips tells you where the booking stands. The status chip shows whether it is **Completed**, **Cancelled**, or another state. The payment chip, such as **Payment: Pending**, shows the payment status. A source chip, such as **FluentCart**, shows where the booking came from.
+
+![Booking detail header with status, payment and source chips](/images/bookings/booking-details/booking-detail-header-chips.webp)
 
 Along with the **Invitee** and **Meeting** information, you will have 360-degree insights into the whole booking details, including **upcoming bookings** and 3rd party activities such as **Webhook,FluentCRM, Google Calendar,** and **Zoom**.
 
